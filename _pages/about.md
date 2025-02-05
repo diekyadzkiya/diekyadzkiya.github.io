@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.its.ac.id/matematika/en/home'>Department of Mathematics, Institut Teknologi Sepuluh Nopember</a>. Surabaya, Indonesia.
+subtitle: <a href='https://www.its.ac.id/matematika/en/home'>Department of Mathematics</a>, <a href='https://www.its.ac.id/en/home'>Institut Teknologi Sepuluh Nopember</a>, Indonesia.
 
 profile:
   align: right
