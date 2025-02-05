@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.its.ac.id/matematika/en/home'>Department of Mathematics</a>, <a href='https://www.its.ac.id/en/home'>Institut Teknologi Sepuluh Nopember</a>, Indonesia.
+subtitle: <a href='https://www.its.ac.id/matematika/en'>Department of Mathematics</a>, <a href='https://www.its.ac.id'>Institut Teknologi Sepuluh Nopember</a>, Indonesia.
 
 profile:
   align: right
@@ -22,6 +22,6 @@ I am an Assistant Professor in the Department of Mathematics at Institut Teknolo
 
 Born in Lamongan, in 1983, I received a BSc and an MSc degree, both in the Department of Mathematics from Institut Teknologi Sepuluh Nopember in 2005 and 2008, respectively. In the final project of my bachelor study, I was working on the algorithm analysis of some singular value decomposition algorithms, under the supervision of Erna Apriliani and Bandung Arry Sanjoyo. My master thesis focused on the modeling and analysis of traffic lights using Petri nets, under the guidance of Subiono.
 
-I earned a PhD degree in October 2014, in the Delft Center for Systems and Control ([DCSC](https://www.dcsc.tudelft.nl)), at Delft University of Technology ([TU Delft](https://www.tudelft.nl)), The Netherlands, working on Formal Verification of Max-Plus-Linear Systems with [Alessandro Abate](https://www.cs.ox.ac.uk/people/alessandro.abate/home.html) and [Bart De Schutter](https://www.dcsc.tudelft.nl/~bdeschutter/). Thereafter, I was a PostDoctoral Researcher in the same institution, working with [Manuel Mazo Jr](https://mmazojr.3me.tudelft.nl/) on Networked Control Systems.
+I earned a PhD degree in October 2014, in the Delft Center for Systems and Control ([DCSC](https://www.tudelft.nl/en/me/about/departments/delft-center-for-systems-and-control)), at Delft University of Technology ([TU Delft](https://www.tudelft.nl/en)), The Netherlands, working on Formal Verification of Max-Plus-Linear Systems with [Alessandro Abate](https://www.cs.ox.ac.uk/people/alessandro.abate) and [Bart De Schutter](https://www.deschutter.info/). Thereafter, I was a PostDoctoral Researcher in the same institution, working with [Manuel Mazo Jr](https://mmazojr.3me.tudelft.nl/) on Networked Control Systems.
 
 My research interests include `formal verification` and `max-plus-linear systems`.
