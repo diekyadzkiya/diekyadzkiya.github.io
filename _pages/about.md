@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor $$x$$ in the Department of Mathematics at Institut Teknologi Sepuluh Nopember ([ITS](https://www.its.ac.id)), Indonesia and a member of the [Research Center for Fundamental Science](https://www.its.ac.id/psf).
+I am an Assistant Professor in the Department of Mathematics at Institut Teknologi Sepuluh Nopember ([ITS](https://www.its.ac.id)), Indonesia and a member of the [Research Center for Fundamental Science](https://www.its.ac.id/psf).
 
 Born in Lamongan, in 1983, I received a BSc and an MSc degree, both in the Department of Mathematics from Institut Teknologi Sepuluh Nopember in 2005 and 2008, respectively. In the final project of my bachelor study, I was working on the algorithm analysis of some singular value decomposition algorithms, under the supervision of Erna Apriliani and Bandung Arry Sanjoyo. My master thesis focused on the modeling and analysis of traffic lights using Petri nets, under the guidance of Subiono.
 
