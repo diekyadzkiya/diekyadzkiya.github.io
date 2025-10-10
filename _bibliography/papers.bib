@@ -1,7 +1,78 @@
 ---
 ---
 
-@INPROCEEDINGS{6314945,
+@ARTICLE{adzkiya2014backward,
+  bibtex_show={true},
+  dimensions={true},
+  abbr={WODES},
+  title={Backward Reachability of Autonomous Max-Plus-Linear Systems},
+  journal={IFAC Proceedings Volumes},
+  volume={47},
+  number={2},
+  pages={117-122},
+  year={2014},
+  note={12th IFAC International Workshop on Discrete Event Systems (2014)},
+  issn={1474-6670},
+  doi={https://doi.org/10.3182/20140514-3-FR-4046.00056},
+  url={https://www.sciencedirect.com/science/article/pii/S1474667015373900},
+  author={Dieky Adzkiya and Bart {De Schutter} and Alessandro Abate},
+  keywords={Backward reachability analysis, backward reach tube, max-plus-linear systems, piecewise affine systems, difference-bound matrices, safety and transient analysis},
+  abstract={This work discusses the backward reachability of autonomous Max-Plus-Linear (MPL) systems, a class of continuous-space discrete-event models that are relevant for applications dealing with synchronization and scheduling. Given an MPL system and a continuous set of final states, we characterize and compute its “backward reach tube” and “backward reach sets, ” namely the set of states that can reach the final set within a given event interval or at a fixed event step, respectively. We show that, in both cases, the computation can be done exactly via manipulations of difference-bound matrices. Furthermore, we illustrate the application of the backward reachability computations over safety and transient analysis of MPL systems.},
+  award={Best student paper award finalist},
+  award_name={Student Paper Award}
+}
+
+@INPROCEEDINGS{adzkiya2014forward,
+  bibtex_show={true},
+  dimensions={true},
+  abbr={TACAS},
+  author={Adzkiya, Dieky and De Schutter, Bart and Abate, Alessandro},
+  editor={{\'A}brah{\'a}m, Erika and Havelund, Klaus},
+  title={Forward Reachability Computation for Autonomous Max-Plus-Linear Systems},
+  booktitle={Tools and Algorithms for the Construction and Analysis of Systems},
+  year={2014},
+  publisher={Springer Berlin Heidelberg},
+  address={Berlin, Heidelberg},
+  pages={248--262},
+  abstract={This work discusses the computation of forward reachability for autonomous (that is, deterministic) Max-Plus-Linear (MPL) systems, a class of continuous-space discrete-event models that are relevant for applications dealing with synchronization and scheduling. Given an MPL model and a set of initial states, we characterize and compute its ``reach tube,'' namely the sequential collection of the sets of reachable states (these sets are regarded step-wise as ``reach sets''). We show that the exact computation of the reach sets can be quickly and compactly performed by manipulations of difference-bound matrices, and derive explicit worst-case bounds for the complexity of these operations. The concepts and techniques are implemented within the toolbox VeriSiMPL, and are practically elucidated by a running example. We further display the computational performance of the approach by two concluding numerical benchmarks: the technique comfortably handles reachability computations over twenty-dimensional MPL models (i.e., models with twenty continuous variables), and it clearly outperforms an alternative state-of-the-art approach in the literature.},
+  isbn={978-3-642-54862-8}
+}
+
+@INPROCEEDINGS{adzkiya2013verisimpl,
+  bibtex_show={true},
+  dimensions={true},
+  abbr={QEST},
+  author={Adzkiya, Dieky and Abate, Alessandro},
+  editor={Joshi, Kaustubh and Siegle, Markus and Stoelinga, Mari{\"e}lle and D'Argenio, Pedro R.},
+  title={VeriSiMPL: Verification via biSimulations of MPL Models},
+  booktitle={Quantitative Evaluation of Systems},
+  year={2013},
+  publisher={Springer Berlin Heidelberg},
+  address={Berlin, Heidelberg},
+  pages={274--277},
+  abstract={VeriSiMPL (``very simple'') is a software tool to obtain finite abstractions of Max-Plus-Linear (MPL) models. MPL models (Sect. 2), specified in MATLAB, are abstracted to Labeled Transition Systems (LTS). The LTS abstraction is formally put in relationship with the concrete MPL model via a (bi)simulation relation. The abstraction procedure (Sect. 3) runs in MATLAB and leverages sparse representations, fast manipulations based on vector calculus, and optimized data structures such as Difference-Bound Matrices. LTS abstractions can be exported to structures defined in the PROMELA. This enables the verification of MPL models against temporal specifications within the SPIN model checker (Sect. 4). The toolbox is available at http://sourceforge.net/projects/verisimpl/},
+  isbn={978-3-642-40196-1}
+}
+
+@INPROCEEDINGS{adzkiya2013finite,
+  bibtex_show={true},
+  dimensions={true},
+  abbr={ACC},
+  author={Adzkiya, Dieky and De Schutter, Bart and Abate, Alessandro},
+  booktitle={2013 American Control Conference}, 
+  title={Finite abstractions of nonautonomous Max-Plus-Linear systems}, 
+  year={2013},
+  volume={},
+  number={},
+  pages={4387-4392},
+  keywords={Computational modeling;Partitioning algorithms;Timing;Radio frequency;Vectors;Labeling;Benchmark testing},
+  doi={10.1109/ACC.2013.6580515}}
+
+
+@INPROCEEDINGS{adzkiya2012abstraction,
+  bibtex_show={true},
+  dimensions={true},
+  abbr={ACC},
   author={Adzkiya, Dieky and De Schutter, Bart and Abate, Alessandro},
   booktitle={2012 American Control Conference (ACC)}, 
   title={Abstraction and verification of autonomous Max-Plus-Linear systems}, 
