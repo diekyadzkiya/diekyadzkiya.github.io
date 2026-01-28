@@ -1,7 +1,7 @@
 ---
 layout: post
 title: jadwal mengajar
-date: 2026-01-29 05:08:00-0700
+date: 2026-01-29 05:08:00+0700
 description: jadwal mengajar pada setiap semester
 tags: formatting tables
 categories: sample-posts
