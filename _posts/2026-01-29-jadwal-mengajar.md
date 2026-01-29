@@ -12,7 +12,11 @@ pretty_table: true
 
 ## Semester Genap 2025/2026
 
+<p></p>
+
 ### Nashrul Millah
+
+<p></p>
 
 <table>
   <thead>
