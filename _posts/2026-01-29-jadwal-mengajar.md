@@ -14,22 +14,6 @@ pretty_table: true
 
 ### Nashrul Millah
 
-| Jam   | Waktu   | Senin             | Selasa              | Rabu   | Kamis              | Jum'at             |
-| :---: | :-----: | :---------------: | :-----------------: | :----: | :----------------: | :----------------: |
-| 1     | 07.00   | PD Numerik (A)    |                     |        |                    |                    |
-| 2     | 08.00   | LKMAT 5           |                     |        |                    |                    |
-| 3     | 09.00   | Kalk. Prakt. (A1) |                     |        |                    |                    |
-| 4     | 10.00   | LKMAT 5           |                     |        |                    |                    |
-| 5     | 11.00   |                   |                     |        | PDP (A2)           |                    |
-| 6     | 12.00   |                   |                     |        | Ruang 323A         |                    |
-| 7     | 13.00   | Kalkulus          |                     |        | Statistika II (A2) | Stat. Prakt. (A2A) |
-| 8     | 14.00   | RK A1             |                     |        | Ruang 323A         | LKMAT 6            |
-| 9     | 15.00   | GC-7.10b          | Kalkulus Lanj. (L1) |        |                    |                    |
-| 10    | 16.00   |                   | GC-3.04             |        |                    |                    |
-| 11    | 17.00   |                   |                     |        |                    |                    |
-
-<p></p>
-
 <table>
   <thead>
     <tr>
@@ -153,6 +137,8 @@ pretty_table: true
     </tr>
   </tbody>
 </table>
+
+<p></p>
 
 ## HTML Example
 
