@@ -146,6 +146,7 @@ pretty_table: true
       <th>Hari</th>
       <th>Jam</th>
       <th>Mata Kuliah</th>
+      <th>Kelas</th>
       <th>Ruang</th>
       <th>Keterangan</th>
     </tr>
@@ -153,71 +154,82 @@ pretty_table: true
   <tbody>
     <tr>
       <td rowspan="3">Senin</td>
-      <td>07:00-08:40</td>
-      <td>Kalkulus 2 IUP (30)</td>
-      <td>TW2.403</td>
+      <td>09:00-10:40</td>
+      <td>Kalkulus 2</td>
+      <td>23</td>
+      <td>TW1.303</td>
       <td></td>
     </tr>
     <tr>
       <td>11:00-12:40</td>
-      <td>Matematika (2)</td>
+      <td>Matematika</td>
+      <td>2</td>
       <td>TW1.206</td>
       <td></td>
     </tr>
     <tr>
       <td>13:30-15:10</td>
-      <td>Pengantar Verifikasi Sistem (A)</td>
+      <td>Pengantar Verifikasi Sistem</td>
+      <td>A</td>
       <td>F.111</td>
       <td></td>
     </tr>
     <tr>
       <td rowspan="3">Selasa</td>
       <td>07:00-08:40</td>
-      <td>Kalkulus 2 (41)</td>
+      <td>Kalkulus 2</td>
+      <td>41</td>
       <td>TW1.601</td>
       <td></td>
     </tr>
     <tr>
       <td>09:00-10:40</td>
-      <td>Fungsi Peubah Kompleks (C)</td>
+      <td>Fungsi Peubah Kompleks</td>
+      <td>C</td>
       <td>T.101-A</td>
       <td></td>
     </tr>
     <tr>
       <td>11:00-12:40</td>
-      <td>Aljabar Linier Elementer (D) * Muhammad Syifa’ul Mufid</td>
+      <td>Aljabar Linier Elementer * Muhammad Syifa’ul Mufid</td>
+      <td>D</td>
       <td>TW1.906</td>
       <td></td>
     </tr>
     <tr>
       <td rowspan="2">Rabu</td>
-      <td>07:00-08:40</td>
-      <td>Kalkulus 2 IUP (30)</td>
-      <td>TW2.403</td>
+      <td>09:00-10:40</td>
+      <td>Kalkulus 2</td>
+      <td>23</td>
+      <td>TW1.303</td>
       <td></td>
     </tr>
     <tr>
       <td>11:00-12:40</td>
-      <td>Matematika (2)</td>
+      <td>Matematika</td>
+      <td>2</td>
       <td>TW1.206</td>
       <td></td>
     </tr>
     <tr>
       <td rowspan="3">Kamis</td>
       <td>07:00-08:40</td>
-      <td>Kalkulus 2 (41)</td>
+      <td>Kalkulus 2</td>
+      <td>41</td>
       <td>TW1.601</td>
       <td></td>
     </tr>
     <tr>
       <td>09:00-10:40</td>
-      <td>Fungsi Peubah Kompleks (C)</td>
+      <td>Fungsi Peubah Kompleks</td>
+      <td>C</td>
       <td>T.101-A</td>
       <td></td>
     </tr>
     <tr>
       <td>11:00-12:40</td>
-      <td>Aljabar Linier Elementer (D) * Muhammad Syifa’ul Mufid</td>
+      <td>Aljabar Linier Elementer * Muhammad Syifa’ul Mufid</td>
+      <td>D</td>
       <td>TW1.906</td>
       <td></td>
     </tr>
