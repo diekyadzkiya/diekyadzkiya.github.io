@@ -5,8 +5,6 @@ date: 2026-01-29 05:08:00+0700
 description: jadwal mengajar pada setiap semester
 tags: formatting tables
 categories: sample-posts
-giscus_comments: true
-related_posts: true
 pretty_table: true
 ---
 
@@ -194,7 +192,7 @@ pretty_table: true
       <td>Aljabar Linier Elementer * Muhammad Syifa’ul Mufid</td>
       <td>D</td>
       <td>TW1.906</td>
-      <td></td>
+      <td>Setelah ETS</td>
     </tr>
     <tr>
       <td rowspan="2">Rabu</td>
@@ -231,7 +229,7 @@ pretty_table: true
       <td>Aljabar Linier Elementer * Muhammad Syifa’ul Mufid</td>
       <td>D</td>
       <td>TW1.906</td>
-      <td></td>
+      <td>Setelah ETS</td>
     </tr>
   </tbody>
 </table>
