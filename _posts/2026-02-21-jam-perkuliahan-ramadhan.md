@@ -25,14 +25,12 @@ pretty_table: true
     <tr>
       <td>1</td>
       <td>07:00-07:50</td>
-      <td>07:30-08:10</td>
-      <td>07:30-08:10</td>
+      <td colspan="2">07:30-08:10</td>
     </tr>
     <tr>
       <td>2</td>
       <td>07:50-08:40</td>
-      <td>08:10-08:50</td>
-      <td>08:10-08:50</td>
+      <td colspan="2">08:10-08:50</td>
     </tr>
     <tr>
       <td colspan="3"></td>
@@ -40,14 +38,12 @@ pretty_table: true
     <tr>
       <td>3</td>
       <td>09:00-09:50</td>
-      <td>09:00-09:40</td>
-      <td>09:00-09:40</td>
+      <td colspan="2">09:00-09:40</td>
     </tr>
     <tr>
       <td>4</td>
       <td>09:50-10:40</td>
-      <td>09:40-10:20</td>
-      <td>09:40-10:20</td>
+      <td colspan="2">09:40-10:20</td>
     </tr>
     <tr>
       <td colspan="3"></td>
@@ -55,14 +51,12 @@ pretty_table: true
     <tr>
       <td>5</td>
       <td>11:00-11:50</td>
-      <td>10:30-11:10</td>
-      <td>10:30-11:10</td>
+      <td colspan="2">10:30-11:10</td>
     </tr>
     <tr>
       <td>6</td>
       <td>11:50-12:40</td>
-      <td>11:10-11:50</td>
-      <td>11:10-11:50</td>
+      <td colspan="2">11:10-11:50</td>
     </tr>
     <tr>
       <td colspan="3"></td>
