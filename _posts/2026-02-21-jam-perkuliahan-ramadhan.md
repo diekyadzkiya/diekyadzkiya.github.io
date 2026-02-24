@@ -35,7 +35,7 @@ pretty_table: true
       <td>08:10-08:50</td>
     </tr>
     <tr>
-      <td colspan="3"></td>
+      <td colspan="4"></td>
     </tr>
     <tr>
       <td>3</td>
@@ -50,7 +50,7 @@ pretty_table: true
       <td>09:40-10:20</td>
     </tr>
     <tr>
-      <td colspan="3"></td>
+      <td colspan="4"></td>
     </tr>
     <tr>
       <td>5</td>
@@ -65,7 +65,7 @@ pretty_table: true
       <td>11:10-11:50</td>
     </tr>
     <tr>
-      <td colspan="3"></td>
+      <td colspan="4"></td>
     </tr>
     <tr>
       <td>7</td>
@@ -80,7 +80,7 @@ pretty_table: true
       <td>13:40-14:20</td>
     </tr>
     <tr>
-      <td colspan="3"></td>
+      <td colspan="4"></td>
     </tr>
     <tr>
       <td>9</td>
