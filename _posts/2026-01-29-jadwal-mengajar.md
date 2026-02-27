@@ -15,122 +15,66 @@ pretty_table: true
 <table>
   <thead>
     <tr>
+      <th>Hari</th>
       <th>Jam</th>
-      <th>Waktu</th>
-      <th>Senin</th>
-      <th>Selasa</th>
-      <th>Rabu</th>
-      <th>Kamis</th>
-      <th>Jumat</th>
+      <th>Mata Kuliah</th>
+      <th>Kelas</th>
+      <th>Ruang</th>
+      <th>Keterangan</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>1</td>
-      <td>07:00-07:50</td>
-      <td>PD Numerik (A)</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td rowspan="3">Senin</td>
+      <td>07:00-08:40</td>
+      <td>Persamaan Diferensial Numerik</td>
+      <td>A</td>
+      <td>LKMAT 5</td>
+      <td>Sebelum ETS</td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>07:50-08:40</td>
+      <td>09:00-10:40</td>
+      <td>Kalkulus Praktikum</td>
+      <td>A1</td>
       <td>LKMAT 5</td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>08:50-09:40</td>
-      <td>Kalk. Prakt. (A1)</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>09:40-10:30</td>
-      <td>LKMAT 5</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>10:40-11:30</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>PDP (A2)</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>11:30-12:20</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>Ruang 323A</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>13:00-13:50</td>
+      <td>13:00-15:30</td>
       <td>Kalkulus</td>
-      <td></td>
-      <td></td>
-      <td>Statistika II (A2)</td>
-      <td>Stat. Prakt. (A2A)</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>13:50-14:40</td>
       <td>RK A1</td>
-      <td></td>
-      <td></td>
-      <td>Ruang 323A</td>
-      <td>LKMAT 6</td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>14:50-15:40</td>
       <td>GC-7.10b</td>
-      <td>Kalkulus Lanj. (L1)</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Sebelum ETS</td>
     </tr>
     <tr>
-      <td>10</td>
-      <td>15:40-16:30</td>
-      <td></td>
+      <td>Selasa</td>
+      <td>15:00-17:30</td>
+      <td>Kalkulus Lanjut</td>
+      <td>L1</td>
       <td>GC-3.04</td>
       <td></td>
-      <td></td>
+    </tr>
+    <tr>
+      <td rowspan="2">Kamis</td>
+      <td>11:00-12:40</td>
+      <td>Persamaan Diferensial Parsial</td>
+      <td>A2</td>
+      <td>323A</td>
       <td></td>
     </tr>
     <tr>
-      <td>11</td>
-      <td>16:40-17:30</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>13:00-14:40</td>
+      <td>Statistika II</td>
+      <td>A2</td>
+      <td>323A</td>
       <td></td>
     </tr>
     <tr>
-      <td>12</td>
-      <td>17:30-18:20</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Jumat</td>
+      <td>13:00-14:40</td>
+      <td>Statistika Praktikum</td>
+      <td>A2A</td>
+      <td>LKMAT 6</td>
       <td></td>
     </tr>
   </tbody>
