@@ -34,7 +34,7 @@ pretty_table: true
     </tr>
     <tr>
       <td>09:00-10:40</td>
-      <td>Kalkulus Praktikum</td>
+      <td>Kalkulus Praktikum * Muchammad Yusuf Syaifuddin</td>
       <td>A1</td>
       <td>LKMAT 5</td>
       <td></td>
@@ -72,7 +72,7 @@ pretty_table: true
     <tr>
       <td>Jumat</td>
       <td>13:00-14:40</td>
-      <td>Statistika Praktikum</td>
+      <td>Statistika Praktikum * Edi Winarko</td>
       <td>A2A</td>
       <td>LKMAT 6</td>
       <td></td>
