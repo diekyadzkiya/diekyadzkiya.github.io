@@ -3,8 +3,9 @@ layout: page
 title: aljabar linier elementer
 description: another without an image
 img:
-importance: 3
-category: fun
+importance: 1
+category: s1
+giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.

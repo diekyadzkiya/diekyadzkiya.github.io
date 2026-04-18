@@ -5,7 +5,7 @@ permalink: /teaching/
 description: A growing collection of course materials.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [skpb, s1]
 horizontal: false
 ---
 

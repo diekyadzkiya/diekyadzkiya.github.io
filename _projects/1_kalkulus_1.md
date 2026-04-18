@@ -4,8 +4,8 @@ title: kalkulus 1
 description: with background image
 img: assets/img/12.jpg
 importance: 1
-category: work
-related_publications: true
+category: skpb
+giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.

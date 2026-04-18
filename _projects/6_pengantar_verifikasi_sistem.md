@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 6
-description: pengantar verifikasi sistem
+title: pengantar verifikasi sistem
+description: a description
 img:
-importance: 4
-category: fun
+importance: 3
+category: s1
+giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.
