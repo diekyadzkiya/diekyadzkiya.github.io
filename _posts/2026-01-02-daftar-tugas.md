@@ -37,12 +37,13 @@ categories: sample-posts
 ### Lainnya
 
 <ul>
-  <li>Automate the Boring Stuff with Python, Chapter 2, Mixing Boolean and Comparison Operators</li>
-  <li>Control of Discrete-Event Systems, p. 453</li>
-  <li>Duolingo, French</li>
+  <li>Automate the Boring Stuff with Python: Chapter 2, Mixing Boolean and Comparison Operators</li>
+  <li>Control of Discrete-Event Systems: p. 453</li>
+  <li>Duolingo: French</li>
   <li>ME 702 - Computational Fluid Dynamics</li>
   <li>FUNSAM, menghubungi Pak Grasianto</li>
-  <li>IndoMS Jatim, Menyusun proposal</li>
+  <li>IndoMS Jatim: Menyusun proposal</li>
   <li>FGD Kemenkeu</li>
   <li>Sharing Session UNDIP</li>
+  <li>Takmir: berdiskusi dengan Pak Warsino dengan mengajak Pak Faizin</li>
 </ul>
