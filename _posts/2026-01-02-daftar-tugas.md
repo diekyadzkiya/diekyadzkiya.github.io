@@ -17,6 +17,7 @@ categories: sample-posts
     <li>ETS Kalkulus 2 (23)</li>
     <li>ETS Matematika (2)</li>
     <li>ETS Kalkulus 2 (41)</li>
+    <li>ETS Fungsi Peubah Kompleks (C)</li>
     <li>ETS Pengantar Verifikasi Sistem (A)</li>
   </ul>
 </ul>
@@ -26,16 +27,20 @@ categories: sample-posts
 <ul>
   <li>PHC Nusantara 2026</li>
   <li>Strategic Research Grant 2026</li>
+  <li>Penelitian Fundamental Reguler 2025</li>
+  <li>Penelitian Dasar Unggulan Perguruan Tinggi 2023</li>
+  <li>Paper Ghulam</li>
 </ul>
 
 ### Pengabdian
 
-# Lainnya
+### Lainnya
 
 <ul>
   <li>Automate the Boring Stuff with Python, Chapter 2, Mixing Boolean and Comparison Operators</li>
   <li>Control of Discrete-Event Systems, p. 453</li>
   <li>Duolingo, French</li>
+  <li>ME 702 - Computational Fluid Dynamics</li>
   <li>FUNSAM, menghubungi Pak Grasianto</li>
   <li>IndoMS Jatim, Menyusun proposal</li>
   <li>FGD Kemenkeu</li>
