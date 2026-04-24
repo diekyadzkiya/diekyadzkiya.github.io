@@ -25,7 +25,7 @@ categories: sample-posts
 ### Penelitian
 
 <ul>
-  <li>PHC Nusantara 2026</li>
+  <li>PHC Nusantara 2026: Characterization of Delays</li>
   <li>Strategic Research Grant 2026</li>
   <li>Penelitian Fundamental Reguler 2025</li>
   <li>Penelitian Dasar Unggulan Perguruan Tinggi 2023</li>
