@@ -37,7 +37,7 @@ categories: sample-posts
 ### Lainnya
 
 <ul>
-  <li>Automate the Boring Stuff with Python: Chapter 2, A Short Program: Opposite Day</li>
+  <li>Automate the Boring Stuff with Python: Chapter 3</li>
   <li>Control of Discrete-Event Systems: p. 453</li>
   <li>Duolingo: French</li>
   <li>ME 702 - Computational Fluid Dynamics</li>
