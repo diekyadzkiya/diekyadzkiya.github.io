@@ -37,7 +37,7 @@ categories: sample-posts
 ### Lainnya
 
 <ul>
-  <li>Automate the Boring Stuff with Python: Chapter 4, The None Value</li>
+  <li>Automate the Boring Stuff with Python: Chapter 4, The Call Stack</li>
   <li>Control of Discrete-Event Systems: hal. 453</li>
   <li>Duolingo: French</li>
   <li>ME 702 - Computational Fluid Dynamics</li>
