@@ -8,7 +8,6 @@ categories: sample-posts
 pretty_table: true
 ---
 
-
 <table>
   <thead>
     <tr>
