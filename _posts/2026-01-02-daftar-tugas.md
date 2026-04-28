@@ -47,7 +47,6 @@ categories: sample-posts
   <li>Sharing Session UNDIP</li>
   <li>Takmir</li>
   <ul>
-    <li>Mengirimkan 2 surat donator ke Mas Hazal. Menunggu update ttd Pak Mashuri.</li>
     <li>Berdiskusi dengan Pak Warsino dengan mengajak Pak Faizin</li>
   </ul>
 </ul>
