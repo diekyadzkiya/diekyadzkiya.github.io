@@ -20,6 +20,14 @@ categories: sample-posts
     <li>ETS Fungsi Peubah Kompleks (C)</li>
     <li>ETS Pengantar Verifikasi Sistem (A)</li>
   </ul>
+  <li>Bimbingan</li>
+  <ul>
+    <li>Tri Utomo</li>
+    <li>Acep Taryana</li>
+    <li>Imam Fauzi</li>
+    <li>Mohammad Rohim</li>
+    <li>Muhammad Farisan Avianto</li>
+  </ul>
 </ul>
 
 ### Penelitian
