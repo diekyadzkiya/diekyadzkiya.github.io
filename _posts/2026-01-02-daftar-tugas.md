@@ -24,7 +24,7 @@ categories: sample-posts
   <ul>
     <li>Tri Utomo</li>
     <li>Acep Taryana</li>
-    <li>Imam Fauzi</li>
+    <li>Imam Fauzi: Program MPC untuk Sistem Konvensional</li>
     <li>Mohammad Rohim</li>
     <li>Muhammad Farisan Avianto</li>
   </ul>
