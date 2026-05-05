@@ -33,7 +33,12 @@ categories: sample-posts
 ### Penelitian
 
 <ul>
-  <li>PHC Nusantara 2026: Characterization of Delays, myITS WCU (WA Pak Fahim)</li>
+  <li>PHC Nusantara 2026</li>
+  <ul>
+    <li>Characterization of Delays</li>
+    <li>myITS WCU (WA Pak Fahim)</li>
+    <li>Paper Pak Subiono</li>
+  </ul>
   <li>Strategic Research Grant 2026</li>
   <li>Penelitian Fundamental Reguler 2025</li>
   <li>Penelitian Dasar Unggulan Perguruan Tinggi 2023</li>
@@ -45,12 +50,27 @@ categories: sample-posts
 ### Lainnya
 
 <ul>
-  <li>Automate the Boring Stuff with Python: Chapter 4, Exception Handling</li>
-  <li>Control of Discrete-Event Systems: hal. 453</li>
-  <li>Duolingo: French</li>
+  <li>Automate the Boring Stuff with Python</li>
+  <ul>
+    <li>Chapter 4, Exception Handling</li>
+  </ul>
+  <li>Control of Discrete-Event Systems</li>
+  <ul>
+    <li>hal. 453</li>
+  </ul>
+  <li>Duolingo</li>
+  <ul>
+    <li>French</li>
+  </ul>
   <li>ME 702 - Computational Fluid Dynamics</li>
-  <li>FUNSAM, menghubungi Pak Grasianto</li>
-  <li>IndoMS Jatim: Menyusun proposal</li>
+  <li>FUNSAM</li>
+  <ul>
+    <li>Menghubungi Pak Grasianto</li>
+  </ul>
+  <li>IndoMS Jatim</li>
+  <ul>
+    <li>Menyusun proposal</li>
+  </ul>
   <li>FGD Kemenkeu</li>
   <li>Sharing Session UNDIP</li>
   <li>Takmir</li>
