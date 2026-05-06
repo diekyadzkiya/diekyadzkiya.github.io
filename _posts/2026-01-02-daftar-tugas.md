@@ -104,6 +104,7 @@ categories: sample-posts
   <li>FUNSAM</li>
   <ul>
     <li>Menghubungi Pak Grasianto. Isi form.</li>
+    <li><a href='https://elib.its.ac.id/funsam'>Website</a> tidak dapat diakses. Lapor ke service desk.</li>
   </ul>
   <li>IndoMS Jatim</li>
   <ul>
