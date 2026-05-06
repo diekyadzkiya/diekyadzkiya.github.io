@@ -43,6 +43,10 @@ categories: sample-posts
   <li>Penelitian Fundamental Reguler 2025</li>
   <li>Penelitian Dasar Unggulan Perguruan Tinggi 2023</li>
   <li>Paper Ghulam</li>
+  <li>Review</li>
+  <ul>
+    <li><a href='https://its.id/PanduanReviewerGrantIFC2026'>Innovation for Community 2026</a>. Deadline Rabu, 13 Mei 2026 pukul 12.00 WIB.</li>
+  </ul>
 </ul>
 
 ### Pengabdian
