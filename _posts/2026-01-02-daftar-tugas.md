@@ -10,24 +10,58 @@ categories: sample-posts
 ### Pengajaran
 
 <ul>
-  <li>Menyiapkan Aljabar Linier Elementer</li>
-  <li>Koreksi</li>
+  <li>Mata Kuliah</li>
   <ul>
-    <li>Kuis 1 Susulan Fungsi Peubah Kompleks (C)</li>
-    <li>ETS Kalkulus 2 (23)</li>
-    <li>ETS Matematika (2)</li>
-    <li>ETS Kalkulus 2 (41)</li>
-    <li>ETS Fungsi Peubah Kompleks (C)</li>
-    <li>ETS Pengantar Verifikasi Sistem (A)</li>
+    <li>Kalkulus 2 (23)</li>
+    <ul>
+      <li>ETS</li>
+      <li>Kuis 2</li>
+      <li>EAS</li>
+    </ul>
+    <li>Matematika (2)</li>
+    <ul>
+      <li>ETS</li>
+      <li>Kuis 2</li>
+      <li>EAS</li>
+    </ul>
+    <li>Kalkulus 2 (41)</li>
+    <ul>
+      <li>ETS</li>
+      <li>Kuis 2</li>
+      <li>EAS</li>
+    </ul>
+    <li>Fungsi Peubah Kompleks (C)</li>
+    <ul>
+      <li>Belajar</li>
+      <li>Kuis 1 susulan</li>
+      <li>ETS</li>
+      <li>Kuis 2</li>
+      <li>EAS</li>
+    </ul>
+    <li>Aljabar Linier ELementer (D)</li>
+    <ul>
+      <li>Belajar</li>
+      <li>Kuis 2</li>
+      <li>EAS</li>
+    </ul>
+    <li>Pengantar Verifikasi Sistem (A)</li>
+    <ul>
+      <li>ETS</li>
+      <li>EAS</li>
+    </ul>
   </ul>
   <li>Bimbingan</li>
   <ul>
     <li>Tri Utomo</li>
     <li>Acep Taryana</li>
-    <li>Imam Fauzi: Program MPC untuk Sistem Konvensional</li>
+    <li>Imam Fauzi</li>
+    <ul>
+      <li>Program MPC untuk sistem konvensional</li>
+    </ul>
     <li>Mohammad Rohim</li>
     <li>Muhammad Farisan Avianto</li>
   </ul>
+  <li>Penguji</li>
 </ul>
 
 ### Penelitian
@@ -56,11 +90,11 @@ categories: sample-posts
 <ul>
   <li>Automate the Boring Stuff with Python</li>
   <ul>
-    <li>Chapter 4, Exception Handling</li>
+    <li>Chapter 5</li>
   </ul>
   <li>Control of Discrete-Event Systems</li>
   <ul>
-    <li>hal. 453</li>
+    <li>hal. 455</li>
   </ul>
   <li>Duolingo</li>
   <ul>
@@ -69,7 +103,7 @@ categories: sample-posts
   <li>ME 702 - Computational Fluid Dynamics</li>
   <li>FUNSAM</li>
   <ul>
-    <li>Menghubungi Pak Grasianto</li>
+    <li>Menghubungi Pak Grasianto. Isi form.</li>
   </ul>
   <li>IndoMS Jatim</li>
   <ul>
