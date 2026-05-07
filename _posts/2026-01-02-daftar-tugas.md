@@ -77,6 +77,9 @@ categories: sample-posts
   </ul>
   <li>Strategic Research Grant 2026</li>
   <li>Penelitian Fundamental Reguler 2025</li>
+  <ul>
+    <li>Publikasi Tugas Akhir Harits</li>
+  </ul>
   <li>Penelitian Dasar Unggulan Perguruan Tinggi 2023</li>
   <li>Paper Ghulam</li>
   <li>Review</li>
@@ -116,6 +119,6 @@ categories: sample-posts
   <li>Sharing Session UNDIP</li>
   <li>Takmir</li>
   <ul>
-    <li>Berdiskusi dengan Pak Warsino dengan mengajak Pak Faizin</li>
+    <li>Sistem Informasi Keuangan Masjid: berdiskusi dengan Pak Warsino dan Pak Faizin (07/05/2026)</li>
   </ul>
 </ul>
