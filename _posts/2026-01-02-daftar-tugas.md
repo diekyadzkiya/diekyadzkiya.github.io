@@ -73,7 +73,7 @@ categories: sample-posts
     <li>Characterization of Delays</li>
     <li>myITS WCU (WA Pak Fahim)</li>
     <li>Paper Pak Subiono</li>
-    <li>Revisi Proposal dan RAB</li>
+    <li>Revisi Proposal dan RAB. Deadline Selasa, 12 Mei 2026.</li>
   </ul>
   <li>Strategic Research Grant 2026</li>
   <li>Penelitian Fundamental Reguler 2025</li>
@@ -119,6 +119,17 @@ categories: sample-posts
   <li>Sharing Session UNDIP</li>
   <li>Takmir</li>
   <ul>
-    <li>Sistem Informasi Keuangan Masjid: berdiskusi dengan Pak Warsino dan Pak Faizin (07/05/2026)</li>
+    <li>Diskusi dengan Pak Warsino dan Pak Faizin tentang Sistem Informasi Keuangan Masjid (07/05/2026)</li>
+  </ul>
+  <li>Pelimpahan porsi haji</li>
+  <li>Silaturahmi</li>
+  <ul>
+    <li>Mas Adi</li>
+    <li>Ipin dan Mik Kulon</li>
+    <li>Mik Kho dan Aba Jupri</li>
+    <li>Yudi dan Iin</li>
+    <li>Bek Um</li>
+    <li>Pak Faqih</li>
+    <li>Pak Mashuri</li>
   </ul>
 </ul>
