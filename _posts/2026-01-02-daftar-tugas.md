@@ -57,6 +57,7 @@ categories: sample-posts
     <li>Imam Fauzi</li>
     <ul>
       <li>Program MPC untuk sistem konvensional</li>
+      <li>Metode BFGS untuk MPC nonlinier</li>
     </ul>
     <li>Mohammad Rohim</li>
     <li>Muhammad Farisan Avianto</li>
@@ -72,6 +73,7 @@ categories: sample-posts
     <li>Characterization of Delays</li>
     <li>myITS WCU (WA Pak Fahim)</li>
     <li>Paper Pak Subiono</li>
+    <li>Revisi Proposal dan RAB</li>
   </ul>
   <li>Strategic Research Grant 2026</li>
   <li>Penelitian Fundamental Reguler 2025</li>
