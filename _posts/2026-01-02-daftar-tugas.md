@@ -78,6 +78,9 @@ categories: sample-posts
   </ul>
   <li>Strategic Research Grant 2026</li>
   <li>Penelitian Fundamental Reguler 2025</li>
+  <ul>
+    <li>Publikasi Tugas Akhir Harits</li>
+  </ul>
   <li>Penelitian Dasar Unggulan Perguruan Tinggi 2023</li>
   <li>Paper Ghulam</li>
   <li>Review</li>
@@ -93,7 +96,7 @@ categories: sample-posts
 <ul>
   <li>Automate the Boring Stuff with Python</li>
   <ul>
-    <li>Chapter 5</li>
+    <li>Chapter 5, Logging</li>
   </ul>
   <li>Control of Discrete-Event Systems</li>
   <ul>
@@ -117,6 +120,17 @@ categories: sample-posts
   <li>Sharing Session UNDIP</li>
   <li>Takmir</li>
   <ul>
-    <li>Berdiskusi dengan Pak Warsino dengan mengajak Pak Faizin</li>
+    <li>Diskusi dengan Pak Warsino dan Pak Faizin tentang Sistem Informasi Keuangan Masjid (07/05/2026)</li>
+  </ul>
+  <li>Pelimpahan porsi haji</li>
+  <li>Silaturahmi</li>
+  <ul>
+    <li>Mas Adi</li>
+    <li>Ipin dan Mik Kulon</li>
+    <li>Mik Kho dan Aba Jupri</li>
+    <li>Yudi dan Iin</li>
+    <li>Bek Um</li>
+    <li>Pak Faqih</li>
+    <li>Pak Mashuri</li>
   </ul>
 </ul>
