@@ -95,7 +95,7 @@ categories: sample-posts
 <ul>
   <li>Automate the Boring Stuff with Python</li>
   <ul>
-    <li>Chapter 5</li>
+    <li>Chapter 5, Logging</li>
   </ul>
   <li>Control of Discrete-Event Systems</li>
   <ul>
