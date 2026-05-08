@@ -73,7 +73,8 @@ categories: sample-posts
     <li>Characterization of Delays</li>
     <li>myITS WCU (WA Pak Fahim)</li>
     <li>Paper Pak Subiono</li>
-    <li>Revisi Proposal dan RAB</li>
+    <li>Revisi Proposal dan RAB di BIMA. Deadline Selasa, 12 Mei 2026</li>
+    <li>Penandatanganan Kontrak di myITS Research. Deadline 19 Mei 2026 pukul 15:00 WIB.</li>
   </ul>
   <li>Strategic Research Grant 2026</li>
   <li>Penelitian Fundamental Reguler 2025</li>
