@@ -91,6 +91,13 @@ categories: sample-posts
 
 ### Pengabdian
 
+<ul>
+  <li>IJCSAM</li>
+  <ul>
+    <li>Bu Valeriana, Pak Isa dan Pak Subchan perlu login untuk memutuskan</li>
+  </ul>
+</ul>
+
 ### Lainnya
 
 <ul>
