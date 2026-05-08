@@ -95,6 +95,7 @@ categories: sample-posts
   <li>IJCSAM</li>
   <ul>
     <li>Bu Valeriana, Pak Isa dan Pak Subchan perlu login untuk memutuskan</li>
+    <li>Reviewer Graphs with the highest locating rainbow vertex connection number adalah Bu Rafiantika dan Bu Robiatul</li>
   </ul>
 </ul>
 
