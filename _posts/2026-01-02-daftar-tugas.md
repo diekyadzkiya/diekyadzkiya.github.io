@@ -140,4 +140,6 @@ categories: sample-posts
     <li>Pak Mashuri</li>
   </ul>
   <li>Balik nama PDAM dan PLN Putra Bangsa dan Gunung Anyar</li>
+  <li>Lihat video Youtube Pak Moses di halaman tautan</li>
+  <li>Overleaf Community Edition</li>
 </ul>
