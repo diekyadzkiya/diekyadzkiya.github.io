@@ -75,6 +75,7 @@ categories: sample-posts
     <li>Paper Pak Subiono</li>
     <li>Revisi Proposal dan RAB di BIMA. Deadline Selasa, 12 Mei 2026</li>
     <li>Penandatanganan Kontrak di myITS Research. Deadline 19 Mei 2026 pukul 15:00 WIB.</li>
+    <li>Akses ke Gitlab/Mattermost NU oleh Pak Syifa'ul, Pak Ilham dan Pak Subiono</li>
   </ul>
   <li>Strategic Research Grant 2026</li>
   <li>Penelitian Fundamental Reguler 2025</li>
@@ -84,9 +85,6 @@ categories: sample-posts
   <li>Penelitian Dasar Unggulan Perguruan Tinggi 2023</li>
   <li>Paper Ghulam</li>
   <li>Review</li>
-  <ul>
-    <li><a href='https://its.id/PanduanReviewerGrantIFC2026'>Innovation for Community 2026</a>. Deadline Rabu, 13 Mei 2026 pukul 12.00 WIB.</li>
-  </ul>
 </ul>
 
 ### Pengabdian
@@ -141,4 +139,5 @@ categories: sample-posts
     <li>Pak Faqih</li>
     <li>Pak Mashuri</li>
   </ul>
+  <li>Balik nama PDAM dan PLN Putra Bangsa dan Gunung Anyar</li>
 </ul>
