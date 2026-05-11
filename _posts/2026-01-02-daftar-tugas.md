@@ -142,4 +142,5 @@ categories: sample-posts
   <li>Balik nama PDAM dan PLN Putra Bangsa dan Gunung Anyar</li>
   <li>Lihat video Youtube Pak Moses di halaman tautan</li>
   <li>Overleaf Community Edition</li>
+  <li>Menanyakan kopra ke Bank Mandiri</li>
 </ul>
