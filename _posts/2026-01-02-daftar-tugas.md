@@ -143,4 +143,5 @@ categories: sample-posts
   <li>Lihat video Youtube Pak Moses di halaman tautan</li>
   <li>Overleaf Community Edition</li>
   <li>Menanyakan kopra ke Bank Mandiri</li>
+  <li>Daftar Ketua TEP 2026, lihat starred messages di WA</li>
 </ul>
