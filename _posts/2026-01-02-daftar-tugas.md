@@ -76,6 +76,7 @@ categories: sample-posts
     <li>Revisi Proposal dan RAB di BIMA. Deadline Selasa, 12 Mei 2026</li>
     <li>Penandatanganan Kontrak di myITS Research. Deadline 19 Mei 2026 pukul 15:00 WIB.</li>
     <li>Akses ke Gitlab/Mattermost NU oleh Pak Syifa'ul, Pak Ilham dan Pak Subiono</li>
+    <li>Mempersiapkan surat setneg</li>
   </ul>
   <li>Strategic Research Grant 2026</li>
   <li>Penelitian Fundamental Reguler 2025</li>
@@ -94,6 +95,7 @@ categories: sample-posts
   <ul>
     <li>Bu Valeriana, Pak Isa dan Pak Subchan perlu login untuk memutuskan</li>
     <li>Reviewer Graphs with the highest locating rainbow vertex connection number adalah Bu Rafiantika dan Bu Robiatul</li>
+    <li>Mengganti uang konsumsi rapat IJCSAM 12/05/2026 ke Pak Dhika</li>
   </ul>
 </ul>
 
