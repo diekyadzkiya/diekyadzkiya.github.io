@@ -17,6 +17,10 @@ pretty_table: true
   </thead>
   <tbody>
     <tr>
+      <td>10/05/2026</td>
+      <td>Membayar pajak mobil</td>
+    </tr>
+    <tr>
       <td>19/05/2026</td>
       <td>Penandatanganan kontrak PHC Nusantara</td>
     </tr>
@@ -35,6 +39,18 @@ pretty_table: true
     <tr>
       <td>01/07/2026</td>
       <td>Deadline registrasi Industrial Mathematics Week</td>
+    </tr>
+    <tr>
+      <td>03/02/2027</td>
+      <td>Membayar pajak motor</td>
+    </tr>
+    <tr>
+      <td>03/02/2030</td>
+      <td>STNK motor</td>
+    </tr>
+    <tr>
+      <td>10/05/2030</td>
+      <td>STNK mobil</td>
     </tr>
   </tbody>
 </table>
