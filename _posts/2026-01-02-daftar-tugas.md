@@ -73,7 +73,7 @@ categories: sample-posts
     <li>Characterization of Delays</li>
     <li>myITS WCU (WA Pak Fahim)</li>
     <li>Paper Pak Subiono</li>
-    <li>Revisi Proposal dan RAB di BIMA. Deadline Selasa, 12 Mei 2026</li>
+    <li>Revisi Proposal dan RAB di BIMA. Menunggu informasi dari Mbak Restu.</li>
     <li>Penandatanganan Kontrak di myITS Research. Deadline 19 Mei 2026 pukul 15:00 WIB.</li>
     <li>Akses ke Gitlab/Mattermost NU oleh Pak Syifa'ul, Pak Ilham dan Pak Subiono</li>
     <li>Mempersiapkan surat setneg</li>
@@ -95,7 +95,6 @@ categories: sample-posts
   <ul>
     <li>Bu Valeriana, Pak Isa dan Pak Subchan perlu login untuk memutuskan</li>
     <li>Reviewer Graphs with the highest locating rainbow vertex connection number adalah Bu Rafiantika dan Bu Robiatul</li>
-    <li>Mengganti uang konsumsi rapat IJCSAM 12/05/2026 ke Pak Dhika</li>
   </ul>
 </ul>
 
@@ -133,17 +132,13 @@ categories: sample-posts
   <li>Pelimpahan porsi haji</li>
   <li>Silaturahmi</li>
   <ul>
-    <li>Mas Adi</li>
-    <li>Ipin dan Mik Kulon</li>
-    <li>Mik Kho dan Aba Jupri</li>
-    <li>Yudi dan Iin</li>
-    <li>Bek Um</li>
     <li>Pak Faqih</li>
     <li>Pak Mashuri</li>
+    <li>Mas Joko dan Mbak Resty: sekalian tilik bayi</li>
   </ul>
   <li>Balik nama PDAM dan PLN Putra Bangsa dan Gunung Anyar</li>
   <li>Lihat video Youtube Pak Moses di halaman tautan</li>
   <li>Overleaf Community Edition</li>
-  <li>Menanyakan kopra ke Bank Mandiri</li>
+  <li>Menanyakan tutorial kopra ke staf Bank Mandiri</li>
   <li>Daftar Ketua TEP 2026, lihat starred messages di WA</li>
 </ul>
