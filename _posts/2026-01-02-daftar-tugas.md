@@ -141,4 +141,5 @@ categories: sample-posts
   <li>Overleaf Community Edition</li>
   <li>Menanyakan tutorial kopra ke staf Bank Mandiri</li>
   <li>Daftar Ketua TEP 2026, lihat starred messages di WA</li>
+  <li>Revisi Buku Kalkulus</li>
 </ul>

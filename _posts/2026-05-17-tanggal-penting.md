@@ -52,5 +52,9 @@ pretty_table: true
       <td>10/05/2030</td>
       <td>STNK mobil</td>
     </tr>
+    <tr>
+      <td>14/06/2030</td>
+      <td>SIM Dieky</td>
+    </tr>
   </tbody>
 </table>
