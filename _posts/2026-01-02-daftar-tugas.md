@@ -139,7 +139,6 @@ categories: sample-posts
   <li>Balik nama PDAM dan PLN Putra Bangsa dan Gunung Anyar</li>
   <li>Lihat video Youtube Pak Moses di halaman tautan</li>
   <li>Overleaf Community Edition</li>
-  <li>Menanyakan tutorial kopra ke staf Bank Mandiri</li>
-  <li>Daftar Ketua TEP 2026, lihat starred messages di WA</li>
+  <li>Tanya Pak Anto tentang WC yang mampet</li>
   <li>Revisi Buku Kalkulus</li>
 </ul>

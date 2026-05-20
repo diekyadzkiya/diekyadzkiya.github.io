@@ -21,8 +21,8 @@ pretty_table: true
       <td>Membayar pajak mobil</td>
     </tr>
     <tr>
-      <td>19/05/2026</td>
-      <td>Penandatanganan kontrak PHC Nusantara</td>
+      <td>29/05/2026</td>
+      <td>Mengurus surat setneg</td>
     </tr>
     <tr>
       <td>Akhir Mei 2026</td>
