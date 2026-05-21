@@ -1,6 +1,6 @@
 ---
 layout: post
-title: visa perancis
+title: perjalanan dinas LN Kemsetneg
 date: 2026-01-03 09:28:00+0700
 description: pengajuan di SIM perjalanan dinas LN Kemsetneg
 tags: formatting links
