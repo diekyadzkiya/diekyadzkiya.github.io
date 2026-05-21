@@ -1,8 +1,8 @@
 ---
 layout: post
-title: perjalanan dinas LN Kemsetneg
-date: 2026-01-03 09:28:00+0700
-description: pengajuan di SIM perjalanan dinas LN Kemsetneg
+title: perjalanan dinas luar negeri
+date: 2026-01-04 09:28:00+0700
+description: pengajuan di SIM perjalanan dinas luar negeri Kemsetneg
 tags: formatting links
 categories: sample-posts
 ---
