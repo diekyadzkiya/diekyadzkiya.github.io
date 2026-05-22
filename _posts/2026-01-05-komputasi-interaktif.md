@@ -8,23 +8,4 @@ categories: sample-posts
 html: true
 ---
 
-Berikut adalah komputasi interaktif menggunakan SageMathCell:
-
-<!-- Kotak Eksekusi Sage -->
-<div class="sage">
-  <script type="text/x-sage">
-A = matrix([[1, 2], [3, 4]])
-print("Matriks A:")
-show(A)
-  </script>
-</div>
-
-<!-- Letakkan skrip pemanggil di bagian paling bawah agar jQuery sudah termuat sempurna -->
-<script src="https://sagemath.org"></script>
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-    if (typeof sagecell !== 'undefined') {
-        sagecell.makeSagecell({inputLocation: 'div.sage', evalButtonText: 'Hitung'});
-    }
-});
-</script>
+<iframe src="https://sagecell.sagemath.org/?z=eJyFj8sKgzAQRfeC_3C7MsGp0C4FvyS4iBofYG2Its3nd0ItLvpwVsO5986jMS3cIrzM4whcHgW8yvPjqXwBZ2ZGyismK3r0w2gwmoljOBQ4r9lQmlAR6jAls1crJH00m9kj5dEhghR1uQm8NNPWmqkRVVrL9yXLzU1B24xxNA7zIi7airt2hERXdWPark8kp6wbpkXwe2o9q_xKCc1PgWD-aYR2RyZ0-w5Cz6YneUllfw==&lang=sage" width="100%" height="400px" style="border:1px solid #ddd; border-radius:4px;"></iframe>
