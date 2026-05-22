@@ -8,8 +8,6 @@ categories: sample-posts
 sagecell: true
 ---
 
-<iframe src="https://sagecell.sagemath.org/&lang=sage" width="100%" height="400px" style="border:1px solid #ddd; border-radius:4px;"></iframe>
-
 ### Mencoba Plot Fungsi Matematika Interaktif
 
 Silakan ubah fungsi di bawah ini lalu tekan tombol jalankan untuk melihat grafiknya secara real-time.
@@ -21,8 +19,10 @@ x = var('x')
 f = sin(x) * cos(x^2)
 
 # Tampilkan visualisasi grafik
+
 plot(f, (x, -3, 3), color='purple', title='Grafik Sinus Interaktif')
 </script>
+
 </div>
 
 ### Alat Peraga Interaktif (Slider)
@@ -38,5 +38,3 @@ def _(n=(1, [1..20])):
     (p + pt).show(ymin=-1, ymax=20)
 </script>
 </div>
-
-
