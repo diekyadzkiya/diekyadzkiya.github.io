@@ -1,7 +1,7 @@
 ---
 layout: post
 title: komputasi interaktif
-date: 2026-01-01 05:35:00+0700
+date: 2026-01-05 05:35:00+0700
 description: komputasi interaktif sagemath
 tags: formatting links
 categories: sample-posts
