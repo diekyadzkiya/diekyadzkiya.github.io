@@ -38,7 +38,7 @@ categories: sample-posts
       <li>Kuis 2</li>
       <li>EAS</li>
     </ul>
-    <li>Aljabar Linier ELementer (D)</li>
+    <li>Aljabar Linier Elementer (D)</li>
     <ul>
       <li>Belajar</li>
       <li>Kuis 2</li>
