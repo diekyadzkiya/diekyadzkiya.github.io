@@ -17,14 +17,6 @@ pretty_table: true
   </thead>
   <tbody>
     <tr>
-      <td>10/05/2026</td>
-      <td>Membayar pajak mobil</td>
-    </tr>
-    <tr>
-      <td>29/05/2026</td>
-      <td>Mengurus surat setneg</td>
-    </tr>
-    <tr>
       <td>Akhir Mei 2026</td>
       <td>Email ITS: Request for Your Insights on Our Mathematics Research Project</td>
     </tr>
@@ -43,6 +35,10 @@ pretty_table: true
     <tr>
       <td>03/02/2027</td>
       <td>Membayar pajak motor</td>
+    </tr>
+    <tr>
+      <td>10/05/2027</td>
+      <td>Membayar pajak mobil</td>
     </tr>
     <tr>
       <td>03/02/2030</td>
