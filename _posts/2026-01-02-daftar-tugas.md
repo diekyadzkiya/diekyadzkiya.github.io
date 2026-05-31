@@ -143,4 +143,5 @@ categories: sample-posts
   <li>Revisi Buku Kalkulus</li>
   <li>ASIIN</li>
   <li>Menyimpan nomor telpon: 5002251165 Damar Nindya Narahiswara halaman 33 sudah</li>
+  <li>Update link excel di anggaran pesantren: Januari 2023 belum</li>
 </ul>
