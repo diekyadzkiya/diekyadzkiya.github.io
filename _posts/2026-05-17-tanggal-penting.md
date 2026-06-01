@@ -17,14 +17,6 @@ pretty_table: true
   </thead>
   <tbody>
     <tr>
-      <td>Akhir Mei 2026</td>
-      <td>Email ITS: Request for Your Insights on Our Mathematics Research Project</td>
-    </tr>
-    <tr>
-      <td>31/05/2026</td>
-      <td>Membayar PBB: Putra Bangsa, Gunung Anyar, Lingkar Timur</td>
-    </tr>
-    <tr>
       <td>22/06/2026</td>
       <td>Membeli kopi untuk dibawa ke Perancis</td>
     </tr>
@@ -33,12 +25,20 @@ pretty_table: true
       <td>Deadline registrasi Industrial Mathematics Week</td>
     </tr>
     <tr>
+      <td>25/10/2026</td>
+      <td>SIM Millah</td>
+    </tr>
+    <tr>
       <td>03/02/2027</td>
       <td>Membayar pajak motor</td>
     </tr>
     <tr>
       <td>10/05/2027</td>
       <td>Membayar pajak mobil</td>
+    </tr>
+    <tr>
+      <td>31/05/2027</td>
+      <td>Membayar PBB: Putra Bangsa, Gunung Anyar, Lingkar Timur</td>
     </tr>
     <tr>
       <td>03/02/2030</td>
