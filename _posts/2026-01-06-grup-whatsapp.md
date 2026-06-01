@@ -17,6 +17,10 @@ pretty_table: true
   </thead>
   <tbody>
     <tr>
+      <td>Ponpes Mahasiswa ITS</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>SPMB SMASIF BATCH 2 26/27</td>
       <td>SMA Progresif Bumi Shalawat</td>
     </tr>
