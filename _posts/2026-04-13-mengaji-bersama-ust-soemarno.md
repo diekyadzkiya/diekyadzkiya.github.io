@@ -17,6 +17,10 @@ pretty_table: true
   </thead>
   <tbody>
     <tr>
+      <td>03/06/2026</td>
+      <td>154-155</td>
+    </tr>
+    <tr>
       <td>13/05/2026</td>
       <td>152-153</td>
     </tr>
