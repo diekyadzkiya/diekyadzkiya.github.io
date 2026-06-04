@@ -12,43 +12,12 @@ categories: sample-posts
 <ul>
   <li>Mata Kuliah</li>
   <ul>
-    <li>Kalkulus 2 (23)</li>
-    <ul>
-      <li>ETS</li>
-      <li>Kuis 2</li>
-      <li>EAS</li>
-    </ul>
-    <li>Matematika (2)</li>
-    <ul>
-      <li>ETS</li>
-      <li>Kuis 2</li>
-      <li>EAS</li>
-    </ul>
-    <li>Kalkulus 2 (41)</li>
-    <ul>
-      <li>ETS</li>
-      <li>Kuis 2</li>
-      <li>EAS</li>
-    </ul>
-    <li>Fungsi Peubah Kompleks (C)</li>
-    <ul>
-      <li>Belajar</li>
-      <li>Kuis 1 susulan</li>
-      <li>ETS</li>
-      <li>Kuis 2</li>
-      <li>EAS</li>
-    </ul>
-    <li>Aljabar Linier Elementer (D)</li>
-    <ul>
-      <li>Belajar</li>
-      <li>Kuis 2</li>
-      <li>EAS</li>
-    </ul>
-    <li>Pengantar Verifikasi Sistem (A)</li>
-    <ul>
-      <li>ETS</li>
-      <li>EAS</li>
-    </ul>
+    <li>Kalkulus 2 (23): Kuis 2, EAS</li>
+    <li>Matematika (2): Kuis 2, EAS</li>
+    <li>Kalkulus 2 (41): Kuis 2, EAS</li>
+    <li>Fungsi Peubah Kompleks (C): Belajar, EAS</li>
+    <li>Aljabar Linier Elementer (D): Belajar, Kuis 2, EAS</li>
+    <li>Pengantar Verifikasi Sistem (A): ETS, EAS</li>
   </ul>
   <li>Bimbingan</li>
   <ul>
@@ -74,9 +43,7 @@ categories: sample-posts
     <li>myITS WCU (WA Pak Fahim)</li>
     <li>Paper Pak Subiono</li>
     <li>Revisi Proposal dan RAB di BIMA. Menunggu informasi dari Mbak Restu.</li>
-    <li>Penandatanganan Kontrak di myITS Research. Deadline 19 Mei 2026 pukul 15:00 WIB.</li>
     <li>Akses ke Gitlab/Mattermost NU oleh Pak Syifa'ul, Pak Ilham dan Pak Subiono</li>
-    <li>Mempersiapkan surat setneg</li>
   </ul>
   <li>Strategic Research Grant 2026</li>
   <li>Penelitian Fundamental Reguler 2025</li>
@@ -92,10 +59,6 @@ categories: sample-posts
 
 <ul>
   <li>IJCSAM</li>
-  <ul>
-    <li>Bu Valeriana, Pak Isa dan Pak Subchan perlu login untuk memutuskan</li>
-    <li>Reviewer Graphs with the highest locating rainbow vertex connection number adalah Bu Rafiantika dan Bu Robiatul</li>
-  </ul>
 </ul>
 
 ### Lainnya
@@ -137,11 +100,9 @@ categories: sample-posts
     <li>Mas Joko dan Mbak Resty: sekalian tilik bayi</li>
   </ul>
   <li>Balik nama PDAM dan PLN Putra Bangsa dan Gunung Anyar</li>
-  <li>Lihat video Youtube Pak Moses di halaman tautan</li>
   <li>Overleaf Community Edition</li>
   <li>Tanya Pak Anto tentang WC yang mampet</li>
   <li>Revisi Buku Kalkulus</li>
   <li>ASIIN</li>
   <li>Menyimpan nomor telpon: 5002251165 Damar Nindya Narahiswara halaman 33 sudah</li>
-  <li>Update link excel di anggaran pesantren: Januari 2023 belum</li>
 </ul>
