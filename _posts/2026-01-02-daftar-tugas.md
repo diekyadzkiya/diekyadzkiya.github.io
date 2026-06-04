@@ -102,7 +102,7 @@ categories: sample-posts
   <li>Balik nama PDAM dan PLN Putra Bangsa dan Gunung Anyar</li>
   <li>Overleaf Community Edition</li>
   <li>Tanya Pak Anto tentang WC yang mampet</li>
-  <li>Revisi Buku Kalkulus</li>
+  <li>Revisi Buku Kalkulus: berikutnya soal-soal Latihan 3.1</li>
   <li>ASIIN</li>
   <li>Menyimpan nomor telpon: 5002251165 Damar Nindya Narahiswara halaman 33 sudah</li>
 </ul>
