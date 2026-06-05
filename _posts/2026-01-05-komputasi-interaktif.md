@@ -55,4 +55,4 @@ Pertama, tambahkan kode berikut ke dalam file `/_includes/head.liquid`
   </script>
 {% endif %}
 ```
-kemudian gunakan logika kondisional Jekyll `{% if page.sagecell %} ... script tadi ... {% endif %}`, lalu menambahkan `sagecell: true` pada front-matter halaman Markdown.
+kemudian gunakan logika kondisional Jekyll seperti di file ini (bukan website) dan tambahkan `sagecell: true` pada front-matter halaman Markdown.
