@@ -38,3 +38,21 @@ def _(n=(1, [1..20])):
     (p + pt).show(ymin=-1, ymax=20)
 </script>
 </div>
+
+### Cara Pembuatan
+
+Pertama, tambahkan kode berikut ke dalam file `/_includes/head.liquid`
+```
+{% if page.sagecell %}
+  <script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+  <script>
+    // Mengaktifkan elemen dengan class "sage" menjadi Sage Cell interaktif
+    sagecell.makeSagecell({
+      inputLocation: '.sage',
+      languages: ['sage', 'python', 'r'], // Bahasa yang diizinkan (opsional)
+      evalButtonText: 'Hitung / Jalankan', // Mengubah teks tombol eksekusi
+    });
+  </script>
+{% endif %}
+```
+kemudian tambahkan `sagecell: true` pada front-matter halaman Markdown.
