@@ -52,9 +52,9 @@ Pertama, tambahkan kode berikut ke dalam file `/_includes/head.liquid`
       languages: ['sage', 'python', 'r'], // Bahasa yang diizinkan (opsional)
       evalButtonText: 'Hitung / Jalankan', // Mengubah teks tombol eksekusi
       editor: 'textarea',
-      hide: ['language'],
+      hide: ['language', 'permalink'],
     });
   </script>
 {% endif %}
 ```
-kemudian gunakan logika kondisional Jekyll seperti di file ini (bukan website) dan tambahkan `sagecell: true` pada front-matter halaman Markdown. Meskipun editor `textarea` tidak memiliki banyak fitur, namun teks terlihat jelas pada mode gelap maupun terang. Kotak pilihan Bahasa disembunyikan.
+kemudian gunakan logika kondisional Jekyll seperti di file ini (bukan website) dan tambahkan `sagecell: true` pada front-matter halaman Markdown. Meskipun editor `textarea` tidak memiliki banyak fitur, namun teks terlihat jelas pada mode gelap maupun terang. Kotak pilihan Bahasa dan tombol bagikan untuk tautan permanen disembunyikan.
