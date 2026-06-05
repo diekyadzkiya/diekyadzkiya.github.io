@@ -46,3 +46,21 @@ $max-content-width: {{ site.max_width }};
     /* Memberikan sedikit transisi halus saat tombol di-hover */
     transition: background-color 0.2s ease-in-out !important;
 }
+
+/* ==========================================================================
+   MENYESUAIKAN FONT EDITOR TEXTAREA SAGE CELL
+   ========================================================================== */
+
+/* Targetkan area text editor CodeMirror yang dihasilkan dari textarea */
+.CodeMirror pre, 
+.CodeMirror textarea,
+.CodeMirror-code {
+    /* Menggunakan variabel font khusus kode/monospace bawaan al-folio */
+    font-family: var(--global-code-font-family), monospace !important;
+    
+    /* Menyesuaikan ukuran font agar nyaman dibaca saat mengetik rumus */
+    font-size: 0.9rem !important;
+    
+    /* Mengatur jarak antar baris kode agar tidak terlalu rapat */
+    line-height: 1.5 !important;
+}
