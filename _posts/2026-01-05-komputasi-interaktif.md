@@ -43,7 +43,6 @@ def _(n=(1, [1..20])):
 
 Pertama, tambahkan kode berikut ke dalam file `/_includes/head.liquid`
 ```
-{% raw %}
 {% if page.sagecell %}
   <script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
   <script>
@@ -55,6 +54,5 @@ Pertama, tambahkan kode berikut ke dalam file `/_includes/head.liquid`
     });
   </script>
 {% endif %}
-{% raw %}
 ```
-kemudian tambahkan `sagecell: true` pada front-matter halaman Markdown.
+kemudian gunakan logika kondisional Jekyll `{% if page.sagecell %} ... script tadi ... {% endif %}`, lalu menambahkan `sagecell: true` pada front-matter halaman Markdown.

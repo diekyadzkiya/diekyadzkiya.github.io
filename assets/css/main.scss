@@ -23,3 +23,60 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+/* ==========================================================================
+   KUSTOMISASI SAGE CELL SERVER UNTUK DARK MODE (AL-FOLIO)
+   ========================================================================== */
+
+/* Mengubah warna teks hasil kalkulasi (output) agar kontras di Mode Gelap */
+html[data-theme="dark"] .sagecell_output {
+    background-color: #1e1e1e !important; /* Latar belakang output jadi gelap */
+    color: #e0e0e0 !important;            /* Teks utama hasil jadi putih abu-abu */
+}
+
+/* Memperbaiki tampilan teks biasa (stdout) dan pesan error */
+html[data-theme="dark"] .sagecell_output pre {
+    background-color: #252526 !important;
+    color: #f1f1f1 !important;
+    border: 1px solid #3c3c3c !important;
+}
+
+/* Memperbaiki area editor kode (CodeMirror) agar serasi dengan tema gelap */
+html[data-theme="dark"] .CodeMirror {
+    background-color: #1e1e1e !important; /* Warna latar editor */
+    color: #f8f8f2 !important;            /* Warna teks kode */
+    border: 1px solid #3c3c3c !important;
+}
+
+/* Mengubah warna kursor di editor agar terlihat saat mode gelap */
+html[data-theme="dark"] .CodeMirror-cursor {
+    border-left: 2px solid #ffffff !important;
+}
+
+/* Menyesuaikan warna highlight seleksi teks di dalam editor */
+html[data-theme="dark"] .CodeMirror-selected {
+    background-color: #3e4451 !important;
+}
+
+/* Menyesuaikan tombol "Jalankan / Evaluate" agar kontras */
+html[data-theme="dark"] .sagecell_commands .sagecell_evalButton {
+    background-color: #007bff !important; /* Warna biru tombol */
+    color: #ffffff !important;
+    border: none !important;
+}
+
+html[data-theme="dark"] .sagecell_commands .sagecell_evalButton:hover {
+    background-color: #0056b3 !important; /* Warna saat tombol di-hover */
+}
+
+/* Memperbaiki tampilan elemen interaktif (@interact) seperti label teks */
+html[data-theme="dark"] .sagecell_interactContainer {
+    background-color: #252526 !important;
+    color: #e0e0e0 !important;
+    border: 1px solid #3c3c3c !important;
+}
+
+html[data-theme="dark"] .sagecell_interactContainer table, 
+html[data-theme="dark"] .sagecell_interactContainer td {
+    color: #e0e0e0 !important; /* Mengubah teks label slider/tombol */
+}
