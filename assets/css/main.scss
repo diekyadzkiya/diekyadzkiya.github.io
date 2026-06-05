@@ -23,3 +23,26 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+/* ==========================================================================
+   MENYELARASKAN FONT TOMBOL SAGE CELL DENGAN AL-FOLIO
+   ========================================================================== */
+
+/* Targetkan tombol evaluate dan tombol interaktif lainnya di Sage Cell */
+.sagecell_commands .sagecell_evalButton,
+.sagecell_interactContainer button,
+.sagecell_modeSelection select {
+    
+    /* Menggunakan variabel font bawaan al-folio agar otomatis sinkron */
+    font-family: var(--global-font-family) !important;
+    
+    /* Menyesuaikan ketebalan dan ukuran teks agar lebih proporsional */
+    font-weight: 500 !important;
+    font-size: 0.95rem !important;
+    
+    /* Opsional: Membuat sudut tombol sedikit melengkung khas al-folio */
+    border-radius: 4px !important;
+    
+    /* Memberikan sedikit transisi halus saat tombol di-hover */
+    transition: background-color 0.2s ease-in-out !important;
+}
