@@ -64,10 +64,7 @@ categories: sample-posts
 ### Lainnya
 
 <ul>
-  <li>Automate the Boring Stuff with Python</li>
-  <ul>
-    <li>Chapter 6</li>
-  </ul>
+  <li>Automate the Boring Stuff with Python: Chapter 6, Value Updates</li>
   <li>Control of Discrete-Event Systems</li>
   <ul>
     <li>hal. 455</li>
