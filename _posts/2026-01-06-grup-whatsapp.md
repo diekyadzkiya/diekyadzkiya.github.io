@@ -17,6 +17,10 @@ pretty_table: true
   </thead>
   <tbody>
     <tr>
+      <td>ITS Quantum Computing</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Ponpes Mahasiswa ITS</td>
       <td></td>
     </tr>
