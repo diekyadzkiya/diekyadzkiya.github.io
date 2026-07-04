@@ -18,6 +18,11 @@ pretty_table: true
   </thead>
   <tbody>
     <tr>
+      <td>05/07/2026</td>
+      <td>Bpk Abdullah</td>
+      <td>Jl. Putra Bangsa RT 03</td>
+    </tr>
+    <tr>
       <td>28/06/2026</td>
       <td>Bpk Salam</td>
       <td>PB. 8 RT 03/RW 02</td>
