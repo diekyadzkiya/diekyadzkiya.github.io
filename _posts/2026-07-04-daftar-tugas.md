@@ -89,15 +89,11 @@ categories: pribadi
     <li>Diskusi dengan Pak Warsino dan Pak Faizin tentang Sistem Informasi Keuangan Masjid (07/05/2026)</li>
   </ul>
   <li>Pelimpahan porsi haji</li>
-  <li>Silaturahmi</li>
-  <ul>
-    <li>Pak Faqih</li>
-    <li>Pak Mashuri</li>
-  </ul>
+  <li>Silaturahmi: Pak Faqih, Pak Mashuri</li>
   <li>Balik nama PDAM dan PLN Putra Bangsa dan Gunung Anyar</li>
   <li>Overleaf Community Edition</li>
   <li>Pak Anto: diskusi penawaran harga dengan istri</li>
   <li>Revisi Buku Kalkulus</li>
   <li>ASIIN</li>
-  <li>Menyimpan nomor telpon: 5002251165 Damar Nindya Narahiswara halaman 33 sudah</li>
+  <li>Menyimpan nomor telpon: 5002251175 Alyosha Graham Sumbayak halaman 33 sudah</li>
 </ul>
