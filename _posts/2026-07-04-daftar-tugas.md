@@ -12,12 +12,7 @@ categories: pribadi
 <ul>
   <li>Mata Kuliah</li>
   <ul>
-    <li>Kalkulus 2 (23): Kuis 2, EAS</li>
-    <li>Matematika (2): Kuis 2, EAS</li>
-    <li>Kalkulus 2 (41): Kuis 2, EAS</li>
-    <li>Fungsi Peubah Kompleks (C): Belajar, EAS</li>
-    <li>Aljabar Linier Elementer (D): Belajar, Kuis 2, EAS</li>
-    <li>Pengantar Verifikasi Sistem (A): ETS, EAS</li>
+    <li>...</li>
   </ul>
   <li>Bimbingan</li>
   <ul>
