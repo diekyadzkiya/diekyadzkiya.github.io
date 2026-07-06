@@ -15,10 +15,10 @@ cv:
       username: example
 
   address:
-    street: Jl. Putra Bangsa III
-    city: Surabaya
-    region: Jawa Timur
-    postalCode: 60295
+    street: 2712 Broadway St
+    city: San Francisco
+    region: California
+    postalCode: CA 94115
     countryCode: ID
 
   sections:
