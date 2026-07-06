@@ -1,17 +1,17 @@
 {
   "basics": {
     "name": "Dieky Adzkiya",
-    "label": "Scientist",
+    "label": "Assistant Professor",
     "image": "",
-    "email": "einstein@example.com",
+    "email": "dieky@its.ac.id",
     "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "A mathematician interested in max-plus algebra and formal verification",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Jl. Putra Bangsa III Blok C",
+      "postalCode": "60295",
+      "city": "Surabaya",
+      "countryCode": "ID",
+      "region": "Jawa Timur"
     },
     "profiles": []
   },
