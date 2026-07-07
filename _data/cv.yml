@@ -1,15 +1,15 @@
 cv:
   name: Dieky Adzkiya
-  email: einstein@example.com
-  location: Princeton, NJ
+  email: dieky@its.ac.id
+  location: Surabaya, Indonesia
 
   social_networks:
     - network: X
-      username: AlbertEinstein
+      username: AdzkiyaDieky
     - network: GitHub
-      username: example
+      username: diekyadzkiya
     - network: LinkedIn
-      username: example
+      username: dieky@matematika.its.ac.id
 
   sections:
     Education:
