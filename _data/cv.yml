@@ -50,7 +50,7 @@ cv:
         courses: "Comparison between Golub-Kahan and QR symmetric algorithms for computing singular value decompositions"
         highlights:
           - Analytical and empirical comparison of Golub-Kahan and QR symmetric algorithms
-          - Implementation of Golub-Kahan and QR symmetric algorithms in matlab
+          - Implementation of Golub-Kahan and QR symmetric algorithms in Matlab
 
     Experience:
       - company: Institute for Advanced Study, Princeton University
