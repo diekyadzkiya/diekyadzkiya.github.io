@@ -29,6 +29,7 @@ cv:
 
       - institution: Institut Teknologi Sepuluh Nopember (ITS)
         location: Surabaya, Indonesia
+        url: https://www.its.ac.id/
         area: Mathematics
         studyType: Master
         start_date: 2005
@@ -41,6 +42,7 @@ cv:
 
       - institution: Institut Teknologi Sepuluh Nopember (ITS)
         location: Surabaya, Indonesia
+        url: https://www.its.ac.id/
         area: Mathematics
         studyType: Bachelor
         start_date: 2001
