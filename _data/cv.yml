@@ -13,28 +13,42 @@ cv:
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: Delft University of Technology (TU Delft)
+        location: Delft, The Netherlands
+        url: https://www.tudelft.nl/
+        area: Computer Science
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
+        start_date: 2010
+        end_date: 2014
         score: ""
-        courses: "Theory of Relativity"
+        courses: "Abstraction and Verification of Max-Plus-Linear Systems"
         highlights:
-          - Description 1.
-          - Description 2.
+          - Formula-free and formula-based abstractions of max-plus-linear systems
+          - Reachability analysis of max-plus-linear systems
+          - VeriSiMPL toolbox to automate the abstraction of max-plus-linear systems
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Institut Teknologi Sepuluh Nopember (ITS)
+        location: Surabaya, Indonesia
+        area: Mathematics
+        studyType: Master
+        start_date: 2005
+        end_date: 2008
+        courses: "Modelling traffic lights using Petri nets"
         highlights:
-          - Description 1.
-          - Description 2.
+          - Construction of Petri nets associated with traffic lights in an intersection
+          - Analysis of the obtained Petri nets, such as liveness, deadlocks, coverability tree, boundedness, conservation
+          - Scilab toolbox to automate the construction of Petri nets and its analysis
+
+      - institution: Institut Teknologi Sepuluh Nopember (ITS)
+        location: Surabaya, Indonesia
+        area: Mathematics
+        studyType: Bachelor
+        start_date: 2001
+        end_date: 2005
+        courses: "Comparison between Golub-Kahan and QR symmetric algorithms for computing singular value decompositions"
+        highlights:
+          - Analytical and empirical comparison of Golub-Kahan and QR symmetric algorithms
+          - Implementation of Golub-Kahan and QR symmetric algorithms in matlab
 
     Experience:
       - company: Institute for Advanced Study, Princeton University
