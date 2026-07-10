@@ -12,7 +12,7 @@ categories: pribadi
 <ul>
   <li>Mata Kuliah</li>
   <ul>
-    <li>...</li>
+    <li>Kalkulus 1 (3)</li>
   </ul>
   <li>Bimbingan</li>
   <ul>
@@ -58,10 +58,7 @@ categories: pribadi
     <li>Menghubungi Pak Grasianto. Isi form.</li>
     <li><a href='https://elib.its.ac.id/funsam'>Website</a> tidak dapat diakses. Lapor ke service desk.</li>
   </ul>
-  <li>IndoMS Jatim</li>
-  <ul>
-    <li>Menyusun proposal</li>
-  </ul>
+  <li>IndoMS Jatim: menyusun proposal</li>
   <li>FGD Kemenkeu</li>
   <li>Sharing Session UNDIP</li>
   <li>Takmir: diskusi dengan Pak Warsino dan Pak Faizin tentang Sistem Informasi Keuangan Masjid (07/05/2026)</li>
@@ -72,5 +69,5 @@ categories: pribadi
   <li>Pak Anto: diskusi penawaran harga dengan istri</li>
   <li>Revisi Buku Kalkulus</li>
   <li>ASIIN</li>
-  <li>Menyimpan nomor telpon: 5002251175 Alyosha Graham Sumbayak halaman 33 sudah</li>
+  <li>Menyimpan nomor telpon: 5002261004 Dira Salsabila Toerangga Putri halaman 33 sudah</li>
 </ul>
