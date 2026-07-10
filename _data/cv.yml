@@ -53,42 +53,49 @@ cv:
           - Implementation of Golub-Kahan and QR symmetric algorithms in Matlab
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Nantes University
+        position: Visiting Researcher
+        location: Nantes, France
+        start_date: June 2026
+        end_date: July 2026
+        summary: I visited the IUT de Nantes for 2 weeks, to work with the French team involved in the PHC Nusantara: Prof. Olivier Boutin, Prof. Claude Martinez, Prof. Naly Rakoto, Prof. Said Amari, Prof. Syrine Bouazza and Abir Ben Bouzaiene.
         highlights:
-          - Relativity
-          - Description 2.
+          - We were working on mathematics and control engineering for healthcare logistics applications.
+          - Explore some possible topics for joint research.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Tianjin University
+        position: Visiting Researcher
+        location: Tianjin, China
+        start_date: October 2019
+        end_date: December 2019
+        summary: I visited the School of Mathematics, Tianjin University, China for 7 weeks in the China-ASEAN Scholar Program to work with Prof. Xu Genqi, Prof. Han Zhongjie and Prof. Dongyi Liu.
         highlights:
-          - Description 1.
-          - Description 2.
+          - The China-ASEAN Scholar Program is a fellowship program initiated by ASEAN-China Network for Cooperation and Exchanges among Engineering and Technology Universities (ACNET-EngTech) at Tianjin University (TJU). It aims to strengthen academic collaboration between TJU and universities in ASEAN countries through providing funded short-term visit opportunity. Scholars from ASEAN countries will be hosted by one of TJU academic schools.
+          - The objective is exploring some possible topics for joint research.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - company: Yazd University
+        position: Visiting Researcher
+        location: Yazd, Iran
+        start_date: June 2019
+        end_date: July 2019
+        summary: Subiono and I visited Prof. Bijan Davvaz for 2 weeks from the Department of Mathematics, Yazd University, Iran.
+        highlights:
+          - This activity is part of the World Class Professor program 2019 supported by the Ministry of Research, Technology and Higher Education, Republic of Indonesia.
+          - The main objective is publishing a paper in high quality journal.
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+      - company: Delft University of Technology (TU Delft)
+        position: Postdoctoral Research Associate
+        location: Delft, The Netherlands
+        start_date: June 2014
+        end_date: June 2015
+        summary: I was working with Prof. Manuel Mazo on scheduling of networked control systems, in particular when the controller is implemented in an event-triggered implementation.
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+      - company: Honeywell
+        position: Visiting Researcher
+        location: Prague, Czech Republic
+        start_date: November 2013
+        end_date: December 2013
+        summary: As a part of Advanced Methods for Building Diagnostics and Maintenance (AMBI) Project, Prof. Alessandro Abate, Prof. Sadegh Esmaeil Zadeh Soudjani, I, Prof. Ondrej Holub and Prof. Karel Macek were developing a model for building in the framework of Stochastic Hybrid Systems (SHS) and also a simple SHS, to be used as a running example.
 
     Volunteer:
       - company: People's Climate March
