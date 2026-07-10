@@ -18,7 +18,12 @@ pretty_table: true
   </thead>
   <tbody>
     <tr>
-      <td>10/07/2026</td>
+      <td>12/07/2026</td>
+      <td>Musholla An-Nur</td>
+      <td>Putra Bangsa</td>
+    </tr>
+    <tr>
+      <td>09/07/2026</td>
       <td>Ust Yusuf</td>
       <td></td>
     </tr>
