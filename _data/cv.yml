@@ -56,9 +56,9 @@ cv:
       - company: Nantes University
         position: Visiting Researcher
         location: Nantes, France
-        start_date: June 2026
-        end_date: July 2026
-        summary: I visited the IUT de Nantes for 2 weeks, to work with the French team involved in the PHC Nusantara: Prof. Olivier Boutin, Prof. Claude Martinez, Prof. Naly Rakoto, Prof. Said Amari, Prof. Syrine Bouazza and Abir Ben Bouzaiene.
+        start_date: 2026-06-30
+        end_date: 2026-07-10
+        summary: I visited the IUT de Nantes for 2 weeks, to work with the French team involved in the PHC Nusantara (Prof. Olivier Boutin, Prof. Claude Martinez, Prof. Naly Rakoto, Prof. Said Amari, Prof. Syrine Bouazza and Abir Ben Bouzaiene).
         highlights:
           - We were working on mathematics and control engineering for healthcare logistics applications.
           - Explore some possible topics for joint research.
@@ -66,8 +66,8 @@ cv:
       - company: Tianjin University
         position: Visiting Researcher
         location: Tianjin, China
-        start_date: October 2019
-        end_date: December 2019
+        start_date: 2019-10
+        end_date: 2019-12
         summary: I visited the School of Mathematics, Tianjin University, China for 7 weeks in the China-ASEAN Scholar Program to work with Prof. Xu Genqi, Prof. Han Zhongjie and Prof. Dongyi Liu.
         highlights:
           - The China-ASEAN Scholar Program is a fellowship program initiated by ASEAN-China Network for Cooperation and Exchanges among Engineering and Technology Universities (ACNET-EngTech) at Tianjin University (TJU). It aims to strengthen academic collaboration between TJU and universities in ASEAN countries through providing funded short-term visit opportunity. Scholars from ASEAN countries will be hosted by one of TJU academic schools.
@@ -76,8 +76,8 @@ cv:
       - company: Yazd University
         position: Visiting Researcher
         location: Yazd, Iran
-        start_date: June 2019
-        end_date: July 2019
+        start_date: 2019-06
+        end_date: 2019-07
         summary: Subiono and I visited Prof. Bijan Davvaz for 2 weeks from the Department of Mathematics, Yazd University, Iran.
         highlights:
           - This activity is part of the World Class Professor program 2019 supported by the Ministry of Research, Technology and Higher Education, Republic of Indonesia.
@@ -86,15 +86,15 @@ cv:
       - company: Delft University of Technology (TU Delft)
         position: Postdoctoral Research Associate
         location: Delft, The Netherlands
-        start_date: June 2014
-        end_date: June 2015
+        start_date: 2014-06
+        end_date: 2015-06
         summary: I was working with Prof. Manuel Mazo on scheduling of networked control systems, in particular when the controller is implemented in an event-triggered implementation.
 
       - company: Honeywell
         position: Visiting Researcher
         location: Prague, Czech Republic
-        start_date: November 2013
-        end_date: December 2013
+        start_date: 2013-11
+        end_date: 2013-12
         summary: As a part of Advanced Methods for Building Diagnostics and Maintenance (AMBI) Project, Prof. Alessandro Abate, Prof. Sadegh Esmaeil Zadeh Soudjani, I, Prof. Ondrej Holub and Prof. Karel Macek were developing a model for building in the framework of Stochastic Hybrid Systems (SHS) and also a simple SHS, to be used as a running example.
 
     Volunteer:
