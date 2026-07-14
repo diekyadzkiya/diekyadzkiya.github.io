@@ -92,7 +92,7 @@ $$
 \sqrt{a^2}=|a|
 $$
 
-Contoh. Selesaikan persamaan $$\left|3x-2\right|=\left|5x+4\right|$$ dengan menggunakan teorema sebelumnya.
+Contoh. Selesaikan persamaan $$\vert 3x-2\vert=\vert 5x+4\vert$$ dengan menggunakan teorema sebelumnya.
 
 Teorema. Jika $$p$$ dan $$q$$ bilangan real, berlaku
 <ol>
