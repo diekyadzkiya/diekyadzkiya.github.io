@@ -20,7 +20,7 @@ Teorema. Diberikan bilangan-bilangan real $$p$$, $$q$$, $$r$$ dan $$s$$:
   <li>Jika \(p<q\), maka \(p+r<q+r\) dan \(p-r<q-r\).</li>
   <li>Jika \(p<q\), maka \(pr<qr\) untuk \(r>0\), dan \(pr>qr\) untuk \(r<0\).</li>
   <li>Jika \(p<q\) dan \(r<s\), maka \(p+r<q+s\).</li>
-  <li>Jika \(p\) dan \(q\) keduanya positif atau keduanya negatif, dan \(p<q\), maka \(\frac{1}{p}>\frac{1}{q}\).</li>
+  <li>Jika \(p\) dan \(q\) keduanya positif atau keduanya negatif, dan \(p<q\), maka \(\displaystyle\frac{1}{p}>\frac{1}{q}\).</li>
 </ol>
 
 <table>
@@ -69,5 +69,5 @@ Teorema. Diberikan bilangan-bilangan real $$p$$, $$q$$, $$r$$ dan $$s$$:
 Contoh. Dapatkan penyelesaian dari
 <ol>
   <li>\(4+5x\leq 3x-7\),</li>
-  <li>\(\frac{2x-5}{x-2}<1\).</li>
+  <li>\(\displaystyle\frac{2x-5}{x-2}<1\).</li>
 </ol>
