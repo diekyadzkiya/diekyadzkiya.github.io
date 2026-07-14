@@ -16,9 +16,28 @@ Himpunan bilangan real dinotasikan dengan $$\mathbb{R}$$.
 
 Teorema. Diberikan bilangan-bilangan real $$p$$, $$q$$, $r$$ dan $$s$$:
 <ol>
-  <li>Jika $$p<q$$ dan $$q<r$$, maka $$p<r$$.</li>
+  <li>Jika $p<q$ dan $q<r$, maka $p<r$.</li>
   <li>Jika $$p<q$$, maka $$p+r<q+r$$ dan $$p-r<q-r$$.</li>
   <li>Jika $$p<q$$, maka $$pr<qr$$ untuk $$r>0$$, dan $$pr>qr$$ untuk $$r<0$$.</li>
   <li>Jika $$p<q$$ dan $$r<s$$, maka $$p+r<q+s$$.</li>
   <li>Jika $$p$$ dan $$q$$ keduanya positif atau keduanya negatif, dan $$p<q$$, maka $$\frac{1}{p}>\frac{1}{q}$$.</li>
 </ol>
+
+<table>
+  <tr>
+    <th>Notasi interval</th>
+    <th>Notasi himpunan</th>
+  </tr>
+  <tr>
+    <td>$$[a,b]$$</td>
+    <td>$$\{x:a\leq x\leq b\}$$</td>
+  </tr>
+  <tr>
+    <td>$$(a,b)$$</td>
+    <td>$$\{x:a<x<b\}$$</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
