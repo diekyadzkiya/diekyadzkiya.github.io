@@ -68,6 +68,6 @@ Teorema. Diberikan bilangan-bilangan real $$p$$, $$q$$, $$r$$ dan $$s$$:
 
 Contoh. Dapatkan penyelesaian dari
 <ol>
-  <li>\(4+5x\leq 3x-7\)</li>
-  <li>\(\frac{2x-5}{x-2}<1\)</li>
+  <li>\(4+5x\leq 3x-7\),</li>
+  <li>\(\frac{2x-5}{x-2}<1\).</li>
 </ol>
