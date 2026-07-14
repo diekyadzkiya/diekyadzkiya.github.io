@@ -92,4 +92,4 @@ $$
 \sqrt{a^2}=|a|
 $$
 
-Contoh. Selesaikan persamaan $$|3x-2|=|5x+4|$$.
+Contoh. Selesaikan persamaan $$\lvert 3x-2\rvert=\lvert 5x+4\rvert$$.
