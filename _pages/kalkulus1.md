@@ -14,7 +14,7 @@ Himpunan bilangan bulat dinotasikan dengan $$\mathbb{Z} = \{\dots,-2,-1,0,1,2,\d
 Himpunan bilangan rasional dinotasikan dengan $$\mathbb{Q}$$.
 Himpunan bilangan real dinotasikan dengan $$\mathbb{R}$$.
 
-Teorema. Diberikan bilangan-bilangan real \(p\), \(q\), \(r\) dan \(s\):
+Teorema. Diberikan bilangan-bilangan real $p$, $q$, $r$ dan $s$:
 <ol>
   <li>Jika \(p<q\) dan \(q<r\), maka \(p<r\).</li>
   <li>Jika \(p<q\), maka \(p+r<q+r\) dan \(p-r<q-r\).</li>
