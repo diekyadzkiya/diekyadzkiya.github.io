@@ -37,7 +37,15 @@ Teorema. Diberikan bilangan-bilangan real $$p$$, $$q$$, $r$$ dan $$s$$:
     <td>$$\{x:a<x<b\}$$</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>$$(a,b]$$</td>
+    <td>$$\{x:a<x\leq b\}$$</td>
+  </tr>
+  <tr>
+    <td>$$[a,b)$$</td>
+    <td>$$\{x:a\leq x<b\}$$</td>
+  </tr>
+  <tr>
+    <td>$$(-\infty,b]$$</td>
+    <td>$$\{x:x\leq b\}$$</td>
   </tr>
 </table>
