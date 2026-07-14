@@ -48,4 +48,20 @@ Teorema. Diberikan bilangan-bilangan real $$p,q,r$$ dan $$s$$:
     <td>$$(-\infty,b]$$</td>
     <td>$$\{x:x\leq b\}$$</td>
   </tr>
+  <tr>
+    <td>$$(-\infty,b)$$</td>
+    <td>$$\{x:x<b\}$$</td>
+  </tr>
+  <tr>
+    <td>$$[a,+\infty)$$</td>
+    <td>$$\{x:x\geq a\}$$</td>
+  </tr>
+  <tr>
+    <td>$$(a,+\infty)$$</td>
+    <td>$$\{x:x>a\}$$</td>
+  </tr>
+  <tr>
+    <td>$$(-\infty,+\infty)$$</td>
+    <td>$$\{x:x\in\mathbb{R}\}$$</td>
+  </tr>
 </table>
