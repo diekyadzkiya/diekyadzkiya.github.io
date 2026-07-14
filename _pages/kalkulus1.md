@@ -13,3 +13,12 @@ Himpunan bilangan asli dinotasikan dengan $$\mathbb{N} = \{1,2,3,\dots\}$$.
 Himpunan bilangan bulat dinotasikan dengan $$\mathbb{Z} = \{\dots,-2,-1,0,1,2,\dots\}$$.
 Himpunan bilangan rasional dinotasikan dengan $$\mathbb{Q}$$.
 Himpunan bilangan real dinotasikan dengan $$\mathbb{R}$$.
+
+Teorema. Diberikan bilangan-bilangan real $$p$$, $$q$$, $r$$ dan $$s$$:
+<ol>
+  <li>Jika $$p<q$$ dan $$q<r$$, maka $$p<r$$.</li>
+  <li>Jika $$p<q$$, maka $$p+r<q+r$$ dan $$p-r<q-r$$.</li>
+  <li>Jika $$p<q$$, maka $$pr<qr$$ untuk $$r>0$$, dan $$pr>qr$$ untuk $$r<0$$.</li>
+  <li>Jika $$p<q$$ dan $$r<s$$, maka $$p+r<q+s$$.</li>
+  <li>Jika $$p$$ dan $$q$$ keduanya positif atau keduanya negatif, dan $$p<q$$, maka $$\frac{1}{p}>\frac{1}{q}$$.</li>
+</ol>
