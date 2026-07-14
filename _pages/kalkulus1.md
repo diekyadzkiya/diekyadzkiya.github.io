@@ -66,8 +66,8 @@ Teorema. Diberikan bilangan-bilangan real $$p$$, $$q$$, $$r$$ dan $$s$$:
   </tr>
 </table>
 
-Contoh. Dapatkan penyelesaian dari
+Contoh.
 <ol>
-  <li>\(4+5x\leq 3x-7\),</li>
-  <li>\(\displaystyle\frac{2x-5}{x-2}<1\).</li>
+  <li>Dapatkan penyelesaian dari $$4+5x\leq 3x-7$$. Himpunan penyelesaiannya adalah $$\{x:x\leq\displaystyle-\frac{11}{2}\}$$ atau $$(-\infty,-\displaystyle\frac{11}{2}$$</li>
+  <li>\(\displaystyle\frac{2x-5}{x-2}<1\). Himpunan penyelesaiannya adalah $$\{x:2<x<3\}$$ atau $$(2,3)$$</li>
 </ol>
