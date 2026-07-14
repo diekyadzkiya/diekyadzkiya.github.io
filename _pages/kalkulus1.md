@@ -92,4 +92,10 @@ $$
 \sqrt{a^2}=|a|
 $$
 
-Contoh. Selesaikan persamaan $|3x-2|=|5x+4a|$.
+Teorema. Jika $$p$$ dan $$q$$ bilangan real, berlaku
+<ol>
+  <li>\(|p|\geq 0\)</li>
+  <li>\(|p|=-|p|\)</li>
+  <li>\(|pq|=|p| |q|\)</li>
+  <li>\(|\displaystyle\frac{p}{q}|=\displaystyle\frac{|p|}{|q|}, q\neq 0 \)</li>
+</ol>
