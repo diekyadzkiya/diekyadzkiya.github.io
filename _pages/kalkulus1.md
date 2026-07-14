@@ -71,3 +71,10 @@ Contoh.
   <li>Dapatkan penyelesaian dari \(4+5x\leq 3x-7\). Himpunan penyelesaiannya adalah \(\{x:x\leq\displaystyle-\frac{11}{2}\}\) atau \((-\infty,-\displaystyle\frac{11}{2}\).</li>
   <li>Selesaikan \(\displaystyle\frac{2x-5}{x-2}<1\). Himpunan penyelesaiannya adalah \(\{x:2<x<3\}\) atau \((2,3)\).</li>
 </ol>
+
+## Nilai Mutlak
+
+Definisi. Nilai mutlak suatu bilangan real $$a$$, ditulis $$|a|$$, didefinisikan dengan
+$$
+|a| = \begin{cases} a, & \text{jika} a\geq 0 \\ -a, & \text{jika} a<0 \end{cases}
+$$
