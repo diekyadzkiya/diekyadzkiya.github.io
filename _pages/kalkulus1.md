@@ -74,8 +74,22 @@ Contoh.
 
 ## Nilai Mutlak
 
-Definisi. Nilai mutlak suatu bilangan real $$a$$, ditulis \(|a|\), didefinisikan dengan
+Definisi. Nilai mutlak suatu bilangan real $$a$$ didefinisikan dengan
 
 $$
 |a| = \begin{cases} a, & \text{jika } a\geq 0 \\ -a, & \text{jika } a<0 \end{cases}
 $$
+
+Contoh.
+<ol>
+  <li>Selesaikan persamaan \(|7x-4|=2\). Himpunan penyelesaiannya adalah \(\{\displaystyle\frac{2}{7},\displaystyle\frac{2}{7}\}\).</li>
+  <li>Selesaikan persamaan \(|3x-2|=|5x+4|\). Himpunan penyelesaiannya adalah \(\{-3,-\displaystyle\frac{1}{4}\}\).</li>
+</ol>
+
+Teorema. Untuk setiap bilangan real $$a$$ berlaku
+
+$$
+\sqrt{a^2}=|a|
+$$
+
+Contoh. Selesaikan persamaan \(|3x-2|=|5x+4|\).
