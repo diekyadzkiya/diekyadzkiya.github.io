@@ -74,7 +74,7 @@ Contoh.
 
 ## Nilai Mutlak
 
-Definisi. Nilai mutlak suatu bilangan real $$a$$, ditulis $|a|$, didefinisikan dengan
+Definisi. Nilai mutlak suatu bilangan real $$a$$, ditulis \(|a|\), didefinisikan dengan
 
 $$
 |a| = \begin{cases} a, & \text{jika } a\geq 0 \\ -a, & \text{jika } a<0 \end{cases}
