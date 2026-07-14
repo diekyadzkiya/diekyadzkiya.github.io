@@ -96,8 +96,8 @@ Contoh. Selesaikan persamaan $$\vert 3x-2\vert=\vert 5x+4\vert$$ dengan mengguna
 
 Teorema. Jika $$p$$ dan $$q$$ bilangan real, berlaku
 <ol>
-  <li>\(|p|\geq 0\)</li>
-  <li>\(|p|=-|p|\)</li>
-  <li>\(|pq|=|p| |q|\)</li>
-  <li>\(|\displaystyle\frac{p}{q}|=\displaystyle\frac{|p|}{|q|}, q\neq 0 \)</li>
+  <li>\(\vert p\vert\geq 0\)</li>
+  <li>\(\vert p\vert =-\vert p\vert\)</li>
+  <li>\(\vert pq\vert =\vert p\vert \, \vert q\vert\)</li>
+  <li>\(\left\vert\displaystyle\frac{p}{q}\right\vert =\displaystyle\frac{\vert p\vert}{\vert q\vert}, \, q\neq 0 \)</li>
 </ol>
