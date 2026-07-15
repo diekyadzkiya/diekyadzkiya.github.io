@@ -24,46 +24,50 @@ Teorema. Diberikan bilangan-bilangan real $$p$$, $$q$$, $$r$$ dan $$s$$:
 </ol>
 
 <table>
-  <tr>
-    <th>Notasi interval</th>
-    <th>Notasi himpunan</th>
-  </tr>
-  <tr>
-    <td>$$[a,b]$$</td>
-    <td>$$\{x:a\leq x\leq b\}$$</td>
-  </tr>
-  <tr>
-    <td>$$(a,b)$$</td>
-    <td>$$\{x:a<x<b\}$$</td>
-  </tr>
-  <tr>
-    <td>$$(a,b]$$</td>
-    <td>$$\{x:a<x\leq b\}$$</td>
-  </tr>
-  <tr>
-    <td>$$[a,b)$$</td>
-    <td>$$\{x:a\leq x<b\}$$</td>
-  </tr>
-  <tr>
-    <td>$$(-\infty,b]$$</td>
-    <td>$$\{x:x\leq b\}$$</td>
-  </tr>
-  <tr>
-    <td>$$(-\infty,b)$$</td>
-    <td>$$\{x:x<b\}$$</td>
-  </tr>
-  <tr>
-    <td>$$[a,+\infty)$$</td>
-    <td>$$\{x:x\geq a\}$$</td>
-  </tr>
-  <tr>
-    <td>$$(a,+\infty)$$</td>
-    <td>$$\{x:x>a\}$$</td>
-  </tr>
-  <tr>
-    <td>$$(-\infty,+\infty)$$</td>
-    <td>$$\{x:x\in\mathbb{R}\}$$</td>
-  </tr>
+  <thead>
+    <tr>
+      <th>Notasi interval</th>
+      <th>Notasi himpunan</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>$$[a,b]$$</td>
+      <td>$$\{x:a\leq x\leq b\}$$</td>
+    </tr>
+    <tr>
+      <td>$$(a,b)$$</td>
+      <td>$$\{x:a<x<b\}$$</td>
+    </tr>
+    <tr>
+      <td>$$(a,b]$$</td>
+      <td>$$\{x:a<x\leq b\}$$</td>
+    </tr>
+    <tr>
+      <td>$$[a,b)$$</td>
+      <td>$$\{x:a\leq x<b\}$$</td>
+    </tr>
+    <tr>
+      <td>$$(-\infty,b]$$</td>
+      <td>$$\{x:x\leq b\}$$</td>
+    </tr>
+    <tr>
+      <td>$$(-\infty,b)$$</td>
+      <td>$$\{x:x<b\}$$</td>
+    </tr>
+    <tr>
+      <td>$$[a,+\infty)$$</td>
+      <td>$$\{x:x\geq a\}$$</td>
+    </tr>
+    <tr>
+      <td>$$(a,+\infty)$$</td>
+      <td>$$\{x:x>a\}$$</td>
+    </tr>
+    <tr>
+      <td>$$(-\infty,+\infty)$$</td>
+      <td>$$\{x:x\in\mathbb{R}\}$$</td>
+    </tr>
+  </tbody>
 </table>
 
 Contoh.
