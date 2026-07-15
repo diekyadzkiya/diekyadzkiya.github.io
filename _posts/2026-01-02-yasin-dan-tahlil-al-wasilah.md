@@ -39,7 +39,7 @@ pretty_table: true
     <tr>
       <td>28/06/2026</td>
       <td>Bpk Salam</td>
-      <td>PB. 8 RT 03/RW 02</td>
+      <td>Putra Bangsa 8 RT 03/RW 02</td>
     </tr>
     <tr>
       <td>14/06/2026</td>
@@ -49,7 +49,7 @@ pretty_table: true
     <tr>
       <td>07/06/2026</td>
       <td>Bpk Sauji</td>
-      <td>PB4 rt03</td>
+      <td>Putra Bangsa 4 RT 03</td>
     </tr>
     <tr>
       <td>31/05/2026</td>
@@ -79,12 +79,12 @@ pretty_table: true
     <tr>
       <td>26/04/2026</td>
       <td>Aba Zaenal</td>
-      <td>PB Gg 3/1 RT 3/RW 2</td>
+      <td>Putra Bangsa Gg 3/1 RT 3/RW 2</td>
     </tr>
     <tr>
       <td>19/04/2026</td>
       <td>Bpk Andry</td>
-      <td>Sebelah rumah pak Anas RT 03</td>
+      <td>Sebelah rumah Pak Anas RT 03</td>
     </tr>
     <tr>
       <td>12/04/2026</td>
