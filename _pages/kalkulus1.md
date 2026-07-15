@@ -101,3 +101,9 @@ Teorema. Jika $$p$$ dan $$q$$ bilangan real, berlaku
   <li>\(\vert pq\vert =\vert p\vert \, \vert q\vert\)</li>
   <li>\(\left\vert\displaystyle\frac{p}{q}\right\vert =\displaystyle\frac{\vert p\vert}{\vert q\vert}, \, q\neq 0 \)</li>
 </ol>
+
+Teorema. Jika $$P$$ dan $$Q$$ titik-titik pada garis bilangan yang masing-masing dengan koordinat $$p$$ dan $$q$$, maka jarak $$d$$ antara $$P$$ dan $$Q$$ adalah
+
+$$
+d = \vert q-p\vert
+$$
