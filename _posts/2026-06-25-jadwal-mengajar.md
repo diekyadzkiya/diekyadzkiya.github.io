@@ -8,6 +8,58 @@ categories: kerja
 pretty_table: true
 ---
 
+# Semester Antara
+
+## Dieky Adzkiya
+
+<table>
+  <thead>
+    <tr>
+      <th>Hari</th>
+      <th>Jam</th>
+      <th>Mata Kuliah</th>
+      <th>Kelas</th>
+      <th>Ruang</th>
+      <th>Keterangan</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Senin</td>
+      <td>13:00-15:30</td>
+      <td>Kalkulus 1</td>
+      <td>3</td>
+      <td>TW1.303</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Selasa</td>
+      <td>13:00-15:30</td>
+      <td>Kalkulus 1</td>
+      <td>3</td>
+      <td>TW1.303</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Rabu</td>
+      <td>13:00-15:30</td>
+      <td>Kalkulus 1</td>
+      <td>3</td>
+      <td>TW1.303</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kamis</td>
+      <td>13:00-15:30</td>
+      <td>Kalkulus 1</td>
+      <td>3</td>
+      <td>TW1.303</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+
 # Semester Genap 2025/2026
 
 ## Nashrul Millah
