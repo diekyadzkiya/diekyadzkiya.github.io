@@ -59,7 +59,6 @@ pretty_table: true
   </tbody>
 </table>
 
-
 # Semester Genap 2025/2026
 
 ## Nashrul Millah
