@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /tugas.html
+permalink: /daftar-tugas.html
 title: tugas
-description: to do list
+description: beberapa hal yang ingin dikerjakan
 ---
 
 # Pengajaran
