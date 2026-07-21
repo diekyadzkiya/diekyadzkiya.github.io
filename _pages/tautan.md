@@ -7,13 +7,13 @@ description: beberapa tautan penting
 
 # Halaman
 
-- [beban kerja dosen](https://diekyadzkiya.github.io/beban-kerja-dosen.html/)
-- [daftar tugas](https://diekyadzkiya.github.io/daftar-tugas.html/)
-- [jadwal mengajar](https://diekyadzkiya.github.io/jadwal-mengajar.html/)
-- [kalkulus 1](https://diekyadzkiya.github.io/kalkulus-1.html/)
-- [mengaji bersama ust sumarno](https://diekyadzkiya.github.io/mengaji-bersama-ust-sumarno.html/)
-- [tautan](https://diekyadzkiya.github.io/tautan.html/)
-- [yasin dan tahlil al wasilah](https://diekyadzkiya.github.io/yasin-dan-tahlil-al-wasilah.html/)
+- [beban kerja dosen](https://diekyadzkiya.github.io/beban-kerja-dosen.html)
+- [daftar tugas](https://diekyadzkiya.github.io/daftar-tugas.html)
+- [jadwal mengajar](https://diekyadzkiya.github.io/jadwal-mengajar.html)
+- [kalkulus 1](https://diekyadzkiya.github.io/kalkulus-1.html)
+- [mengaji bersama ust sumarno](https://diekyadzkiya.github.io/mengaji-bersama-ust-sumarno.html)
+- [tautan](https://diekyadzkiya.github.io/tautan.html)
+- [yasin dan tahlil al wasilah](https://diekyadzkiya.github.io/yasin-dan-tahlil-al-wasilah.html)
 
 # Lainnya
 
