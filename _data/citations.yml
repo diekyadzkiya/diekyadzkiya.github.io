@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-17'
+  last_updated: '2026-07-24'
 papers:
   jxd84eQAAAAJ:-f6ydRqryjwC:
     citations: 13
@@ -47,7 +47,7 @@ papers:
     year: '2017'
   jxd84eQAAAAJ:4JMBOYKVnBMC:
     citations: 4
-    title: Safety verification of uncertain max-plus-linear systems
+    title: Safety Verification of Uncertain Max-Plus-Linear Systems
     year: '2018'
   jxd84eQAAAAJ:4OULZ7Gr8RgC:
     citations: 2
@@ -130,7 +130,7 @@ papers:
     title: Design of navigation and guidance control system of mobile robot with position estimation using ensemble kalman filter (enkf) and square root ensemble kalman filter (sr-enkf)
     year: '2022'
   jxd84eQAAAAJ:EUQCXRtRnyEC:
-    citations: 14
+    citations: 15
     title: SMT-based reachability analysis of high dimensional interval max-plus linear systems
     year: '2021'
   jxd84eQAAAAJ:HDshCWvjkbEC:
@@ -170,7 +170,7 @@ papers:
     title: Model reduction of unstable systems using balanced truncation method and its application to shallow water equations
     year: '2017'
   jxd84eQAAAAJ:KxtntwgDAa4C:
-    citations: 7
+    citations: 8
     title: An event-driven approach for resources planning in distributed power generation systems
     year: '2022'
   jxd84eQAAAAJ:L8Ckcad2t8MC:
@@ -202,7 +202,7 @@ papers:
     title: Extreme learning machine method for dengue hemorrhagic fever outbreak risk level prediction
     year: '2018'
   jxd84eQAAAAJ:NhqRSupF_l8C:
-    citations: 17
+    citations: 18
     title: Motion control design of unusaits auv using sliding pid
     year: '2020'
   jxd84eQAAAAJ:O3NaXMp0MMsC:
@@ -506,7 +506,7 @@ papers:
     title: Centralized and decentralized  controller design for storey building systems using matrix inequality approach
     year: '2019'
   jxd84eQAAAAJ:pyW8ca7W8N0C:
-    citations: 14
+    citations: 15
     title: Modified Kalman filter-based model predictive control for ship heading control with probabilistic constraints
     year: '2021'
   jxd84eQAAAAJ:q3oQSFYPqjQC:
