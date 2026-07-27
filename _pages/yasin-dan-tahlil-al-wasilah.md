@@ -15,6 +15,16 @@ description: tuan rumah penyelenggaraan
   </thead>
   <tbody>
     <tr>
+      <td>02/08/2026</td>
+      <td>Bpk Jan</td>
+      <td>Putra Bangsa Gg 3 RT 03/RW 02</td>
+    </tr>
+    <tr>
+      <td>26/07/2026</td>
+      <td>Musholla An-Nur</td>
+      <td>Putra Bangsa</td>
+    </tr>
+    <tr>
       <td>19/07/2026</td>
       <td>Bpk Sutrisno</td>
       <td>Jl. Putra Bangsa 7 RT 03</td>
