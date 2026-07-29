@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-24'
+  last_updated: '2026-07-29'
 papers:
   jxd84eQAAAAJ:-f6ydRqryjwC:
     citations: 13
@@ -78,7 +78,7 @@ papers:
     title: 'Forecasting of Vannamei shrimp production based on weather factors using radial basis function neural network approach (case study: Lamongan District)'
     year: '2019'
   jxd84eQAAAAJ:738O_yMBCRsC:
-    citations: 1
+    citations: 0
     title: Sliding Mode Control for Autonomous Vehicle Systems
     year: '2021'
   jxd84eQAAAAJ:7PzlFSSx8tAC:
@@ -358,7 +358,7 @@ papers:
     title: 'Kalman Filter Estimation of Identified Reduced Model Using Balanced Truncation: a Case Study of the Bengawan Solo River'
     year: '2019'
   jxd84eQAAAAJ:b0M2c_1WBrUC:
-    citations: 0
+    citations: 1
     title: Safety Verification of SEITR Epidemic Model on Recombination HIV and Hepatitis B Virus using Taylor Model
     year: '2021'
   jxd84eQAAAAJ:bEWYMUwI8FkC:
@@ -455,7 +455,7 @@ papers:
     year: '2018'
   jxd84eQAAAAJ:isC4tDSrTZIC:
     citations: 5
-    title: Magnetohydrodynamics with Forced Convection in Micropolar Fluid Flows Pass a Magnetic Porous Sphere
+    title: Magnetohydrodynamics with forced convection in micropolar fluid flows pass a magnetic porous sphere
     year: '2019'
   jxd84eQAAAAJ:j3f4tGmQtD8C:
     citations: 9
@@ -543,7 +543,7 @@ papers:
     year: '2022'
   jxd84eQAAAAJ:t6usbXjVLHcC:
     citations: 0
-    title: Timed concurrent system modeling and verification of home care plan.
+    title: Timed concurrent system modeling and verification of home care plan
     year: '2025'
   jxd84eQAAAAJ:tOudhMTPpwUC:
     citations: 0
