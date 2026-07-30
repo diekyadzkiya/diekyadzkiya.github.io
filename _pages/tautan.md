@@ -5,6 +5,11 @@ title: tautan
 description: beberapa tautan penting
 ---
 
+# Buku
+
+- [Basic Stochastic Processes](https://link.springer.com/book/10.1007/978-1-4471-0533-6)
+- [Real‐Time Embedded Systems](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119420712)
+
 # Halaman
 
 - [beban kerja dosen](https://diekyadzkiya.github.io/beban-kerja-dosen.html)
