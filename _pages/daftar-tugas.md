@@ -68,4 +68,5 @@ description: beberapa hal yang ingin dikerjakan
   <li>Revisi Buku Kalkulus</li>
   <li>ASIIN</li>
   <li>Menyimpan nomor telpon: 5002261004 Dira Salsabila Toerangga Putri halaman 33 sudah</li>
+  <li>Pusat Studi Sains Fundamental: writing research grant proposal (Prof. Moreno Di Marco, Iska Desmawati, S.Si., M.Si.), laporan akhir pusat studi</li>
 </ul>
