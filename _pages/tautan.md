@@ -8,7 +8,11 @@ description: beberapa tautan penting
 # Buku
 
 - [Basic Stochastic Processes](https://link.springer.com/book/10.1007/978-1-4471-0533-6)
+- [Control of Discrete-Event Systems: Automata and Petri Net Perspectives](https://link.springer.com/book/10.1007/978-1-4471-4276-8)
+- [Logic in Computer Science: Modelling and Reasoning about Systems](https://www.amazon.com/Logic-Computer-Science-Modelling-Reasoning/dp/052154310X)
+- [Principles of Model Checking](https://mitpress.mit.edu/9780262026499/principles-of-model-checking/)
 - [Real‐Time Embedded Systems](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119420712)
+- [Synchronization and Linearity](https://www.rocq.inria.fr/metalau/cohen/documents/BCOQ-book.pdf)
 
 # Halaman
 
@@ -87,3 +91,4 @@ description: beberapa tautan penting
 - [Journal of Mathematical Analysis and Applications](https://www.sciencedirect.com/journal/journal-of-mathematical-analysis-and-applications)
 - [Mathematical Modelling of Engineering Problems](https://www.iieta.org/Journals/MMEP)
 - [Statistics, Optimization & Information Computing](http://www.iapress.org/index.php/soic)
+- [Trends in Sciences](https://tis.wu.ac.th/tishome/)
