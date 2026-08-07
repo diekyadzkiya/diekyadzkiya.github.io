@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /daftar-tugas.html
-title: tugas
+title: daftar tugas
 description: beberapa hal yang ingin dikerjakan
 ---
 
@@ -15,7 +15,6 @@ description: beberapa hal yang ingin dikerjakan
   <li>Bimbingan</li>
   <ul>
     <li>Tri Utomo</li>
-    <li>Acep Taryana</li>
     <li>Imam Fauzi</li>
     <li>Mohammad Rohim</li>
     <li>Muhammad Farisan Avianto</li>
@@ -26,11 +25,7 @@ description: beberapa hal yang ingin dikerjakan
 # Penelitian
 
 <ul>
-  <li>PHC Nusantara 2026</li>
-  <ul>
-    <li>Revisi Proposal dan RAB di BIMA: menunggu informasi dari Mbak Restu.</li>
-    <li>Akses ke Gitlab/Mattermost NU oleh Pak Syifa'ul, Pak Ilham dan Pak Subiono</li>
-  </ul>
+  <li>PHC Nusantara 2026: Revisi Proposal dan RAB di BIMA (menunggu informasi dari Mbak Restu)</li>
   <li>Strategic Research Grant 2026</li>
   <li>Penelitian Fundamental Reguler 2025: Tugas Akhir Harits</li>
   <li>Penelitian Dasar Unggulan Perguruan Tinggi 2023: Tesis</li>
@@ -59,14 +54,13 @@ description: beberapa hal yang ingin dikerjakan
   <li>IndoMS Jatim: menyusun proposal</li>
   <li>FGD Kemenkeu</li>
   <li>Sharing Session UNDIP</li>
-  <li>Takmir: diskusi dengan Pak Warsino dan Pak Faizin tentang Sistem Informasi Keuangan Masjid (07/05/2026)</li>
+  <li>Takmir: diskusi dengan Pak Warsino dan Pak Faizin tentang Sistem Informasi Keuangan Masjid (07/05/2026), email ITS</li>
   <li>Pelimpahan porsi haji</li>
   <li>Silaturahmi: Pak Faqih, Pak Mashuri</li>
   <li>Balik nama PDAM dan PLN Putra Bangsa dan Gunung Anyar</li>
   <li>Overleaf Community Edition</li>
-  <li>Pak Anto: diskusi penawaran harga dengan istri</li>
   <li>Revisi Buku Kalkulus</li>
   <li>ASIIN</li>
-  <li>Menyimpan nomor telpon: 5002261004 Dira Salsabila Toerangga Putri halaman 33 sudah</li>
+  <li>Menyimpan nomor telpon: 5002261011 Muhammad Mujib Abdurrohman halaman 33 sudah</li>
   <li>Pusat Studi Sains Fundamental: writing research grant proposal (Prof. Moreno Di Marco, Iska Desmawati, S.Si., M.Si.), laporan akhir pusat studi</li>
 </ul>
