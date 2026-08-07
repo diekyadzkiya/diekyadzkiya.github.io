@@ -51,9 +51,8 @@ description: beberapa hal yang ingin dikerjakan
     <li>Menghubungi Pak Grasianto. Isi form.</li>
     <li><a href='https://elib.its.ac.id/funsam'>Website</a> tidak dapat diakses. Lapor ke service desk.</li>
   </ul>
-  <li>IndoMS Jatim: menyusun proposal</li>
+  <li>IndoMS Jatim: menyusun proposal, menghubungi dosen Unair</li>
   <li>FGD Kemenkeu</li>
-  <li>Sharing Session UNDIP</li>
   <li>Takmir: diskusi dengan Pak Warsino dan Pak Faizin tentang Sistem Informasi Keuangan Masjid (07/05/2026), email ITS</li>
   <li>Pelimpahan porsi haji</li>
   <li>Silaturahmi: Pak Faqih, Pak Mashuri</li>
