@@ -15,6 +15,11 @@ description: tuan rumah penyelenggaraan
   </thead>
   <tbody>
     <tr>
+      <td>09/08/2026</td>
+      <td>Musholla An-Nur</td>
+      <td>Putra Bangsa</td>
+    </tr>
+    <tr>
       <td>02/08/2026</td>
       <td>Bpk Katijan</td>
       <td>Putra Bangsa Gg 3 RT 03/RW 02</td>
