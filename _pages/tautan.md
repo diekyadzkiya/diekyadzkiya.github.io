@@ -9,6 +9,7 @@ description: beberapa tautan penting
 
 - [Basic Stochastic Processes: A Course Through Exercises](https://link.springer.com/book/10.1007/978-1-4471-0533-6)
 - [Control of Discrete-Event Systems: Automata and Petri Net Perspectives](https://link.springer.com/book/10.1007/978-1-4471-4276-8)
+- [Effective Dynamics of Stochastic Partial Differential Equations](https://www.sciencedirect.com/book/monograph/9780128008829/effective-dynamics-of-stochastic-partial-differential-equations)
 - [Logic in Computer Science: Modelling and Reasoning about Systems](https://www.amazon.com/Logic-Computer-Science-Modelling-Reasoning/dp/052154310X)
 - [Principles of Model Checking](https://mitpress.mit.edu/9780262026499/principles-of-model-checking/)
 - [Real‐Time Embedded Systems](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119420712)
