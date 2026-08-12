@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-29'
+  last_updated: '2026-08-12'
 papers:
   jxd84eQAAAAJ:-f6ydRqryjwC:
-    citations: 13
+    citations: 14
     title: Abstracted models for scheduling of event-triggered control data traffic
     year: '2018'
   jxd84eQAAAAJ:08ZZubdj9fEC:
@@ -18,11 +18,11 @@ papers:
     title: Modeling of water treatment plant using timed continuous Petri nets
     year: '2017'
   jxd84eQAAAAJ:1sJd4Hv_s6UC:
-    citations: 10
+    citations: 9
     title: Membangun petri net lampu lalu lintas dan simulasinya
     year: '2008'
   jxd84eQAAAAJ:2P1L_qKh6hAC:
-    citations: 28
+    citations: 27
     title: Position estimation of Touristant ASV using ensemble Kalman filter
     year: '2019'
   jxd84eQAAAAJ:2osOgNQ5qMEC:
@@ -47,7 +47,7 @@ papers:
     year: '2017'
   jxd84eQAAAAJ:4JMBOYKVnBMC:
     citations: 4
-    title: Safety Verification of Uncertain Max-Plus-Linear Systems
+    title: Safety verification of uncertain max-plus-linear systems
     year: '2018'
   jxd84eQAAAAJ:4OULZ7Gr8RgC:
     citations: 2
@@ -82,7 +82,7 @@ papers:
     title: Sliding Mode Control for Autonomous Vehicle Systems
     year: '2021'
   jxd84eQAAAAJ:7PzlFSSx8tAC:
-    citations: 16
+    citations: 15
     title: Model reduction of non-minimal discrete-time linear-time-invariant systems
     year: '2017'
   jxd84eQAAAAJ:8AbLer7MMksC:
@@ -130,7 +130,7 @@ papers:
     title: Design of navigation and guidance control system of mobile robot with position estimation using ensemble kalman filter (enkf) and square root ensemble kalman filter (sr-enkf)
     year: '2022'
   jxd84eQAAAAJ:EUQCXRtRnyEC:
-    citations: 15
+    citations: 16
     title: SMT-based reachability analysis of high dimensional interval max-plus linear systems
     year: '2021'
   jxd84eQAAAAJ:HDshCWvjkbEC:
@@ -161,12 +161,16 @@ papers:
     citations: 8
     title: Bounded model checking of max-plus linear systems via predicate abstractions
     year: '2019'
+  jxd84eQAAAAJ:JoZmwDi-zQgC:
+    citations: 2
+    title: Modeling of water treatment plant using timed continuous Petri nets
+    year: '2017'
   jxd84eQAAAAJ:K3LRdlH-MEoC:
     citations: 4
     title: Motion Control Design and Analysis of UR5 Collaborative Robots Using Proportional Integral Derivative (PID) Method
     year: '2021'
   jxd84eQAAAAJ:KlAtU1dfN6UC:
-    citations: 26
+    citations: 25
     title: Model reduction of unstable systems using balanced truncation method and its application to shallow water equations
     year: '2017'
   jxd84eQAAAAJ:KxtntwgDAa4C:
@@ -182,7 +186,7 @@ papers:
     title: Magnetohydrodynamics nano fluid flows through a vertical porous cylinder
     year: '2022'
   jxd84eQAAAAJ:LkGwnXOMwfcC:
-    citations: 16
+    citations: 15
     title: The Groundwater Pollution Estimation by The Ensemble Kalman Filter
     year: '2011'
   jxd84eQAAAAJ:M05iB0D1s5AC:
@@ -198,11 +202,11 @@ papers:
     title: Chance-constrained model predictive controller synthesis for stochastic max-plus linear systems
     year: '2016'
   jxd84eQAAAAJ:NMxIlDl6LWMC:
-    citations: 12
+    citations: 11
     title: Extreme learning machine method for dengue hemorrhagic fever outbreak risk level prediction
     year: '2018'
   jxd84eQAAAAJ:NhqRSupF_l8C:
-    citations: 18
+    citations: 17
     title: Motion control design of unusaits auv using sliding pid
     year: '2020'
   jxd84eQAAAAJ:O3NaXMp0MMsC:
@@ -218,7 +222,7 @@ papers:
     title: Deadlock-Free Verification of the Room Allocation Workflow in an EHR System Using UPPAAL
     year: Unknown Year
   jxd84eQAAAAJ:QIV2ME_5wuYC:
-    citations: 3
+    citations: 4
     title: Forced convection of unsteady magnetohydrodynamics fluid past a porous sphere
     year: '2017'
   jxd84eQAAAAJ:R3hNpaxXUhUC:
@@ -238,7 +242,7 @@ papers:
     title: Analysis of the Model Reduction Using Singular Perturbation Approximation on Unstable and Non-Minimal Discrete-Time Linear Systems and Its Applications
     year: '2019'
   jxd84eQAAAAJ:Se3iqnhoufwC:
-    citations: 22
+    citations: 21
     title: Formal verification of stochastic max-plus-linear systems
     year: '2015'
   jxd84eQAAAAJ:SeFeTyx0c_EC:
@@ -266,11 +270,11 @@ papers:
     title: "Preface: 2nd International Conference on Mathematics\u2013Pure, Applied and Computation"
     year: '2017'
   jxd84eQAAAAJ:UeHWp8X0CEIC:
-    citations: 8
+    citations: 7
     title: Finite abstractions of stochastic max-plus-linear systems
     year: '2014'
   jxd84eQAAAAJ:UebtZRa9Y70C:
-    citations: 16
+    citations: 17
     title: Symbolic abstractions for the scheduling of event-triggered control systems
     year: '2015'
   jxd84eQAAAAJ:V3AGJWp-ZtQC:
@@ -318,7 +322,7 @@ papers:
     title: Mhd fluid flow with the effect of mixed convection passing on a magnetic sphere in newtonian nano fluid
     year: '2019'
   jxd84eQAAAAJ:YOwf2qJgpHMC:
-    citations: 7
+    citations: 6
     title: Formal verification of automated teller machine systems using SPIN
     year: '2017'
   jxd84eQAAAAJ:YsMSGLbcyi4C:
@@ -326,7 +330,7 @@ papers:
     title: On the constructing group to color the n-cube
     year: '2006'
   jxd84eQAAAAJ:ZHo1McVdvXMC:
-    citations: 6
+    citations: 5
     title: Unsteady magnetohydrodynamics mixed convection flow pass sliced magnetic sphere in nano fluid
     year: '2020'
   jxd84eQAAAAJ:ZeXyd9-uunAC:
@@ -346,7 +350,7 @@ papers:
     title: 'ARCH-COMP19 category report: hybrid systems with piecewise constant dynamics'
     year: '2019'
   jxd84eQAAAAJ:_xSYboBqXhAC:
-    citations: 5
+    citations: 4
     title: Pergerakan aliran mhd ag-air melewati bola pejal
     year: '2021'
   jxd84eQAAAAJ:a0OBvERweLwC:
@@ -390,7 +394,7 @@ papers:
     title: Aliran konveksi campuran magnetohidrodinamik yang melewati bola bermagnet
     year: '2020'
   jxd84eQAAAAJ:dhFuZR0502QC:
-    citations: 14
+    citations: 13
     title: Business process improvement of production systems using coloured petri nets
     year: '2018'
   jxd84eQAAAAJ:dshw04ExmUIC:
@@ -446,8 +450,8 @@ papers:
     title: On Some closed operations in threshold graphs
     year: '2019'
   jxd84eQAAAAJ:hqOjcs7Dif8C:
-    citations: 1
-    title: Modeling of railway networks using timed automata
+    citations: 0
+    title: Modeling of Railway Networks Using Timed Automata
     year: '2016'
   jxd84eQAAAAJ:iH-uZ7U-co4C:
     citations: 3
@@ -455,7 +459,7 @@ papers:
     year: '2018'
   jxd84eQAAAAJ:isC4tDSrTZIC:
     citations: 5
-    title: Magnetohydrodynamics with forced convection in micropolar fluid flows pass a magnetic porous sphere
+    title: Magnetohydrodynamics with Forced Convection in Micropolar Fluid Flows Pass a Magnetic Porous Sphere
     year: '2019'
   jxd84eQAAAAJ:j3f4tGmQtD8C:
     citations: 9
@@ -490,7 +494,7 @@ papers:
     title: Magnetohydrodynamic effects in mixed convection copper-water nano fluid flow at lower stagnation point on a sliced sphere
     year: '2021'
   jxd84eQAAAAJ:ns9cj8rnVeAC:
-    citations: 12
+    citations: 11
     title: Development of trigonometric visualization concepts to increase the study motivations of SMK students
     year: '2019'
   jxd84eQAAAAJ:olpn-zPbct0C:
@@ -506,7 +510,7 @@ papers:
     title: Centralized and decentralized  controller design for storey building systems using matrix inequality approach
     year: '2019'
   jxd84eQAAAAJ:pyW8ca7W8N0C:
-    citations: 15
+    citations: 16
     title: Modified Kalman filter-based model predictive control for ship heading control with probabilistic constraints
     year: '2021'
   jxd84eQAAAAJ:q3oQSFYPqjQC:
