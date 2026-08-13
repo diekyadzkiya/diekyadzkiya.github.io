@@ -70,6 +70,9 @@ description: beberapa tautan penting
 - [Overleaf, Online LaTeX Editor](https://www.overleaf.com/)
 - [pCloud - Secure Cloud Storage for Files, Photos & Documents](https://www.pcloud.com/)
 - [PDDikti - Pangkalan Data Pendidikan Tinggi](https://pddikti.kemdiktisaintek.go.id/)
+- PhD course Physics-Informed Machine Learning for Modeling, Planning, Control and Estimation of Physical Systems
+  - [Full video lecture playlist](https://www.youtube.com/playlist?list=PLcgrvuVJuClg)
+  - [slides](https://drive.google.com/drive/folders/1xgC0e5DumzfKEIGpTJ6nqjAOIpHb6Emb)
 - [Portal ITS](https://portal.its.ac.id/)
 - [R Discovery - Researcher.Life](https://discovery.researcher.life/)
 - [Sage Cell Server](https://sagecell.sagemath.org/)
