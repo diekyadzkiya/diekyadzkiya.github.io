@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-12'
+  last_updated: '2026-08-17'
 papers:
   jxd84eQAAAAJ:-f6ydRqryjwC:
     citations: 14
@@ -166,7 +166,7 @@ papers:
     title: Modeling of water treatment plant using timed continuous Petri nets
     year: '2017'
   jxd84eQAAAAJ:K3LRdlH-MEoC:
-    citations: 4
+    citations: 5
     title: Motion Control Design and Analysis of UR5 Collaborative Robots Using Proportional Integral Derivative (PID) Method
     year: '2021'
   jxd84eQAAAAJ:KlAtU1dfN6UC:
@@ -294,7 +294,7 @@ papers:
     title: The application of reduced rank ensemble Kalman filter to estimate heat conduction distribution
     year: '2009'
   jxd84eQAAAAJ:WbkHhVStYXYC:
-    citations: 6
+    citations: 7
     title: Motion control design and analysis of ur5 collaborative robots using fuzzy logic control (flc) method
     year: '2021'
   jxd84eQAAAAJ:Wp0gIr-vW9MC:
@@ -350,7 +350,7 @@ papers:
     title: 'ARCH-COMP19 category report: hybrid systems with piecewise constant dynamics'
     year: '2019'
   jxd84eQAAAAJ:_xSYboBqXhAC:
-    citations: 4
+    citations: 5
     title: Pergerakan aliran mhd ag-air melewati bola pejal
     year: '2021'
   jxd84eQAAAAJ:a0OBvERweLwC:
@@ -574,7 +574,7 @@ papers:
     title: "Feedback Exponential Stabilization of GHZ States of Multiqubit Systems........ W. Liang, NH Amini, and P. Mason 2918 Hybrid Feedback for Global Tracking on Matrix Lie Groups SO \u2026"
     year: Unknown Year
   jxd84eQAAAAJ:uWQEDVKXjbEC:
-    citations: 1
+    citations: 2
     title: Profil Mikrorotasi dan Temperatur Aliran Magnetohidrodinamik Fluida Mikrokutub pada Bola Bermagnet
     year: '2022'
   jxd84eQAAAAJ:u_35RYKgDlwC:
