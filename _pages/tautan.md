@@ -78,6 +78,9 @@ description: beberapa tautan penting
 - [R Discovery - Researcher.Life](https://discovery.researcher.life/)
 - [Sage Cell Server](https://sagecell.sagemath.org/)
 - [Sci-Hub](https://sci-hub.in/)
+- Sekolah Progresif
+  - [ppdb](https://ppdb.sekolahprogresif.com/)
+  - [sims](https://sims.sekolahprogresif.com/)
 - [Siamat](http://10.12.197.174/siamat/do5en/)
 - [Sister Kemdiktisaintek](https://sister.kemdiktisaintek.go.id/)
 - [TeraBox: Free 1TB(1024GB) Cloud Storage & File Storage](https://www.terabox.com/)
