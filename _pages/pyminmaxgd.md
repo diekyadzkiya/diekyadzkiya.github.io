@@ -15,7 +15,7 @@ git switch olivier
 cd ..
 sudo apt update
 sudo apt upgrade
-sudo apt install python-dev-is-python3 python3-matplotlib
+sudo apt install python-dev-is-python3 python3-matplotlib swig
 make
 python Scripts/initial_configuration.py
 pip install matplotlib
