@@ -25,18 +25,29 @@ description: beberapa hal yang ingin dikerjakan
 # Penelitian
 
 <ul>
-  <li>PHC Nusantara 2026: Revisi Proposal dan RAB di BIMA (menunggu informasi dari Mbak Restu)</li>
+  <li>PHC Nusantara 2026: Revisi Proposal dan RAB di BIMA (menunggu informasi dari Mbak Restu), Unggah laporan kemajuan (deadline 28 Agustus 2026)</li>
   <li>Strategic Research Grant 2026</li>
   <li>Penelitian Fundamental Reguler 2025: Tugas Akhir Harits</li>
   <li>Penelitian Dasar Unggulan Perguruan Tinggi 2023: Tesis</li>
   <li>Paper Ghulam</li>
-  <li>Review</li>
+  <li>Review: IJCSAM</li>
 </ul>
 
 # Pengabdian
 
 <ul>
   <li>IJCSAM</li>
+</ul>
+
+# Rutin
+
+<ul>
+  <li>Kendaraan: Pajak, SIM</li>
+  <li>PBB: Putra Bangsa, Taman Gunung Anyar, Lingkar Timur</li>
+  <li>Perawatan Makam</li>
+  <li>PDAM: Putra Bangsa, Taman Gunung Anyar</li>
+  <li>PGN</li>
+  <li>PLN</li>
 </ul>
 
 # Lainnya
@@ -62,4 +73,5 @@ description: beberapa hal yang ingin dikerjakan
   <li>ASIIN</li>
   <li>Menyimpan nomor telpon: 5002261011 Muhammad Mujib Abdurrohman halaman 33 sudah</li>
   <li>Pusat Studi Sains Fundamental: writing research grant proposal (Prof. Moreno Di Marco, Iska Desmawati, S.Si., M.Si.), laporan akhir pusat studi</li>
+  <li>SAINTS 2027</li>
 </ul>
