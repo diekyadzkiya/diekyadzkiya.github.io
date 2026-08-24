@@ -14,6 +14,7 @@ description: beberapa tautan penting
 - [Principles of Model Checking](https://mitpress.mit.edu/9780262026499/principles-of-model-checking/)
 - [Real‐Time Embedded Systems](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119420712)
 - [Synchronization and Linearity: An Algebra for Discrete Event Systems](https://www.rocq.inria.fr/metalau/cohen/documents/BCOQ-book.pdf)
+- [Transport Phenomena, Equations and Numerical Methods](https://osf.io/preprints/inarxiv/5vw73_v1)
 
 # Halaman
 
