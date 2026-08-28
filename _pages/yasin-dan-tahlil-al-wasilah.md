@@ -15,6 +15,11 @@ description: tuan rumah penyelenggaraan
   </thead>
   <tbody>
     <tr>
+      <td>30/08/2026</td>
+      <td>Musholla An-Nur</td>
+      <td>Putra Bangsa</td>
+    </tr>
+    <tr>
       <td>23/08/2026</td>
       <td>Bpk Wahib</td>
       <td>Putra Bangsa 6 RT 03/RW 02</td>
