@@ -5,6 +5,107 @@ title: jadwal mengajar
 description: jadwal mengajar pada setiap semester
 ---
 
+# Semester Gasal 2026/2027
+
+## Dieky Adzkiya
+
+<table>
+  <thead>
+    <tr>
+      <th>Hari</th>
+      <th>Jam</th>
+      <th>Mata Kuliah</th>
+      <th>Kelas</th>
+      <th>Ruang</th>
+      <th>Keterangan</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="3">Senin</td>
+      <td>07:00-09:30</td>
+      <td>Kalkulus 1 * Mohammad Iqbal</td>
+      <td>65</td>
+      <td>TW2.402</td>
+      <td>Sebelum ETS</td>
+    </tr>
+    <tr>
+      <td>07:00-08:40</td>
+      <td>Topik Aljabar Terapan * Dan Winda Setyawati * Muhammad Syifa'ul Mufid</td>
+      <td>A</td>
+      <td>F.111</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>15:30-17:10</td>
+      <td>Kapita Selekta Aljabar * Dan Winda Setyawati * Soleha * Muhammad Syifa'ul Mufid</td>
+      <td>A</td>
+      <td>F.110</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td rowspan="3">Selasa</td>
+      <td>07:00-08:40</td>
+      <td>Kalkulus 2</td>
+      <td>41</td>
+      <td>TW1.601</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>09:00-10:40</td>
+      <td>Fungsi Peubah Kompleks</td>
+      <td>C</td>
+      <td>T.101-A</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>11:00-12:40</td>
+      <td>Aljabar Linier Elementer * Muhammad Syifa’ul Mufid</td>
+      <td>D</td>
+      <td>TW1.906</td>
+      <td>Setelah ETS</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Rabu</td>
+      <td>09:00-10:40</td>
+      <td>Kalkulus 2</td>
+      <td>23</td>
+      <td>TW1.303</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>11:00-12:40</td>
+      <td>Matematika</td>
+      <td>2</td>
+      <td>TW1.206</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td rowspan="3">Kamis</td>
+      <td>07:00-08:40</td>
+      <td>Kalkulus 2</td>
+      <td>41</td>
+      <td>TW1.601</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>09:00-10:40</td>
+      <td>Fungsi Peubah Kompleks</td>
+      <td>C</td>
+      <td>T.101-A</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>11:00-12:40</td>
+      <td>Aljabar Linier Elementer * Muhammad Syifa’ul Mufid</td>
+      <td>D</td>
+      <td>TW1.906</td>
+      <td>Setelah ETS</td>
+    </tr>
+  </tbody>
+</table>
+
+
 # Semester Antara
 
 ## Dieky Adzkiya
