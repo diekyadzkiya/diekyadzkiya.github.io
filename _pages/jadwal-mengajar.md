@@ -44,25 +44,31 @@ description: jadwal mengajar pada setiap semester
       <td></td>
     </tr>
     <tr>
-      <td rowspan="3">Selasa</td>
-      <td>07:00-08:40</td>
-      <td>Kalkulus 2</td>
-      <td>41</td>
-      <td>TW1.601</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>09:00-10:40</td>
-      <td>Fungsi Peubah Kompleks</td>
-      <td>C</td>
-      <td>T.101-A</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>11:00-12:40</td>
-      <td>Aljabar Linier Elementer * Muhammad Syifa’ul Mufid</td>
+      <td rowspan="4">Selasa</td>
+      <td>09:40-11:20</td>
+      <td>Aljabar Linier * Mohamad Ilham Dwi Firmansyah</td>
       <td>D</td>
-      <td>TW1.906</td>
+      <td>T.101-B</td>
+      <td>Setelah ETS</td>
+    </tr>
+    <tr>
+      <td>12:30-15:00</td>
+      <td>Logika Matematika</td>
+      <td>C</td>
+      <td>TW1.1003</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td rowspan="2">15:30-18:00</td>
+      <td>Kalkulus 1 * Muhammad Luthfi Shahab</td>
+      <td>115</td>
+      <td>TW1.704</td>
+      <td>Sebelum ETS</td>
+    </tr>
+    <tr>
+      <td>Kalkulus 1 * Muhammad Syifa'ul Mufid</td>
+      <td>64</td>
+      <td>TW1.504</td>
       <td>Setelah ETS</td>
     </tr>
     <tr>
@@ -104,7 +110,6 @@ description: jadwal mengajar pada setiap semester
     </tr>
   </tbody>
 </table>
-
 
 # Semester Antara
 
