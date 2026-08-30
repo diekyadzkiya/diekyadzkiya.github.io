@@ -31,14 +31,14 @@ description: jadwal mengajar pada setiap semester
     </tr>
     <tr>
       <td>07:00-08:40</td>
-      <td>Topik Aljabar Terapan * Dan Winda Setyawati * Muhammad Syifa'ul Mufid</td>
+      <td>Topik Aljabar Terapan * Dian Winda Setyawati * Muhammad Syifa'ul Mufid</td>
       <td>A</td>
       <td>F.111</td>
       <td></td>
     </tr>
     <tr>
       <td>15:30-17:10</td>
-      <td>Kapita Selekta Aljabar * Dan Winda Setyawati * Soleha * Muhammad Syifa'ul Mufid</td>
+      <td>Kapita Selekta Aljabar * Dian Winda Setyawati * Soleha * Muhammad Syifa'ul Mufid</td>
       <td>A</td>
       <td>F.110</td>
       <td></td>
@@ -72,40 +72,26 @@ description: jadwal mengajar pada setiap semester
       <td>Setelah ETS</td>
     </tr>
     <tr>
-      <td rowspan="2">Rabu</td>
-      <td>09:00-10:40</td>
-      <td>Kalkulus 2</td>
-      <td>23</td>
-      <td>TW1.303</td>
-      <td></td>
+      <td>Rabu</td>
+      <td>09:40-11:20</td>
+      <td>Verifikasi Formal * Muhammad Syifa'ul Mufid</td>
+      <td>A</td>
+      <td>F.111</td>
+      <td>Sebelum ETS</td>
     </tr>
     <tr>
-      <td>11:00-12:40</td>
-      <td>Matematika</td>
-      <td>2</td>
-      <td>TW1.206</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td rowspan="3">Kamis</td>
-      <td>07:00-08:40</td>
-      <td>Kalkulus 2</td>
-      <td>41</td>
-      <td>TW1.601</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>09:00-10:40</td>
-      <td>Fungsi Peubah Kompleks</td>
+      <td rowspan="2">Kamis</td>
+      <td>07:00-09:30</td>
+      <td>Geometri Analitik</td>
       <td>C</td>
-      <td>T.101-A</td>
+      <td>TW1.1001</td>
       <td></td>
     </tr>
     <tr>
-      <td>11:00-12:40</td>
-      <td>Aljabar Linier Elementer * Muhammad Syifa’ul Mufid</td>
+      <td>09:40-11:20</td>
+      <td>Aljabar Linier * Mohamad Ilham Dwi Firmansyah</td>
       <td>D</td>
-      <td>TW1.906</td>
+      <td>T.101-B</td>
       <td>Setelah ETS</td>
     </tr>
   </tbody>
