@@ -104,6 +104,7 @@ description: beberapa tautan penting
 - [Journal of Mathematical Analysis and Applications](https://www.sciencedirect.com/journal/journal-of-mathematical-analysis-and-applications)
 - [Mathematical Modelling of Engineering Problems](https://www.iieta.org/Journals/MMEP)
 - [MethodsX](https://www.sciencedirect.com/journal/methodsx)
+- [Results in Control and Optimization](https://www.sciencedirect.com/journal/results-in-control-and-optimization)
 - [Results in Engineering](https://www.sciencedirect.com/journal/results-in-engineering)
 - [Statistics, Optimization & Information Computing](http://www.iapress.org/index.php/soic)
 - [Trends in Sciences](https://tis.wu.ac.th/tishome/)
