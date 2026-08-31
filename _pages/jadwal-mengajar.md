@@ -7,6 +7,56 @@ description: jadwal mengajar pada setiap semester
 
 # Semester Gasal 2026/2027
 
+## Izah Mumtazah Adzkiya
+
+<table>
+  <thead>
+    <tr>
+      <th>Hari</th>
+      <th>Waktu Sekolah</th>
+      <th>Seragam</th>
+      <th>Keterangan</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Senin</td>
+      <td>06:30-14:10</td>
+      <td>Biru Putih dan Olahraga</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Selasa</td>
+      <td>06:30-14:10</td>
+      <td>Biru Putih</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Rabu</td>
+      <td>06:30-16:00</td>
+      <td>Biru Putih</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kamis</td>
+      <td>06:30-14:10</td>
+      <td>Batik</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td rowspan="2">Jumat</td>
+      <td>06:30-14:30</td>
+      <td>Pramuka</td>
+      <td>Ada pramuka</td>
+    </tr>
+    <tr>
+      <td>06:30-13:00</td>
+      <td>Pramuka</td>
+      <td>Tidak ada pramuka</td>
+    </tr>
+  </tbody>
+</table>
+
 ## Dieky Adzkiya
 
 <table>
