@@ -24,7 +24,7 @@ description: jadwal mengajar pada setiap semester
     <tr>
       <td rowspan="3">Senin</td>
       <td>07:00-09:30</td>
-      <td>Kalkulus 1 * Mohammad Iqbal</td>
+      <td>Kalkulus 1 IUP * Mohammad Iqbal</td>
       <td>65</td>
       <td>TW2.402</td>
       <td>Sebelum ETS</td>
@@ -72,7 +72,14 @@ description: jadwal mengajar pada setiap semester
       <td>Setelah ETS</td>
     </tr>
     <tr>
-      <td>Rabu</td>
+      <td rowspan="2">Rabu</td>
+      <td>07:00-09:30</td>
+      <td>Fungsi Peubah Kompleks</td>
+      <td>A</td>
+      <td>F.103</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>09:40-11:20</td>
       <td>Verifikasi Formal * Muhammad Syifa'ul Mufid</td>
       <td>A</td>
