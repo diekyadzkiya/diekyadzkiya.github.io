@@ -5,6 +5,10 @@ title: pekerjaan rumah
 description: pekerjaan yang dilakukan di rumah
 ---
 
+# Menanak Nasi
+
+Biasanya 4, sekarang 3 saja
+
 # Mesin Cuci
 
 <ol>
