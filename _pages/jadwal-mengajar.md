@@ -110,7 +110,7 @@ description: jadwal mengajar pada setiap semester
     </tr>
     <tr>
       <td rowspan="2">15:30-18:00</td>
-      <td>Kalkulus 1 * Muhammad Luthfi Shahab</td>
+      <td>Kalkulus 1 IUP Ulang * Muhammad Luthfi Shahab</td>
       <td>115</td>
       <td>TW1.704</td>
       <td>Sebelum ETS</td>
