@@ -57,7 +57,7 @@ description: beberapa hal yang ingin dikerjakan
   <li>Perawatan Makam</li>
   <li>PDAM: Putra Bangsa 1181598, Taman Gunung Anyar 1172266</li>
   <li>PGN</li>
-  <li>PLN</li>
+  <li>PLN Putra Bangsa 14307268145</li>
 </ul>
 
 # Lainnya
