@@ -55,7 +55,7 @@ description: beberapa hal yang ingin dikerjakan
   <li>Kendaraan: Pajak, SIM</li>
   <li>PBB: Putra Bangsa, Taman Gunung Anyar, Lingkar Timur</li>
   <li>Perawatan Makam</li>
-  <li>PDAM: Putra Bangsa, Taman Gunung Anyar</li>
+  <li>PDAM: Putra Bangsa 1181598, Taman Gunung Anyar 1172266</li>
   <li>PGN</li>
   <li>PLN</li>
 </ul>
