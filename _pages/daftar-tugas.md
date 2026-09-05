@@ -51,6 +51,7 @@ description: beberapa hal yang ingin dikerjakan
 # Rutin
 
 <ul>
+  <li>Indihome</li>
   <li>Kendaraan: Pajak, SIM</li>
   <li>PBB: Putra Bangsa, Taman Gunung Anyar, Lingkar Timur</li>
   <li>Perawatan Makam</li>
