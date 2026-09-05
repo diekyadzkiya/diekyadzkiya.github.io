@@ -15,6 +15,11 @@ description: tuan rumah penyelenggaraan
   </thead>
   <tbody>
     <tr>
+      <td>06/09/2026</td>
+      <td>Bpk Mustono</td>
+      <td>PB3 RT 09</td>
+    </tr>
+    <tr>
       <td>30/08/2026</td>
       <td>Musholla An-Nur</td>
       <td>Putra Bangsa</td>
