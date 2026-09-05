@@ -10,7 +10,16 @@ description: beberapa hal yang ingin dikerjakan
 <ul>
   <li>Mata Kuliah</li>
   <ul>
-    <li>Kalkulus 1 (3)</li>
+    <li>Kalkulus 1 IUP (65)</li>
+    <li>Topik Aljabar Terapan (A)</li>
+    <li>Kapita Selekta Aljabar (A)</li>
+    <li>Aljabar Linier (D)</li>
+    <li>Logika Matematika (C)</li>
+    <li>Kalkulus 1 IUP Ulang (115)</li>
+    <li>Kalkulus 1 (64)</li>
+    <li>Fungsi Peubah Kompleks (A)</li>
+    <li>Verifikasi Formal (A)</li>
+    <li>Geometri Analitik (C)</li>
   </ul>
   <li>Bimbingan</li>
   <ul>
