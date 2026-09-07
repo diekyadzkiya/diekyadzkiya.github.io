@@ -31,6 +31,7 @@ description: beberapa tautan penting
 # Lainnya
 
 - [al-folio](https://alshedivat.github.io/al-folio/)
+- [Arena AI](https://arena.ai/)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [Ayo Produktif: NotebookLM Solusi Riset Akademik Tanpa Halusinasi, Moses L. Singgih](https://youtu.be/LTKNYvZs-TY?si=-EfABqk4BhEy1zxK)
 - [BIMA - Kemdiktisaintek](https://bima.kemdiktisaintek.go.id)
@@ -83,6 +84,7 @@ description: beberapa tautan penting
 - [R Discovery - Researcher.Life](https://discovery.researcher.life/)
 - [Sage Cell Server](https://sagecell.sagemath.org/)
 - [Sci-Hub](https://sci-hub.in/)
+- [SciSpace](https://scispace.com/)
 - Sekolah Progresif
   - [ppdb](https://ppdb.sekolahprogresif.com/)
   - [sims](https://sims.sekolahprogresif.com/)
