@@ -45,6 +45,7 @@ description: beberapa tautan penting
 - [Coretax DJP](https://coretaxdjp.pajak.go.id/)
 - [Data Driven Science & Engineering](https://databookuw.com/)
 - [Departemen Matematika ITS](https://www.its.ac.id/matematika/)
+- [Downloadly](https://downloadly.ir/)
 - [e-LHKPN](https://elhkpn.kpk.go.id/)
 - [e-SPPT Surabaya](https://pbb.surabaya.go.id/esppt/)
 - Editage
