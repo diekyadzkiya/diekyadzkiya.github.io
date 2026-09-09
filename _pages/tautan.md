@@ -7,6 +7,7 @@ description: beberapa tautan penting
 
 # Buku
 
+- [A First Course in Linear Algebra](https://linear.pugetsound.edu/)
 - [Basic Stochastic Processes: A Course Through Exercises](https://link.springer.com/book/10.1007/978-1-4471-0533-6)
 - [Control of Discrete-Event Systems: Automata and Petri Net Perspectives](https://link.springer.com/book/10.1007/978-1-4471-4276-8)
 - [Effective Dynamics of Stochastic Partial Differential Equations](https://www.sciencedirect.com/book/monograph/9780128008829/effective-dynamics-of-stochastic-partial-differential-equations)
@@ -30,7 +31,6 @@ description: beberapa tautan penting
 
 # Lainnya
 
-- [A First Course in Linear Algebra](https://linear.pugetsound.edu/)
 - [al-folio](https://alshedivat.github.io/al-folio/)
 - [Arena AI](https://arena.ai/)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
@@ -83,6 +83,7 @@ description: beberapa tautan penting
   - [Full video lecture playlist](https://www.youtube.com/playlist?list=PLcgrvuVJuClg)
   - [slides](https://drive.google.com/drive/folders/1xgC0e5DumzfKEIGpTJ6nqjAOIpHb6Emb)
 - [Portal ITS](https://portal.its.ac.id/)
+- [PreTeXt - Write Once, Read Anywhere](https://pretextbook.org/)
 - [R Discovery - Researcher.Life](https://discovery.researcher.life/)
 - [Sage Cell Server](https://sagecell.sagemath.org/)
 - [Sci-Hub](https://sci-hub.in/)
