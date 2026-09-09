@@ -30,6 +30,7 @@ description: beberapa tautan penting
 
 # Lainnya
 
+- [A First Course in Linear Algebra](https://linear.pugetsound.edu/)
 - [al-folio](https://alshedivat.github.io/al-folio/)
 - [Arena AI](https://arena.ai/)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
