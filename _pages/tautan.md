@@ -93,6 +93,7 @@ description: beberapa tautan penting
   - [sims](https://sims.sekolahprogresif.com/)
 - [Siamat](http://10.12.197.174/siamat/do5en/)
 - [Sister Kemdiktisaintek](https://sister.kemdiktisaintek.go.id/)
+- [Slack - RIKEN International HPC Summer School 2026](https://rikeninternat-oa16462.slack.com/)
 - [SLMath](https://www.slmath.org/)
 - [TeraBox: Free 1TB(1024GB) Cloud Storage & File Storage](https://www.terabox.com/)
 - [WhatsApp Web](https://web.whatsapp.com/)
