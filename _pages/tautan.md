@@ -89,8 +89,9 @@ description: beberapa tautan penting
 - [Sci-Hub](https://sci-hub.in/)
 - [SciSpace](https://scispace.com/)
 - Sekolah Progresif
-  - [ppdb](https://ppdb.sekolahprogresif.com/)
-  - [sims](https://sims.sekolahprogresif.com/)
+  - [PPDB Bumi Sholawat](https://ppdb.sekolahprogresif.com/)
+  - [SIMS Bumi Sholawat](https://sims.sekolahprogresif.com/)
+  - [SMASIF Portal](https://smaprogresif.com/)
 - [Siamat](http://10.12.197.174/siamat/do5en/)
 - [Sister Kemdiktisaintek](https://sister.kemdiktisaintek.go.id/)
 - [Slack - RIKEN International HPC Summer School 2026](https://rikeninternat-oa16462.slack.com/)
