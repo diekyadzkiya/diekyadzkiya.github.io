@@ -53,11 +53,11 @@ description: beberapa hal yang ingin dikerjakan
 <ul>
   <li>Indihome 1523 1024 8896</li>
   <li>Kendaraan: Pajak, SIM</li>
-  <li>PBB: Putra Bangsa, Taman Gunung Anyar, Lingkar Timur</li>
+  <li>PBB: Putra Bangsa 357804000601503620, Taman Gunung Anyar 357804200401314960, Lingkar Timur 351507000600504780</li>
   <li>Perawatan Makam</li>
-  <li>PDAM: Putra Bangsa 1181598, Taman Gunung Anyar 1172266</li>
+  <li>PDAM: Putra Bangsa 1181598, Taman Gunung Anyar 1172266, Sadang Serang 00107700190</li>
   <li>PGN</li>
-  <li>PLN Putra Bangsa 14307268145</li>
+  <li>PLN: Putra Bangsa 14307268145, Sadang Serang 01115122481</li>
 </ul>
 
 # Lainnya
