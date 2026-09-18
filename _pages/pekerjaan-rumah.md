@@ -7,7 +7,7 @@ description: pekerjaan yang dilakukan di rumah
 
 # Menanak Nasi
 
-Biasanya 4, sekarang 3 saja
+Biasanya 4, sekarang 3 saja. Ternyata kalau 3 atau 4, nasi sering habis, jadi akhirnya 5 hehe.
 
 # Mesin Cuci
 
@@ -23,3 +23,7 @@ Biasanya 4, sekarang 3 saja
   <li>Pilih spin 800</li>
   <li>Pencet tombol mulai</li>
 </ol>
+
+# Sabun Cuci Piring
+
+Ketinggian sabun cuci sekitar 1 cm dan sisanya air.
