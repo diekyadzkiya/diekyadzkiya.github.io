@@ -34,7 +34,7 @@ description: beberapa hal yang ingin dikerjakan
 # Penelitian
 
 <ul>
-  <li>PHC Nusantara 2026: Revisi Proposal dan RAB di BIMA (menunggu informasi dari Mbak Restu), Unggah laporan kemajuan (deadline 28 Agustus 2026)</li>
+  <li>PHC Nusantara 2026: luaran, SPJ</li>
   <li>Strategic Research Grant 2026</li>
   <li>Penelitian Fundamental Reguler 2025: Tugas Akhir Harits</li>
   <li>Penelitian Dasar Unggulan Perguruan Tinggi 2023: Tesis</li>
@@ -56,7 +56,7 @@ description: beberapa hal yang ingin dikerjakan
   <li>PBB: Putra Bangsa 357804000601503620, Taman Gunung Anyar 357804200401314960, Lingkar Timur 351507000600504780</li>
   <li>Perawatan Makam</li>
   <li>PDAM: Putra Bangsa 1181598, Taman Gunung Anyar 1172266, Sadang Serang 00107700190</li>
-  <li>PGN</li>
+  <li>PGN 00447383</li>
   <li>PLN: Putra Bangsa 14307268145, Sadang Serang 01115122481</li>
 </ul>
 
