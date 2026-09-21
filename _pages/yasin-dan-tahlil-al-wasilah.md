@@ -15,6 +15,11 @@ description: tuan rumah penyelenggaraan
   </thead>
   <tbody>
     <tr>
+      <td>22/09/2026</td>
+      <td>Bpk Zaenal</td>
+      <td>PB Gang 3 No. 01 RT 03/RW 02</td>
+    </tr>
+    <tr>
       <td>20/09/2026</td>
       <td>Bpk Andik S</td>
       <td>Putra Bangsa III Raya RT 09/RW 02</td>
