@@ -65,6 +65,8 @@ description: beberapa tautan penting
   - [dioids/phc-nusantara-26](https://gitlab.univ-nantes.fr/dioids/phc-nusantara-26/)
   - [GitUALH/MinMaxGD](https://github.com/GitUALH/MinMaxGD/)
   - [jeertmans/manim-slides](https://github.com/jeertmans/manim-slides/)
+  - [jeertmans/manim-slides-starter](https://github.com/jeertmans/manim-slides-starter/)
+  - [jeertmans/manim-tutorial](https://github.com/jeertmans/manim-tutorial/)
   - [mikepierce/conference-website-template](https://github.com/mikepierce/conference-website-template)
 - [Google Gemini](https://gemini.google.com/)
 - [Groupy](https://groupy.id/home/)
