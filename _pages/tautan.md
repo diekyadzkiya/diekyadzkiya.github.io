@@ -76,6 +76,7 @@ description: beberapa tautan penting
 - [Library Genesis+](https://libgen.im/)
 - [Login Microsoft 365 Copilot](https://login.microsoftonline.com/)
 - [Manim Community](https://www.manim.community/)
+- [Manim Slides](https://manim-slides.eertmans.be/)
 - [Mattermost NU](https://mattermost.univ-nantes.fr/oauth/gitlab/login)
 - [Maxpluspy](https://perso-laris.univ-angers.fr/~lahaye/maxpluspy.html)
 - [ME 702 - Computational Fluid Dynamics](https://youtube.com/playlist?list=PL30F4C5ABCE62CB61&si=nQib5czka0pA6zTT/)
