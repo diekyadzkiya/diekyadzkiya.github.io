@@ -40,6 +40,7 @@ description: beberapa tautan penting
 - [BIMA - Kemdiktisaintek](https://bima.kemdiktisaintek.go.id)
 - [BiMath: Bina Nalar Matematika Rumah Kita](https://sites.google.com/view/rumahmath/home/)
 - [BSI Net - Bank Syariah Indonesia](https://bsinet.bankbsi.co.id/)
+- [Cara Install Playstore Lenovo Xiaoxin Pad 2024](https://youtu.be/yKXKE_UDITg?si=BdGmmDrSeLpFZ89q)
 - [ChatGPT](https://chatgpt.com/)
 - [Claude](https://claude.ai/)
 - [CoCalc](https://cocalc.com/)
