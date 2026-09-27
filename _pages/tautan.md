@@ -9,9 +9,12 @@ description: beberapa tautan penting
 
 - [A First Course in Linear Algebra](https://linear.pugetsound.edu/)
 - [Abstract Algebra: Theory and Applications](https://www.math.colostate.edu/~pries/467/Judson12.pdf) ([Sage Exercises for Abstract Algebra](https://webpages.math.luc.edu/~lauve/courses/314-sp2016/aata-20150812-sage-6.8.pdf))
+- [An Introduction to Mathematical Biology](https://www.pearson.com/en-us/subject-catalog/p/introduction-to-mathematical-biology-an/P200000006070/9780130352163)
 - [Basic Stochastic Processes: A Course Through Exercises](https://link.springer.com/book/10.1007/978-1-4471-0533-6)
 - [Control of Discrete-Event Systems: Automata and Petri Net Perspectives](https://link.springer.com/book/10.1007/978-1-4471-4276-8)
 - [Effective Dynamics of Stochastic Partial Differential Equations](https://www.sciencedirect.com/book/monograph/9780128008829/effective-dynamics-of-stochastic-partial-differential-equations)
+- [Fractional Differential Equations: An Introduction to Fractional Derivatives, Fractional Differential Equations, to Methods of their Solution and some of their Applications](https://www.sciencedirect.com/bookseries/mathematics-in-science-and-engineering/vol/198/suppl/C)
+- [Fractional-Order Nonlinear Systems: Modeling, Analysis and Simulation](https://link.springer.com/book/10.1007/978-3-642-18101-6)
 - [Logic in Computer Science: Modelling and Reasoning about Systems](https://www.amazon.com/Logic-Computer-Science-Modelling-Reasoning/dp/052154310X)
 - [Ocean Modelling for Beginners: Using Open-Source Software](https://link.springer.com/book/10.1007/978-3-642-00820-7)
 - [Principles of Model Checking](https://mitpress.mit.edu/9780262026499/principles-of-model-checking/)
