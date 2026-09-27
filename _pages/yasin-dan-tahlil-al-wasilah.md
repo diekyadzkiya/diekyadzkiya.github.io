@@ -15,6 +15,11 @@ description: tuan rumah penyelenggaraan
   </thead>
   <tbody>
     <tr>
+      <td>27/09/2026</td>
+      <td>Musholla An-Nur</td>
+      <td>Putra Bangsa</td>
+    </tr>
+    <tr>
       <td>22/09/2026</td>
       <td>Bpk Zaenal</td>
       <td>PB Gang 3 No. 01 RT 03/RW 02</td>
