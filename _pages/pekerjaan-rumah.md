@@ -5,9 +5,16 @@ title: pekerjaan rumah
 description: pekerjaan yang dilakukan di rumah
 ---
 
+# Belajar
+
+<ol>
+  <li>Makanan: pentol frozen dan mie telor</li>
+  <li>Minuman: teh, jeruk, kopi susu instan hangat</li>
+</ol>
+
 # Menanak Nasi
 
-Biasanya 4, sekarang 3 saja. Ternyata kalau 3 atau 4, nasi sering habis, jadi akhirnya 5 hehe.
+Biasanya 4, sekarang 3 saja. Ternyata kalau 3 atau 4, nasi sering habis, jadi akhirnya 5. Izah kadang makan oat, jadi kembali ke 3.
 
 # Mesin Cuci
 
