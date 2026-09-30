@@ -94,6 +94,7 @@ description: beberapa tautan penting
   - [slides](https://drive.google.com/drive/folders/1xgC0e5DumzfKEIGpTJ6nqjAOIpHb6Emb)
 - [Portal ITS](https://portal.its.ac.id/)
 - [PreTeXt - Write Once, Read Anywhere](https://pretextbook.org/)
+- [Prism - AI LaTeX Editor](https://prism.openai.com/)
 - [R Discovery - Researcher.Life](https://discovery.researcher.life/)
 - [Sage Cell Server](https://sagecell.sagemath.org/)
 - [Sci-Hub](https://sci-hub.in/)
