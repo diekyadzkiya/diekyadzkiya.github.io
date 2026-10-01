@@ -67,6 +67,7 @@ description: beberapa tautan penting
   - [dariopi/Deep-Learning-for-System-Identification----EECI-Course----2026](https://github.com/dariopi/Deep-Learning-for-System-Identification----EECI-Course----2026/)
   - [dioids](https://gitlab.univ-nantes.fr/dioids)
   - [dioids/phc-nusantara-26](https://gitlab.univ-nantes.fr/dioids/phc-nusantara-26/)
+  - [dreal/dreal4](https://github.com/dreal/dreal4/)
   - [GitUALH/MinMaxGD](https://github.com/GitUALH/MinMaxGD/)
   - [jeertmans/manim-slides](https://github.com/jeertmans/manim-slides/)
   - [jeertmans/manim-slides-starter](https://github.com/jeertmans/manim-slides-starter/)
