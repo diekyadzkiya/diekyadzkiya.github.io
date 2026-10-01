@@ -78,6 +78,7 @@ description: beberapa tautan penting
 - [How To Install Docker on WSL2 Without Docker Desktop](https://youtu.be/h0d3rZKWWUI?si=p1HYVRk924nRSIe_)
 - [How To Run Overleaf Locally & For Free!](https://youtu.be/jDy9rdgSoHs?si=3QO7x8hKVoww5ZA8)
 - [HYCON-EECI, Spring 2012 - Murray Wiki](https://murray.cds.caltech.edu/HYCON-EECI,_Spring_2012)
+- [Introduction to Codespaces](https://www.youtube.com/playlist?list=PLmsFUfdnGr3wTl-NCblzcrEv2lFSX975-/)
 - [IslamicFinder](https://www.islamicfinder.org/)
 - [LaTeX to Image converter](https://latex2image.joeraut.com/)
 - [Library Genesis+](https://libgen.im/)
