@@ -73,6 +73,7 @@ description: beberapa tautan penting
   - [jeertmans/manim-slides-starter](https://github.com/jeertmans/manim-slides-starter/)
   - [jeertmans/manim-tutorial](https://github.com/jeertmans/manim-tutorial/)
   - [mikepierce/conference-website-template](https://github.com/mikepierce/conference-website-template)
+- [Google Cloud Shell Tutorial for Beginners](https://youtu.be/RdDyF3jVbbE?si=5bKkYl0fqAkilhwR)
 - [Google Gemini](https://gemini.google.com/)
 - [Groupy](https://groupy.id/home/)
 - [How To Install Docker on WSL2 Without Docker Desktop](https://youtu.be/h0d3rZKWWUI?si=p1HYVRk924nRSIe_)
