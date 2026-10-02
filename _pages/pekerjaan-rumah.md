@@ -35,6 +35,10 @@ Takaran menanak nasi biasanya 4 centong, sekarang 3 saja. Ternyata kalau 3 atau 
 
 Ketinggian sabun cuci sekitar 1 cm dan sisanya air.
 
+# Susu
+
+Susu Ultramilk UHT Full Crea baik untuk dikonsumsi anak-anak karena mengandung susu segar 100%.
+
 # Telur
 
 Untuk memasak telur, masukkan telur ke dalam air. Kemudian panaskan selama 15 menit.
