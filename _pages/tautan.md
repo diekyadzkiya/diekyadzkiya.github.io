@@ -37,6 +37,7 @@ description: beberapa tautan penting
 # Lainnya
 
 - [al-folio](https://alshedivat.github.io/al-folio/)
+- [Andy Stapleton](https://www.youtube.com/@DrAndyStapleton)
 - [Arena AI](https://arena.ai/)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [Ayo Produktif: NotebookLM Solusi Riset Akademik Tanpa Halusinasi, Moses L. Singgih](https://youtu.be/LTKNYvZs-TY?si=-EfABqk4BhEy1zxK)
