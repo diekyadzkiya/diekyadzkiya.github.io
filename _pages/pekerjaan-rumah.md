@@ -12,6 +12,13 @@ description: pekerjaan yang dilakukan di rumah
   <li>Minuman: teh, jeruk, kopi susu instan hangat</li>
 </ol>
 
+# Beli
+
+<ol>
+  <li>Kepala selang kuningan</li>
+  <li>Keramik 40 cm x 40 cm</li>
+</ol>
+
 # Mesin Cuci
 
 <ol>
