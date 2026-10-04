@@ -9,13 +9,13 @@ description: langkah-langkah instalasi
 
 ## GitHub Codespaces
 
-Berikut adalah langkah-langkah instalasi [`PyMinMaxGD`](https://gitlab.univ-nantes.fr/dioids/python-toolbox) di `github codespace`. Langkah pertama adalah `clone` repositori [`PyMinMaxGD`](https://gitlab.univ-nantes.fr/dioids/python-toolbox).
+Berikut adalah langkah-langkah instalasi [`PyMinMaxGD`](https://gitlab.univ-nantes.fr/dioids/python-toolbox) di GitHub Codespaces. Langkah pertama adalah `clone` repositori [`PyMinMaxGD`](https://gitlab.univ-nantes.fr/dioids/python-toolbox).
 
 ```
 git clone https://gitlab.univ-nantes.fr/dioids/python-toolbox.git
 ```
 
-Kemudian masuk ke folder utama dan lakukan `clone` repositori [`libminmaxgd`](https://gitlab.univ-nantes.fr/dioids/libminmaxgd). Setelah itu, gunakan branch `olivier`.
+Kemudian masuk ke folder utama dan lakukan clone repositori [`libminmaxgd`](https://gitlab.univ-nantes.fr/dioids/libminmaxgd). Setelah itu, gunakan branch `olivier`.
 
 ```
 cd python-toolbox
@@ -38,7 +38,7 @@ pip install matplotlib
 
 ## Google Colab
 
-Berikut adalah langkah-langkah instalasi [`PyMinMaxGD`](https://gitlab.univ-nantes.fr/dioids/python-toolbox) di `Google Colab`. Langkah pertama adalah `clone` repositori [`PyMinMaxGD`](https://gitlab.univ-nantes.fr/dioids/python-toolbox) dan [`libminmaxgd`](https://gitlab.univ-nantes.fr/dioids/libminmaxgd). Kemudian memindahkan hasil clone repositori [`libminmaxgd`](https://gitlab.univ-nantes.fr/dioids/libminmaxgd) ke subfolder dari `python-toolbox`. Setelah itu, menggunakan branch `olivier` pada repositori [`libminmaxgd`](https://gitlab.univ-nantes.fr/dioids/libminmaxgd). Kemudian, install package yang dibutuhkan yaitu `python-dev-is-python3`, `python3-matplotlib` dan `swig`. Setelah itu, jalankan perintah `make` dari folder `python-toolbox`. Langkah terakhir adalah memasukkan folder `python-toolbox` ke `PATH`.
+Berikut adalah langkah-langkah instalasi [`PyMinMaxGD`](https://gitlab.univ-nantes.fr/dioids/python-toolbox) di Google Colab. Langkah pertama adalah clone repositori [`PyMinMaxGD`](https://gitlab.univ-nantes.fr/dioids/python-toolbox) dan [`libminmaxgd`](https://gitlab.univ-nantes.fr/dioids/libminmaxgd). Kemudian memindahkan hasil clone repositori [`libminmaxgd`](https://gitlab.univ-nantes.fr/dioids/libminmaxgd) ke subfolder dari `python-toolbox`. Setelah itu, menggunakan branch `olivier` pada repositori [`libminmaxgd`](https://gitlab.univ-nantes.fr/dioids/libminmaxgd). Kemudian, install package yang dibutuhkan yaitu `python-dev-is-python3`, `python3-matplotlib` dan `swig`. Setelah itu, jalankan perintah `make` dari folder `python-toolbox`. Langkah terakhir adalah memasukkan folder `python-toolbox` ke `PATH`.
 
 ```
 !git clone https://gitlab.univ-nantes.fr/dioids/python-toolbox.git
