@@ -81,7 +81,7 @@ description: beberapa hal yang ingin dikerjakan
   <li>Overleaf Community Edition</li>
   <li>Revisi Buku Kalkulus</li>
   <li>ASIIN</li>
-  <li>Menyimpan nomor telpon: 5002261011 Muhammad Mujib Abdurrohman halaman 33 sudah</li>
-  <li>Pusat Studi Sains Fundamental: writing research grant proposal (Prof. Moreno Di Marco, Iska Desmawati, S.Si., M.Si.), laporan akhir pusat studi</li>
+  <li>Menyimpan nomor telpon: 5002261018 Syawaluna Carissa Ozora halaman 33 sudah</li>
+  <li>Pusat Studi Sains Fundamental: spmi, laporan akhir pusat studi</li>
   <li>SAINTS 2027</li>
 </ul>
