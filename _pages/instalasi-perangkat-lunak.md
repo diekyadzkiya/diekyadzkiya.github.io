@@ -1,9 +1,13 @@
 ---
 layout: page
-permalink: /pyminmaxgd.html
-title: pyminmaxgd
+permalink: /instalasi-perangkat-lunak.html
+title: instalasi perangkat lunak
 description: langkah-langkah instalasi
 ---
+
+# PyMinMaxGD
+
+## GitHub Codespaces
 
 Berikut adalah langkah-langkah instalasi [`pyminmaxgd`](https://gitlab.univ-nantes.fr/dioids/python-toolbox) di `github codespace`.
 ```
@@ -20,6 +24,8 @@ make
 python Scripts/initial_configuration.py
 pip install matplotlib
 ```
+
+## Google Colab
 
 Berikut adalah langkah-langkah instalasi [`pyminmaxgd`](https://gitlab.univ-nantes.fr/dioids/python-toolbox) di `google colab`.
 ```
