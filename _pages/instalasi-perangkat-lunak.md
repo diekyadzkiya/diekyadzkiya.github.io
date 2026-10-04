@@ -9,7 +9,7 @@ description: langkah-langkah instalasi
 
 ## GitHub Codespaces
 
-Berikut adalah langkah-langkah instalasi [`PyMinMaxGD`](https://gitlab.univ-nantes.fr/dioids/python-toolbox) di GitHub Codespaces. Langkah pertama adalah `clone` repositori [`PyMinMaxGD`](https://gitlab.univ-nantes.fr/dioids/python-toolbox).
+Berikut adalah langkah-langkah instalasi [`PyMinMaxGD`](https://gitlab.univ-nantes.fr/dioids/python-toolbox) di GitHub Codespaces. Langkah pertama adalah clone repositori [`PyMinMaxGD`](https://gitlab.univ-nantes.fr/dioids/python-toolbox).
 
 ```
 git clone https://gitlab.univ-nantes.fr/dioids/python-toolbox.git
