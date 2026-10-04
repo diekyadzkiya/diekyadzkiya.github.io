@@ -26,11 +26,11 @@ description: beberapa tautan penting
 
 - [beban kerja dosen](https://diekyadzkiya.github.io/beban-kerja-dosen.html)
 - [daftar tugas](https://diekyadzkiya.github.io/daftar-tugas.html)
+- [instalasi perangkat lunak](https://diekyadzkiya.github.io/instalasi-perangkat-lunak.html)
 - [jadwal mengajar](https://diekyadzkiya.github.io/jadwal-mengajar.html)
 - [kalkulus 1](https://diekyadzkiya.github.io/kalkulus-1.html)
 - [mengaji bersama ust sumarno](https://diekyadzkiya.github.io/mengaji-bersama-ust-sumarno.html)
 - [pekerjaan rumah](https://diekyadzkiya.github.io/pekerjaan-rumah.html)
-- [pyminmaxgd](https://diekyadzkiya.github.io/pyminmaxgd.html)
 - [tautan](https://diekyadzkiya.github.io/tautan.html)
 - [yasin dan tahlil al wasilah](https://diekyadzkiya.github.io/yasin-dan-tahlil-al-wasilah.html)
 
