@@ -116,7 +116,7 @@ description: jadwal mengajar pada setiap semester
       <td>Sebelum ETS</td>
     </tr>
     <tr>
-      <td>Kalkulus 1 * Muhammad Syifa'ul Mufid</td>
+      <td>Kalkulus 1 IUP * Muhammad Syifa'ul Mufid</td>
       <td>64</td>
       <td>TW1.504</td>
       <td>Setelah ETS</td>
