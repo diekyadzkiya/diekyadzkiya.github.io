@@ -24,6 +24,25 @@ pip install matplotlib
 !make -C /content/python-toolbox/
 import sys
 sys.path.append('/content/python-toolbox/')
+</code></pre></div></div> <h1 id="sagemath">SageMath</h1> <ol> <li>Instal condacolab (<em>Persiapan lingkungan Conda di Colab</em>). Tulis dan jalankan kode berikut pada <em>cell</em> pertama untuk mengunduh serta mengonfigurasi Conda ke dalam runtime Colab:</li> </ol> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>!pip install -q condacolab
+import condacolab
+condacolab.install()
+</code></pre></div></div> <p><strong>Catatan:</strong> Setelah sel ini selesai dijalankan, runtime Colab akan otomatis melakukan <em>restart</em> (ditandai dengan pesan <em>“Crash”</em> atau <em>“Kernel restarted”</em> di pojok kanan bawah). Ini adalah perilaku normal agar jalur sistem <em>(PATH)</em> Conda aktif secara penuh.</p> <ol> <li>Instal SageMath via Conda (<em>Mengunduh dan merakit dependensi SageMath</em>). Setelah runtime selesai <em>restart</em>, jalankan perintah instalasi SageMath melalui channel conda-forge di <em>cell</em> baru:</li> </ol> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>!conda install -c conda-forge sage -y
+</code></pre></div></div> <p><em>Proses ini biasanya memakan waktu sekitar 3–5 menit tergantung pada kecepatan koneksi server Colab.</em></p> <ol> <li>Uji Coba Eksekusi Kode SageMath (<em>Memastikan SageMath terpasang dengan benar</em>). Setelah paket <code class="language-plaintext highlighter-rouge">sage</code> selesai terinstal, Anda dapat memanggil modul-modul SageMath atau mengeksekusi skrip Sage langsung dari antarmuka Python Colab:</li> </ol> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>import sage.all as sage
+
+# Menggunakan simbolik variabel dari Sage
+x = sage.var('x')
+
+# Menyelesaikan persamaan simbolik
+persamaan = sage.solve(x**2 + 5*x + 6 == 0, x)
+print("Solusi:", persamaan)
+
+# Menghitung faktor polinomial
+print("Faktorisasi:", sage.factor(x**4 - 1))
+
+# Operasi Matriks
+M = sage.Matrix([[1, 2], [3, 4]])
+print("Determinant:", M.det())
 </code></pre></div></div> </article> </div> </div> <footer class="fixed-bottom" role="contentinfo"> <div class="container mt-0"> © Copyright 2026 Dieky Adzkiya. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>. Photos from <a href="https://unsplash.com" target="_blank" rel="external nofollow noopener">Unsplash</a>. </div> </footer> <script>
   window.alFolio = {
     compatBootstrap: false
