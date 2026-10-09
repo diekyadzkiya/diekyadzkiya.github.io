@@ -25,7 +25,7 @@ Di repositori GitHub Anda, buat folder bernama `.devcontainer`. Di dalam folder 
 }
 ```
 
-4. Ujicoba instalasi:
+Ujicoba instalasi:
 
 ```
 /opt/dreal/4.21.06.2/bin/dreal
