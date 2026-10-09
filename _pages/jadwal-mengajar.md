@@ -34,13 +34,13 @@ description: jadwal mengajar pada setiap semester
     <tr>
       <td>Rabu</td>
       <td>06:30-16:00</td>
-      <td>Biru Putih</td>
+      <td>Batik</td>
       <td></td>
     </tr>
     <tr>
       <td>Kamis</td>
       <td>06:30-14:10</td>
-      <td>Batik</td>
+      <td>Biru Putih</td>
       <td></td>
     </tr>
     <tr>
