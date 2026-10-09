@@ -24,7 +24,7 @@ pip install matplotlib
 !make -C /content/python-toolbox/
 import sys
 sys.path.append('/content/python-toolbox/')
-</code></pre></div></div> <h1 id="sagemath">SageMath</h1> <ol> <li>Instal condacolab (<em>Persiapan lingkungan Conda di Colab</em>). Tulis dan jalankan kode berikut pada <em>cell</em> pertama untuk mengunduh serta mengonfigurasi Conda ke dalam runtime Colab:</li> </ol> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>!pip install -q condacolab
+</code></pre></div></div> <h1 id="sagemath">SageMath</h1> <h2 id="google-colab-1">Google Colab</h2> <ol> <li>Instal condacolab (<em>Persiapan lingkungan Conda di Colab</em>). Tulis dan jalankan kode berikut pada <em>cell</em> pertama untuk mengunduh serta mengonfigurasi Conda ke dalam runtime Colab:</li> </ol> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>!pip install -q condacolab
 import condacolab
 condacolab.install()
 </code></pre></div></div> <p><strong>Catatan:</strong> Setelah sel ini selesai dijalankan, runtime Colab akan otomatis melakukan <em>restart</em> (ditandai dengan pesan <em>“Crash”</em> atau <em>“Kernel restarted”</em> di pojok kanan bawah). Ini adalah perilaku normal agar jalur sistem <em>(PATH)</em> Conda aktif secara penuh.</p> <ol> <li>Instal SageMath via Conda (<em>Mengunduh dan merakit dependensi SageMath</em>). Setelah runtime selesai <em>restart</em>, jalankan perintah instalasi SageMath melalui channel conda-forge di <em>cell</em> baru:</li> </ol> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>!conda install -c conda-forge sage -y
