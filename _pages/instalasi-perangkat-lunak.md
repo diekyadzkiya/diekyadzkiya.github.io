@@ -14,7 +14,23 @@ description: langkah-langkah instalasi
 3. Masukkan konfigurasi berikut:
 
 ```
-aaa
+{
+  "name": "Ubuntu 22.04 Environment",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu-22.04",
+  "remoteUser": "vscode",
+  "features": {
+    "ghcr.io/devcontainers/features/common-utils:1": {
+      "configureZshAsDefaultShell": true
+    }
+  },
+  "postCreateCommand": "sudo apt-get update && sudo apt-get install -y curl && curl -fsSL https://raw.githubusercontent.com/dreal/dreal4/master/setup/ubuntu/22.04/install.sh | sudo bash"
+}
+```
+
+4. Ujicoba instalasi:
+
+```
+/opt/dreal/4.21.06.2/bin/dreal
 ```
 
 # PyMinMaxGD
