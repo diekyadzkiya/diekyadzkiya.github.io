@@ -53,6 +53,8 @@ sys.path.append('/content/python-toolbox/')
 
 # SageMath
 
+## Google Colab
+
 1. Instal condacolab (*Persiapan lingkungan Conda di Colab*). Tulis dan jalankan kode berikut pada *cell* pertama untuk mengunduh serta mengonfigurasi Conda ke dalam runtime Colab:
 
 ```
