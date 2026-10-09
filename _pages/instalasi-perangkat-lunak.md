@@ -53,6 +53,36 @@ sys.path.append('/content/python-toolbox/')
 
 # SageMath
 
+## GitHub Codespaces
+
+1. Di repositori GitHub Anda, buat folder bernama `.devcontainer`.
+2. Di dalam folder tersebut, buat berkas bernama `devcontainer.json`.
+3. Masukkan konfigurasi berikut:
+
+```
+{
+  "name": "SageMath Environment",
+  "image": "sagemath/sagemath:latest",
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "ms-toolsai.jupyter"
+      ]
+    }
+  }
+}
+```
+
+4. Membuka antarmuka Jupyter Notebook di browser lokal Anda dengan kernel SageMath yang sudah terintegrasi secara otomatis:
+
+```
+sage -n jupyter
+```
+
 ## Google Colab
 
 1. Instal condacolab (*Persiapan lingkungan Conda di Colab*). Tulis dan jalankan kode berikut pada *cell* pertama untuk mengunduh serta mengonfigurasi Conda ke dalam runtime Colab:
