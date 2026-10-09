@@ -5,6 +5,18 @@ title: instalasi perangkat lunak
 description: langkah-langkah instalasi
 ---
 
+# dreal
+
+## GitHub Codespaces
+
+1. Di repositori GitHub Anda, buat folder bernama `.devcontainer`.
+2. Di dalam folder tersebut, buat berkas bernama `devcontainer.json`.
+3. Masukkan konfigurasi berikut:
+
+```
+aaa
+```
+
 # PyMinMaxGD
 
 ## GitHub Codespaces
