@@ -9,9 +9,7 @@ description: langkah-langkah instalasi
 
 ## GitHub Codespaces
 
-1. Di repositori GitHub Anda, buat folder bernama `.devcontainer`.
-2. Di dalam folder tersebut, buat berkas bernama `devcontainer.json`.
-3. Masukkan konfigurasi berikut:
+Di repositori GitHub Anda, buat folder bernama `.devcontainer`. Di dalam folder tersebut, buat berkas bernama `devcontainer.json`. Masukkan konfigurasi berikut:
 
 ```
 {
@@ -83,9 +81,7 @@ sys.path.append('/content/python-toolbox/')
 
 ## GitHub Codespaces
 
-1. Di repositori GitHub Anda, buat folder bernama `.devcontainer`.
-2. Di dalam folder tersebut, buat berkas bernama `devcontainer.json`.
-3. Masukkan konfigurasi berikut:
+Di repositori GitHub Anda, buat folder bernama `.devcontainer`. Di dalam folder tersebut, buat berkas bernama `devcontainer.json`. Masukkan konfigurasi berikut:
 
 ```
 {
@@ -105,7 +101,7 @@ sys.path.append('/content/python-toolbox/')
 }
 ```
 
-4. Membuka antarmuka Jupyter Notebook di browser lokal Anda dengan kernel SageMath yang sudah terintegrasi secara otomatis:
+Membuka antarmuka Jupyter Notebook di browser lokal Anda dengan kernel SageMath yang sudah terintegrasi secara otomatis:
 
 ```
 sage -n jupyter
@@ -113,7 +109,7 @@ sage -n jupyter
 
 ## Google Colab
 
-1. Instal condacolab (*Persiapan lingkungan Conda di Colab*). Tulis dan jalankan kode berikut pada *cell* pertama untuk mengunduh serta mengonfigurasi Conda ke dalam runtime Colab:
+Instal condacolab (*Persiapan lingkungan Conda di Colab*). Tulis dan jalankan kode berikut pada *cell* pertama untuk mengunduh serta mengonfigurasi Conda ke dalam runtime Colab:
 
 ```
 !pip install -q condacolab
@@ -123,7 +119,7 @@ condacolab.install()
 
 **Catatan:** Setelah sel ini selesai dijalankan, runtime Colab akan otomatis melakukan *restart* (ditandai dengan pesan *"Crash"* atau *"Kernel restarted"* di pojok kanan bawah). Ini adalah perilaku normal agar jalur sistem *(PATH)* Conda aktif secara penuh.
 
-2. Instal SageMath via Conda (*Mengunduh dan merakit dependensi SageMath*). Setelah runtime selesai *restart*, jalankan perintah instalasi SageMath melalui channel conda-forge di *cell* baru:
+Instal SageMath via Conda (*Mengunduh dan merakit dependensi SageMath*). Setelah runtime selesai *restart*, jalankan perintah instalasi SageMath melalui channel conda-forge di *cell* baru:
 
 ```
 !conda install -c conda-forge sage -y
@@ -131,7 +127,7 @@ condacolab.install()
 
 *Proses ini biasanya memakan waktu sekitar 3–5 menit tergantung pada kecepatan koneksi server Colab.*
 
-3. Uji Coba Eksekusi Kode SageMath (*Memastikan SageMath terpasang dengan benar*). Setelah paket `sage` selesai terinstal, Anda dapat memanggil modul-modul SageMath atau mengeksekusi skrip Sage langsung dari antarmuka Python Colab:
+Uji Coba Eksekusi Kode SageMath (*Memastikan SageMath terpasang dengan benar*). Setelah paket `sage` selesai terinstal, Anda dapat memanggil modul-modul SageMath atau mengeksekusi skrip Sage langsung dari antarmuka Python Colab:
 
 ```
 import sage.all as sage
