@@ -117,7 +117,7 @@ import condacolab
 condacolab.install()
 ```
 
-**Catatan:** Setelah sel ini selesai dijalankan, runtime Colab akan otomatis melakukan _restart_ (ditandai dengan pesan _"Crash"_ atau _"Kernel restarted"_ di pojok kanan bawah). Ini adalah perilaku normal agar jalur sistem *(PATH)* Conda aktif secara penuh.
+**Catatan:** Setelah sel ini selesai dijalankan, runtime Colab akan otomatis melakukan _restart_ (ditandai dengan pesan _"Crash"_ atau _"Kernel restarted"_ di pojok kanan bawah). Ini adalah perilaku normal agar jalur sistem _(PATH)_ Conda aktif secara penuh.
 
 Instal SageMath via Conda (_Mengunduh dan merakit dependensi SageMath_). Setelah runtime selesai _restart_, jalankan perintah instalasi SageMath melalui channel conda-forge di _cell_ baru:
 
