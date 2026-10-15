@@ -109,7 +109,7 @@ sage -n jupyter
 
 ## Google Colab
 
-Instal condacolab (*Persiapan lingkungan Conda di Colab*). Tulis dan jalankan kode berikut pada *cell* pertama untuk mengunduh serta mengonfigurasi Conda ke dalam runtime Colab:
+Instal condacolab (_Persiapan lingkungan Conda di Colab_). Tulis dan jalankan kode berikut pada _cell_ pertama untuk mengunduh serta mengonfigurasi Conda ke dalam runtime Colab:
 
 ```
 !pip install -q condacolab
@@ -117,17 +117,17 @@ import condacolab
 condacolab.install()
 ```
 
-**Catatan:** Setelah sel ini selesai dijalankan, runtime Colab akan otomatis melakukan *restart* (ditandai dengan pesan *"Crash"* atau *"Kernel restarted"* di pojok kanan bawah). Ini adalah perilaku normal agar jalur sistem *(PATH)* Conda aktif secara penuh.
+**Catatan:** Setelah sel ini selesai dijalankan, runtime Colab akan otomatis melakukan _restart_ (ditandai dengan pesan _"Crash"_ atau _"Kernel restarted"_ di pojok kanan bawah). Ini adalah perilaku normal agar jalur sistem *(PATH)* Conda aktif secara penuh.
 
-Instal SageMath via Conda (*Mengunduh dan merakit dependensi SageMath*). Setelah runtime selesai *restart*, jalankan perintah instalasi SageMath melalui channel conda-forge di *cell* baru:
+Instal SageMath via Conda (_Mengunduh dan merakit dependensi SageMath_). Setelah runtime selesai _restart_, jalankan perintah instalasi SageMath melalui channel conda-forge di _cell_ baru:
 
 ```
 !conda install -c conda-forge sage -y
 ```
 
-*Proses ini biasanya memakan waktu sekitar 3–5 menit tergantung pada kecepatan koneksi server Colab.*
+_Proses ini biasanya memakan waktu sekitar 3–5 menit tergantung pada kecepatan koneksi server Colab._
 
-Uji Coba Eksekusi Kode SageMath (*Memastikan SageMath terpasang dengan benar*). Setelah paket `sage` selesai terinstal, Anda dapat memanggil modul-modul SageMath atau mengeksekusi skrip Sage langsung dari antarmuka Python Colab:
+Uji Coba Eksekusi Kode SageMath (_Memastikan SageMath terpasang dengan benar_). Setelah paket `sage` selesai terinstal, Anda dapat memanggil modul-modul SageMath atau mengeksekusi skrip Sage langsung dari antarmuka Python Colab:
 
 ```
 import sage.all as sage
