@@ -15,6 +15,11 @@ description: tuan rumah penyelenggaraan
   </thead>
   <tbody>
     <tr>
+      <td>18/10/2026</td>
+      <td>Musholla An-Nur</td>
+      <td>Putra Bangsa</td>
+    </tr>
+    <tr>
       <td>11/10/2026</td>
       <td>Bpk Su'ud</td>
       <td>Putra Bangsa 3 Blok E / 45</td>
