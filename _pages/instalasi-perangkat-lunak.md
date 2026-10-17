@@ -21,14 +21,26 @@ Di repositori GitHub Anda, buat folder bernama `.devcontainer`. Di dalam folder 
       "configureZshAsDefaultShell": true
     }
   },
-  "postCreateCommand": "sudo apt-get update && sudo apt-get install -y curl && curl -fsSL https://raw.githubusercontent.com/dreal/dreal4/master/setup/ubuntu/22.04/install.sh | sudo bash"
+  "postCreateCommand": "sudo apt-get update && sudo apt-get install -y curl pip && git clone https://github.com/dreal/dreal4 && cd dreal4 && sudo ./setup/ubuntu/`lsb_release -r -s`/install_prereqs.sh && cd .. && pip install dreal --upgrade && curl -fsSL https://raw.githubusercontent.com/dreal/dreal4/master/setup/ubuntu/22.04/install.sh | sudo bash"
 }
 ```
 
-Ujicoba instalasi:
+Jalankan `python3` di terminal dan tulis program berikut
 
 ```
-/opt/dreal/4.21.06.2/bin/dreal
+from dreal import *
+
+x = Variable("x")
+y = Variable("y")
+z = Variable("z")
+
+f_sat = And(0 <= x, x <= 10,
+            0 <= y, y <= 10,
+            0 <= z, z <= 10,
+            sin(x) + cos(y) == z)
+
+result = CheckSatisfiability(f_sat, 0.001)
+print(result)
 ```
 
 # PyMinMaxGD
