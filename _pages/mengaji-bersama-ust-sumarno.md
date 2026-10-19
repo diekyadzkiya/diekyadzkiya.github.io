@@ -14,6 +14,10 @@ description: ayat yang dibaca pada setiap pertemuan
   </thead>
   <tbody>
     <tr>
+      <td>18/10/2026</td>
+      <td>202-203</td>
+    </tr>
+    <tr>
       <td>17/10/2026</td>
       <td>200-201</td>
     </tr>
