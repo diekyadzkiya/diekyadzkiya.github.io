@@ -5,7 +5,7 @@ title: instalasi perangkat lunak
 description: langkah-langkah instalasi
 ---
 
-# dreal
+# dReal
 
 ## GitHub Codespaces
 
