@@ -134,6 +134,25 @@ from google.colab import files
 files.download('document.pdf')
 ```
 
+Tips Tambahan
++ Mendukung Paket Lengkap: Jika dokumen Anda membutuhkan banyak paket khusus, Anda bisa menginstal paket penuh dengan `!apt-get install -y texlive-full` (membutuhkan waktu unduh lebih lama dan ruang penyimpanan sekitar 4 GB).
++ Integrasi dengan Google Drive: Simpan berkas `.tex` di Google Drive agar tidak hilang saat sesi runtime Colab berakhir.
+
+Apabila file latex berada di repositori GitHub publik, maka pertama instal latex dan kloning repositori. Kemudian navigasi ke direktori repositori.
+```
+!apt-get update -qq
+!apt-get install -y texlive-latex-base texlive-latex-extra texlive-fonts-recommended latexmk
+!git clone https://github.com/nama-pengguna/nama-repo.git
+%cd nama-repo
+```
+
+Untuk menghasilkan file PDF, kompilasi file latex dan unduh hasilnya:
+```
+!pdflatex -interaction=nonstopmode document.tex
+from google.colab import files
+files.download('document.pdf')
+```
+
 # PyMinMaxGD
 
 ## GitHub Codespaces
