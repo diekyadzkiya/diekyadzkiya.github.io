@@ -41,3 +41,5 @@ Don't start over when the answer isn't right, reply and refine.
 </table>
 
 Challenge: Ask Claude to write something about your topic and then change it a couple times without starting over.
+
+### Chapter 4: Pick the right model
