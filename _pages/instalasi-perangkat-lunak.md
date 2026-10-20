@@ -43,6 +43,47 @@ result = CheckSatisfiability(f_sat, 0.001)
 print(result)
 ```
 
+# GitHub
+
+## Google Colab
+
+Google Colab dapat digunakan untuk menjalankan berbagai operasi Git seperti `clone`, `commit`, `push`, dan lainnya. Karena notebook Colab berjalan di atas lingkungan sistem operasi Linux (Ubuntu), Anda bisa menjalankan perintah Git langsung dengan menambahkan tanda seru (`!`) di awal perintah.
+
+Kloning repositori
+```
+!git clone https://github.com/nama-pengguna/nama-repo.git
+```
+
+Navigasi ke Direktori Repositori. Gunakan perintah `%cd` (magic command) agar Colab tetap berada di direktori tersebut untuk perintah selanjutnya:
+```
+%cd nama-repo
+```
+
+Mengecek Status dan Histori
+```
+!git status
+!git log --oneline
+```
+
+Konfigurasi Identitas Pengguna. Sebelum melakukan _commit_, Anda perlu mengatur nama dan email:
+```
+!git config --global user.name "Nama Anda"
+!git config --global user.email "email@example.com"
+```
+
+Melakukan Commit dan Push Perubahan
+```
+!git add .
+!git commit -m "Pesan commit Anda"
+!git push origin main
+```
+
+Hal Penting Terkait Otentikasi (`git push`). Karena Colab tidak menyimpan sesi login secara permanen, Anda memerlukan _Personal Access Token_ (PAT) atau SSH key dari GitHub/GitLab untuk melakukan _push_. Cara termudah adalah memasukkan token langsung pada URL repositori saat _clone_ atau saat mengubah _remote URL_:
+```
+!git remote set-url origin https://<TOKEN_ANDA>@github.com/nama-pengguna/nama-repo.git
+!git push origin main
+```
+
 # PyMinMaxGD
 
 ## GitHub Codespaces
