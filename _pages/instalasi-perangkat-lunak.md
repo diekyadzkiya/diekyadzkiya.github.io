@@ -49,7 +49,7 @@ print(result)
 
 Google Colab dapat digunakan untuk menjalankan berbagai operasi Git seperti `clone`, `commit`, `push`, dan lainnya. Karena notebook Colab berjalan di atas lingkungan sistem operasi Linux (Ubuntu), Anda bisa menjalankan perintah Git langsung dengan menambahkan tanda seru (`!`) di awal perintah.
 
-Kloning repositori
+Kloning repositori (`git clone`)
 ```
 !git clone https://github.com/nama-pengguna/nama-repo.git
 ```
@@ -59,7 +59,7 @@ Navigasi ke Direktori Repositori. Gunakan perintah `%cd` (magic command) agar Co
 %cd nama-repo
 ```
 
-Mengecek Status dan Histori
+Mengecek Status dan Histori (`git status` & `git log`)
 ```
 !git status
 !git log --oneline
@@ -82,6 +82,56 @@ Hal Penting Terkait Otentikasi (`git push`). Karena Colab tidak menyimpan sesi l
 ```
 !git remote set-url origin https://<TOKEN_ANDA>@github.com/nama-pengguna/nama-repo.git
 !git push origin main
+```
+
+# LaTeX
+
+## Google Colab
+
+Google Colab dapat digunakan untuk mengompilasi dan menjalankan berkas LaTeX. Karena lingkungan Colab berbasis Linux (Ubuntu), Anda bisa menginstal distribusi LaTeX seperti `texlive` dan kompiler `pdflatex` atau `xelatex` untuk menghasilkan dokumen PDF langsung dari sel notebook.
+
+Instal Kompiler TeXLive (_Perlu waktu sekitar 1-2 menit untuk diunduh_). Daftar paket dasar TeX Live dan latexmk dapat diinstal menggunakan perintah apt-get:
+```
+!apt-get update -qq
+!apt-get install -y texlive-latex-base texlive-latex-extra texlive-fonts-recommended latexmk
+```
+
+Buat Berkas .tex Menggunakan Cell Magic. Gunakan perintah `%%writefile` di awal sel untuk membuat berkas dokumen LaTeX (misalnya `document.tex`):
+```
+%%writefile document.tex
+\documentclass{article}
+\usepackage[utf8]{utf8}
+\usepackage{amsmath}
+
+\title{Contoh Dokumen LaTeX di Colab}
+\author{Nama Penulis}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{Pendahuluan}
+Ini adalah contoh dokumen \LaTeX{} yang dikompilasi menggunakan Google Colab.
+
+\section{Formulasi Matematika}
+Persamaan matematika dapat ditulis dengan mudah:
+\begin{equation}
+E = mc^2
+\end{equation}
+
+\end{document}
+```
+
+Kompilasi Berkas LaTeX menjadi PDF. Jalankan kompiler `pdflatex` untuk memproses berkas `.tex` menjadi file `.pdf`:
+```
+!pdflatex -interaction=nonstopmode document.tex
+```
+
+Unduh Hasil PDF:
+```
+from google.colab import files
+files.download('document.pdf')
 ```
 
 # PyMinMaxGD
