@@ -32,6 +32,7 @@ description: beberapa tautan penting
 - [mengaji bersama ust sumarno](https://diekyadzkiya.github.io/mengaji-bersama-ust-sumarno.html)
 - [pekerjaan rumah](https://diekyadzkiya.github.io/pekerjaan-rumah.html)
 - [tautan](https://diekyadzkiya.github.io/tautan.html)
+- [the ultimate beginner's guide to claude ai](https://diekyadzkiya.github.io/the-ultimate-beginners-guide-to-claude-ai.html)
 - [yasin dan tahlil al wasilah](https://diekyadzkiya.github.io/yasin-dan-tahlil-al-wasilah.html)
 
 # Lainnya
