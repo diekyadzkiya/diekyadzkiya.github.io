@@ -146,8 +146,9 @@ Apabila file latex berada di repositori GitHub publik, maka pertama instal latex
 %cd nama-repo
 ```
 
-Untuk menghasilkan file PDF, kompilasi file latex dan unduh hasilnya:
+Untuk menghasilkan file PDF, pertama `pull` dari repositori kemudian kompilasi file latex dan unduh hasilnya:
 ```
+!git pull origin main
 !pdflatex -interaction=nonstopmode document.tex
 from google.colab import files
 files.download('document.pdf')
