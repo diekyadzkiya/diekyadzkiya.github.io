@@ -18,9 +18,10 @@ Go to the [website](https://claude.ai/) and follow the registration process.
 ## Chapter 3: How to write good prompts
 
 A good prompt consists of context, task and format.
-+ context: who you are, what you're working with.
-+ task: what you want.
-+ format: how you want it, the length, the tone and the structure.
+
+- **context**: who you are, what you're working with.
+- **task**: what you want.
+- **format**: how you want it, the length, the tone and the structure.
 Don't start over when the answer isn't right, reply and refine.
 
 <table>
