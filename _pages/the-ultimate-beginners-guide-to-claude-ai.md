@@ -42,3 +42,20 @@ Don't start over when the answer isn't right, reply and refine.
 Challenge: Ask Claude to write something about your topic and then change it a couple times without starting over.
 
 ### Chapter 4: Pick the right model
+
+Fast model for everyday task and a more powerful model for complex work.
+
+- **Fast food**: cheap, but quality can vary
+- **Fine dining chef**: longer and cost more, but handles complex meals, the special requests, and the occasions where details have to be just right
+
+The default model is used for everyday work. If reach limit, wait or upgrade. Suggestion: start free and then upgrade on the day the limit starts to annoy you.
+
+Level 1 complete
+
+- talk to Claude
+- shape answers
+- pick the right brain for the job
+
+# Level 2: Give Claude Your World
+
+## Chapter 5: Upload files and images
