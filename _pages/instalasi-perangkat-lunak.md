@@ -50,28 +50,33 @@ print(result)
 Google Colab dapat digunakan untuk menjalankan berbagai operasi Git seperti `clone`, `commit`, `push`, dan lainnya. Karena notebook Colab berjalan di atas lingkungan sistem operasi Linux (Ubuntu), Anda bisa menjalankan perintah Git langsung dengan menambahkan tanda seru (`!`) di awal perintah.
 
 Kloning repositori (`git clone`)
+
 ```
 !git clone https://github.com/nama-pengguna/nama-repo.git
 ```
 
 Navigasi ke Direktori Repositori. Gunakan perintah `%cd` (magic command) agar Colab tetap berada di direktori tersebut untuk perintah selanjutnya:
+
 ```
 %cd nama-repo
 ```
 
 Mengecek Status dan Histori (`git status` & `git log`)
+
 ```
 !git status
 !git log --oneline
 ```
 
 Konfigurasi Identitas Pengguna. Sebelum melakukan _commit_, Anda perlu mengatur nama dan email:
+
 ```
 !git config --global user.name "Nama Anda"
 !git config --global user.email "email@example.com"
 ```
 
 Melakukan Commit dan Push Perubahan
+
 ```
 !git add .
 !git commit -m "Pesan commit Anda"
@@ -79,6 +84,7 @@ Melakukan Commit dan Push Perubahan
 ```
 
 Hal Penting Terkait Otentikasi (`git push`). Karena Colab tidak menyimpan sesi login secara permanen, Anda memerlukan _Personal Access Token_ (PAT) atau SSH key dari GitHub/GitLab untuk melakukan _push_. Cara termudah adalah memasukkan token langsung pada URL repositori saat _clone_ atau saat mengubah _remote URL_:
+
 ```
 !git remote set-url origin https://<TOKEN_ANDA>@github.com/nama-pengguna/nama-repo.git
 !git push origin main
@@ -91,12 +97,14 @@ Hal Penting Terkait Otentikasi (`git push`). Karena Colab tidak menyimpan sesi l
 Google Colab dapat digunakan untuk mengompilasi dan menjalankan berkas LaTeX. Karena lingkungan Colab berbasis Linux (Ubuntu), Anda bisa menginstal distribusi LaTeX seperti `texlive` dan kompiler `pdflatex` atau `xelatex` untuk menghasilkan dokumen PDF langsung dari sel notebook.
 
 Instal Kompiler TeXLive (_Perlu waktu sekitar 1-2 menit untuk diunduh_). Daftar paket dasar TeX Live dan latexmk dapat diinstal menggunakan perintah apt-get:
+
 ```
 !apt-get update -qq
 !apt-get install -y texlive-latex-base texlive-latex-extra texlive-fonts-recommended latexmk
 ```
 
 Buat Berkas .tex Menggunakan Cell Magic. Gunakan perintah `%%writefile` di awal sel untuk membuat berkas dokumen LaTeX (misalnya `document.tex`):
+
 ```
 %%writefile document.tex
 \documentclass{article}
@@ -124,21 +132,25 @@ E = mc^2
 ```
 
 Kompilasi Berkas LaTeX menjadi PDF. Jalankan kompiler `pdflatex` untuk memproses berkas `.tex` menjadi file `.pdf`:
+
 ```
 !pdflatex -interaction=nonstopmode document.tex
 ```
 
 Unduh Hasil PDF:
+
 ```
 from google.colab import files
 files.download('document.pdf')
 ```
 
 Tips Tambahan
-+ Mendukung Paket Lengkap: Jika dokumen Anda membutuhkan banyak paket khusus, Anda bisa menginstal paket penuh dengan `!apt-get install -y texlive-full` (membutuhkan waktu unduh lebih lama dan ruang penyimpanan sekitar 4 GB).
-+ Integrasi dengan Google Drive: Simpan berkas `.tex` di Google Drive agar tidak hilang saat sesi runtime Colab berakhir.
+
+- Mendukung Paket Lengkap: Jika dokumen Anda membutuhkan banyak paket khusus, Anda bisa menginstal paket penuh dengan `!apt-get install -y texlive-full` (membutuhkan waktu unduh lebih lama dan ruang penyimpanan sekitar 4 GB).
+- Integrasi dengan Google Drive: Simpan berkas `.tex` di Google Drive agar tidak hilang saat sesi runtime Colab berakhir.
 
 Apabila file latex berada di repositori GitHub publik, maka pertama instal latex dan kloning repositori. Kemudian navigasi ke direktori repositori.
+
 ```
 !apt-get update -qq
 !apt-get install -y texlive-latex-base texlive-latex-extra texlive-fonts-recommended latexmk
@@ -147,6 +159,7 @@ Apabila file latex berada di repositori GitHub publik, maka pertama instal latex
 ```
 
 Untuk menghasilkan file PDF, pertama `pull` dari repositori kemudian kompilasi file latex dan unduh hasilnya:
+
 ```
 !git pull origin main
 !pdflatex -interaction=nonstopmode document.tex
