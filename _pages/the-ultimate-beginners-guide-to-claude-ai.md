@@ -59,3 +59,34 @@ Level 1 complete
 # Level 2: Give Claude Your World
 
 ## Chapter 5: Upload files and images
+
+Same task, same chat. New topic, new chat. Files: pdf, word documents, spreadsheets, images.
+
+Upload a supplied pricelist and then use the following prompt. This is a price list from a candle wax supplier. Summarize it in a short table and tell me which option is the cheapest per kilogram.
+
+Upload an image and then use the following prompt: What would you improve about this product photo to make it sell better online.
+
+Challenge: Upload the most boring document in your life and ask Claude to explain it.
+
+## Chapter 6: Web search and deep research
+
+Search the web: what are people saying about current candle and home fragrance trends? Give me sources. Click +, enable web search. Habit: When facts matter, look at the sources.
+
+That was a quick search. "Research" goes much further. Needs paid plan: one of the two features, upgrade worth it for me. The other one at level 6. Quick upgrade: bottom left, click profile icon, click upgrade plan, choose monthly option, click "Get Pro". Then, click + button, choose Research.
+
+Research the market for small handmade candle brands: who buy handmade candles, what they pay, how small brands market themselves and three biggest mistakes new candle businesses make. I am starting a small online candle shop.
+
+Challenge: Research your next big life decision.
+
+Level 2 complete
+
+- read files
+- see images
+- research anything with real sources
+
+# Level 3: Make Real Things
+
+- Downloadable files: word documents, excel spreadsheets, power points, pdf
+- Interactive builds: pages, mini apps
+
+## Chapter 7: Create documents, spreadsheets, and pages
