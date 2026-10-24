@@ -22,7 +22,7 @@ A good prompt consists of context, task and format.
 - **context**: who you are, what you're working with.
 - **task**: what you want.
 - **format**: how you want it, the length, the tone and the structure.
-Don't start over when the answer isn't right, reply and refine.
+  Don't start over when the answer isn't right, reply and refine.
 
 <table>
   <thead>
