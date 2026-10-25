@@ -91,3 +91,19 @@ Level 2 complete
 - Interactive builds: pages, mini apps
 
 ## Chapter 7: Create documents, spreadsheets, and pages
+
+Prompt: Create an Excel spreadsheet to track my candle inventory: columns for product name, scent, cost to make, selling price, profit margin (calculated), and stock. Fill in 8 example candles with realistic numbers.
+
+This might be budget, a resume, a lesson plan, or a report for work.
+
+Second kind: artefacts. Open new chat. Prompt: create a simple, beautiful landing page for Amberlight candles -- warm colors, a headline, three featured candles, and an email signup section. Prompt: Make the background cream and the headline bigger. Prompt: Now turn it into a scent quiz that recommends one of our candles.
+
+Challenge: Build one small tool for your life. It could be a budget calculator, a workout planner or a quiz for your friends.
+
+Level 3 complete
+
+Claude makes real things for you, but notice a problem: description, research, files are scattered across separate chats and every new chat starts from zero (amnesia).
+
+# Level 4: Make Claude Know You
+
+## Chapter 8: Organize your work with projects
