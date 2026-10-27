@@ -85,6 +85,7 @@ description: beberapa tautan penting
 - [IslamicFinder](https://www.islamicfinder.org/)
 - [LaTeX to Image converter](https://latex2image.joeraut.com/)
 - [Library Genesis+](https://libgen.im/)
+- [Limerse](https://limerse.com/)
 - [Login Microsoft 365 Copilot](https://login.microsoftonline.com/)
 - [Manim Community](https://www.manim.community/)
 - [Manim Slides](https://manim-slides.eertmans.be/)
