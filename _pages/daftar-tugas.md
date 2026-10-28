@@ -13,7 +13,7 @@ description: beberapa hal yang ingin dikerjakan
     <li>Kalkulus 1 IUP (65)</li>
     <li>Topik Aljabar Terapan (A)</li>
     <li>Kapita Selekta Aljabar (A)</li>
-    <li>Aljabar Linier (D)</li>
+    <li>Aljabar Linier (D): Adira Lasykaryan Nadine</li>
     <li>Logika Matematika (C)</li>
     <li>Kalkulus 1 IUP Ulang (115)</li>
     <li>Kalkulus 1 IUP (64)</li>
