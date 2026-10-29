@@ -140,15 +140,21 @@ Hal Penting Terkait Otentikasi (`git push`). Karena Colab tidak menyimpan sesi l
 
 Untuk repositori milik akun Bapak sendiri, gunakan **fine-grained personal access token**:
 <ol>
-<li>Buka [pengaturan token GitHub](https://github.com/settings/personal-access-tokens).</li>
-<li>Pilih **Generate new token**.</li>
+<li>Klik avatar, kemudian pilih settings. Setelah itu pilih Credentials.</li>
+<li>Pilih <b>Generate new token</b>.</li>
 <li>Isi nama, misalnya `Colab-LaTeX`.</li>
 <li>Tentukan masa berlaku token.</li>
-<li>Pada **Resource owner**, pilih pemilik repositori.</li>
-<li>Pada **Repository access**, pilih **Only select repositories**, kemudian pilih repositori LaTeX.</li>
-<li>Pada **Repository permissions**, atur **Contents -- Read-only**.</li>
+<li>Pada <b>Resource owner</b>, pilih pemilik repositori.</li>
+<li>Pada <b>Repository access</b>, pilih <b>Only select repositories</b>, kemudian pilih repositori LaTeX.</li>
+<li>Pada <b>Repository permissions</b>, atur <b>Contents -- Read-only</b>.</li>
 <li>Buat token dan salin nilainya.</li>
 </ol>
+
+Token dapat digunakan untuk mengakses repositori privat dengan perintah berikut:
+
+```
+!git clone https://USERNAME:TOKEN_GITHUB@github.com/PEMILIK/NAMA_REPOSITORI.git
+```
 
 # GitLab
 
