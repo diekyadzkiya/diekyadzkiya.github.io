@@ -43,6 +43,52 @@ result = CheckSatisfiability(f_sat, 0.001)
 print(result)
 ```
 
+## Google Colab
+
+Berdasarkan [tautan](https://github.com/dreal/dreal4), lakukan perintah berikut
+
+```
+!sudo apt-get install curl
+!curl -fsSL https://raw.githubusercontent.com/dreal/dreal4/master/setup/ubuntu/22.04/install.sh | sudo bash
+```
+
+Instal alat kompilasi
+
+```
+!apt-get install -y build-essential cmake pkg-config
+```
+
+Konfigurasi direktori dReal
+
+```
+import os
+
+os.environ["PKG_CONFIG_PATH"] = (
+    "/opt/dreal/4.21.06.2/lib/pkgconfig:"
+    "/opt/libibex/2.7.4/share/pkgconfig:"
+    + os.environ.get("PKG_CONFIG_PATH", "")
+)
+
+!pkg-config dreal --modversion
+!pkg-config dreal --cflags --libs
+```
+
+Jika `pkg-config` berhasil menemukan dReal, kita dapat melanjutkan.
+
+Unduh contoh resmi dan kompilasi
+
+```
+!git clone https://github.com/dreal/dreal-cmake-example-project.git
+!cmake -S dreal-cmake-example-project -B dreal-cmake-example-project/build
+!cmake --build dreal-cmake-example-project/build
+```
+
+Jalankan program
+
+```
+!./dreal-cmake-example-project/build/check_sat
+```
+
 # GitHub
 
 ## Google Colab
