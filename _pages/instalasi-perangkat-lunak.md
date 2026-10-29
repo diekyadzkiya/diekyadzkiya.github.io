@@ -163,14 +163,20 @@ Token dapat digunakan untuk mengakses repositori privat dengan perintah berikut:
 Untuk contoh ini, gunakan PAT dengan scope read_repository:
 <ol>
 <li>Login ke GitLab.</li>
-<li>Klik avatar -- **Edit profile**.</li>
-<li>Pilih **Access -- Personal access tokens**.</li>
-<li>Pada tampilan yang menyediakan pilihan jenis token, pilih **Generate token -- Legacy token**.</li>
+<li>Klik avatar -- <b>Edit profile</b>.</li>
+<li>Pilih <b>Access -- Personal access tokens</b>.</li>
+<li>Pada tampilan yang menyediakan pilihan jenis token, pilih <b>Generate token -- Legacy token</b>.</li>
 <li>Beri nama, misalnya `Colab-LaTeX`.</li>
 <li>Tentukan tanggal kedaluwarsa.</li>
 <li>Centang `read_repository`.</li>
 <li>Buat token dan segera salin nilainya.</li>
 </ol>
+
+Token dapat digunakan untuk mengakses repositori privat dengan perintah berikut:
+
+```
+!git clone https://USERNAME:TOKEN_GITLAB@gitlab.com/PEMILIK/NAMA_REPOSITORI.git
+```
 
 # LaTeX
 
