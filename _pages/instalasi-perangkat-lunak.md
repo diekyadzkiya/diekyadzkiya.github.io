@@ -136,6 +136,36 @@ Hal Penting Terkait Otentikasi (`git push`). Karena Colab tidak menyimpan sesi l
 !git push origin main
 ```
 
+## Token
+
+Untuk repositori milik akun Bapak sendiri, gunakan **fine-grained personal access token**:
+<ol>
+<li>Buka [pengaturan token GitHub](https://github.com/settings/personal-access-tokens).</li>
+<li>Pilih **Generate new token**.</li>
+<li>Isi nama, misalnya `Colab-LaTeX`.</li>
+<li>Tentukan masa berlaku token.</li>
+<li>Pada **Resource owner**, pilih pemilik repositori.</li>
+<li>Pada **Repository access**, pilih **Only select repositories**, kemudian pilih repositori LaTeX.</li>
+<li>Pada **Repository permissions**, atur **Contents -- Read-only**.</li>
+<li>Buat token dan salin nilainya.</li>
+</ol>
+
+# GitLab
+
+## Token
+
+Untuk contoh ini, gunakan PAT dengan scope read_repository:
+<ol>
+<li>Login ke GitLab.</li>
+<li>Klik avatar -- **Edit profile**.</li>
+<li>Pilih **Access -- Personal access tokens**.</li>
+<li>Pada tampilan yang menyediakan pilihan jenis token, pilih **Generate token -- Legacy token**.</li>
+<li>Beri nama, misalnya `Colab-LaTeX`.</li>
+<li>Tentukan tanggal kedaluwarsa.</li>
+<li>Centang `read_repository`.</li>
+<li>Buat token dan segera salin nilainya.</li>
+</ol>
+
 # LaTeX
 
 ## Google Colab
