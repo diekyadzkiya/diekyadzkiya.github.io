@@ -133,5 +133,6 @@ description: beberapa tautan penting
 - [MethodsX](https://www.sciencedirect.com/journal/methodsx)
 - [Results in Control and Optimization](https://www.sciencedirect.com/journal/results-in-control-and-optimization)
 - [Results in Engineering](https://www.sciencedirect.com/journal/results-in-engineering)
+- [Results in Nonlinear Analysis](https://nonlinear-analysis.com/index.php/pub)
 - [Statistics, Optimization & Information Computing](http://www.iapress.org/index.php/soic)
 - [Trends in Sciences](https://tis.wu.ac.th/tishome/)
