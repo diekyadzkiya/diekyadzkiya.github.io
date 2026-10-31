@@ -15,6 +15,11 @@ description: tuan rumah penyelenggaraan
   </thead>
   <tbody>
     <tr>
+      <td>01/11/2026</td>
+      <td>Musholla An-Nur</td>
+      <td>Putra Bangsa</td>
+    </tr>
+    <tr>
       <td>25/10/2026</td>
       <td>Bpk Sumber</td>
       <td>Putra Bangsa 3 Blok B No. 6</td>
