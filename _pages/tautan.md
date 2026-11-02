@@ -83,6 +83,7 @@ description: beberapa tautan penting
 - [HYCON-EECI, Spring 2012 - Murray Wiki](https://murray.cds.caltech.edu/HYCON-EECI,_Spring_2012)
 - [Introduction to Codespaces](https://www.youtube.com/playlist?list=PLmsFUfdnGr3wTl-NCblzcrEv2lFSX975-/)
 - [IslamicFinder](https://www.islamicfinder.org/)
+- [John Watrous](https://jhwatrous.github.io/)
 - [LaTeX to Image converter](https://latex2image.joeraut.com/)
 - [Library Genesis+](https://libgen.im/)
 - [Limerse](https://limerse.com/)
