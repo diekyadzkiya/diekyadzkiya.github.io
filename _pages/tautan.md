@@ -39,6 +39,7 @@ description: beberapa tautan penting
 
 - [al-folio](https://alshedivat.github.io/al-folio/)
 - [Andy Stapleton](https://www.youtube.com/@DrAndyStapleton)
+- [An overview on control theory for (max,plus) linear systems](https://perso-laris.univ-angers.fr/%7Ehardouin/TalkBH2014.pdf)
 - [Arena AI](https://arena.ai/)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [Ayo Produktif: NotebookLM Solusi Riset Akademik Tanpa Halusinasi, Moses L. Singgih](https://youtu.be/LTKNYvZs-TY?si=-EfABqk4BhEy1zxK)
