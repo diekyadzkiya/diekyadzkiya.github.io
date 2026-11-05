@@ -13,7 +13,7 @@ description: beberapa hal yang ingin dikerjakan
     <li>Kalkulus 1 IUP (65)</li>
     <li>Topik Aljabar Terapan (A)</li>
     <li>Kapita Selekta Aljabar (A)</li>
-    <li>Aljabar Linier (D): Adira Lasykaryan Nadine</li>
+    <li>Aljabar Linier (D)</li>
     <li>Logika Matematika (C)</li>
     <li>Kalkulus 1 IUP Ulang (115)</li>
     <li>Kalkulus 1 IUP (64)</li>
@@ -54,19 +54,17 @@ description: beberapa hal yang ingin dikerjakan
   <li>Indihome 1523 1024 8896</li>
   <li>Kendaraan: Pajak, SIM</li>
   <li>PBB: Putra Bangsa 357804000601503620, Taman Gunung Anyar 357804200401314960, Lingkar Timur 351507000600504780</li>
-  <li>Perawatan Makam</li>
+  <li>Perawatan Makam (Juli)</li>
   <li>PDAM: Putra Bangsa 1181598, Taman Gunung Anyar 1172266, Sadang Serang 00107700190</li>
   <li>PGN 00447383</li>
   <li>PLN: Putra Bangsa 14307268145, Sadang Serang 01115122481</li>
+  <li>Transfer Faiq dan Millah</li>
+  <li>Rekap keuangan pondok pesantren</li>
 </ul>
 
 # Lainnya
 
 <ul>
-  <li>Automate the Boring Stuff with Python: Chapter 6, Value Updates</li>
-  <li>Control of Discrete-Event Systems</li>
-  <li>Duolingo: French</li>
-  <li>ME 702 - Computational Fluid Dynamics</li>
   <li>FUNSAM</li>
   <ul>
     <li>Menghubungi Pak Grasianto. Isi form.</li>
