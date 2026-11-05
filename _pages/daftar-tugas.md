@@ -51,12 +51,12 @@ description: beberapa hal yang ingin dikerjakan
 # Rutin
 
 <ul>
-  <li>Indihome 1523 1024 8896</li>
+  <li>Indihome 1523 1024 8896 (BSINet: Pembayaran, Internet / TV Kabel, Indihome)</li>
   <li>Kendaraan: Pajak, SIM</li>
-  <li>PBB: Putra Bangsa 357804000601503620, Taman Gunung Anyar 357804200401314960, Lingkar Timur 351507000600504780</li>
-  <li>Perawatan Makam (Juli)</li>
+  <li>PBB: Putra Bangsa 357804000601503620, Taman Gunung Anyar 357804200401314960, Lingkar Timur 351507000600504780 (Mei 2027)</li>
+  <li>Perawatan Makam (Juli 2027)</li>
   <li>PDAM: Putra Bangsa 1181598, Taman Gunung Anyar 1172266, Sadang Serang 00107700190</li>
-  <li>PGN 00447383</li>
+  <li>PGN 00447383 (BSINet: Pembayaran, Perusahaan Gas Negara (PGN))</li>
   <li>PLN: Putra Bangsa 14307268145, Sadang Serang 01115122481</li>
   <li>Transfer Faiq dan Millah</li>
   <li>Rekap keuangan pondok pesantren</li>
