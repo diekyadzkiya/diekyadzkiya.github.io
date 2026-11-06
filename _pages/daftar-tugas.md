@@ -27,6 +27,7 @@ description: beberapa hal yang ingin dikerjakan
     <li>Imam Fauzi</li>
     <li>Mohammad Rohim</li>
     <li>Muhammad Farisan Avianto</li>
+    <li>Audi Indah Fitria</li>
   </ul>
   <li>Penguji</li>
 </ul>
